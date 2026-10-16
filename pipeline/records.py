@@ -46,18 +46,21 @@ def dedupe(recs: list[dict]) -> list[dict]:
 
 
 def load_links(path: str = LINKS_CSV) -> dict[str, dict]:
-    """links.csv columns: id or path, provider, video_id, match."""
+    """links.csv columns: id or path, provider, video_id, url, match, duration_delta_s."""
     if not os.path.exists(path):
         return {}
     links = {}
     with open(path, newline="", encoding="utf-8") as f:
         for row in csv.DictReader(f):
-            key = (row.get("id") or row.get("path") or "").strip()
+            key = (row.get("id") or row.get("path") or "").strip().removesuffix(".srt")
             if key and row.get("video_id", "").strip():
                 links[key] = {
                     "provider": row.get("provider", "youtube").strip() or "youtube",
                     "id": row["video_id"].strip(),
+                    "url": (row.get("url") or "").strip() or None,
                     "match": (row.get("match") or "manual").strip(),
+                    # A recording much shorter or longer than the transcript is a different cut, so offsets drift.
+                    "timestamps": abs(float(row.get("duration_delta_s") or 0)) <= 60,
                 }
     return links
 

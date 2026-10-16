@@ -24,10 +24,23 @@ def year(r: dict) -> str:
     return r["date"][:4] if r["date"] else "Undated"
 
 
+AT_TIME = {
+    "youtube": lambda url, s: f"{url}&t={s}s",
+    "rumble": lambda url, s: f"{url}?start={s}",
+    "podcast": lambda url, s: f"{url}#t={s // 60}:{s % 60:02d}",
+}
+
+
 def video_url(video: dict | None, sec: int | None = None) -> str | None:
-    if not video or video.get("provider") != "youtube" or not video.get("id"):
+    if not video:
         return None
-    return f"https://www.youtube.com/watch?v={video['id']}" + (f"&t={sec}s" if sec else "")
+    url = video.get("url") or (video.get("provider") == "youtube" and f"https://www.youtube.com/watch?v={video['id']}")
+    if not url:
+        return None
+    at = AT_TIME.get(video["provider"])
+    if sec is not None and at and video.get("timestamps", True):
+        return at(url, sec)
+    return None if sec is not None else url
 
 
 def page(base: str, title: str, body: str, beacon: str, head: str = "") -> str:
