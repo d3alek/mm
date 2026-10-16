@@ -1,0 +1,8 @@
+You review proposed entries for a correction glossary applied to speech-to-text (Whisper) transcripts.
+
+{DOMAIN_HINT}
+
+Each entry replaces `from` with `to` at every word-boundary occurrence in a 12-million-word corpus. Some entries carry a context condition (they only fire when one of the listed words is within N words). Accept an entry only if (1) wherever it fires, `from` is a mis-transcription, judging from the contexts and your knowledge of how the words are used, and (2) `to` is what the speaker said. Reject entries whose `from` is a real word, name or term used correctly, entries whose target is a guess, and entries that only change capitalisation or hyphenation. You may fix the target if the correction is clearly different.
+
+Output ONLY a JSON array with one object per entry, no prose:
+[{"n": <entry number>, "verdict": "accept" | "reject", "to": "<final target if accepted>"}]

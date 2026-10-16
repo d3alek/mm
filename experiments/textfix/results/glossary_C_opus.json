@@ -1,0 +1,6884 @@
+[
+ {
+  "from": "vimrigy",
+  "to": "Vimergy",
+  "source": "opus+review"
+ },
+ {
+  "from": "vimrgy",
+  "to": "Vimergy",
+  "source": "opus+review"
+ },
+ {
+  "from": "vimmergy",
+  "to": "Vimergy",
+  "source": "opus+review"
+ },
+ {
+  "from": "vimpergy",
+  "to": "Vimergy",
+  "source": "opus+review"
+ },
+ {
+  "from": "vivergy",
+  "to": "Vimergy",
+  "source": "opus+review"
+ },
+ {
+  "from": "vimbergy",
+  "to": "Vimergy",
+  "source": "opus+review"
+ },
+ {
+  "from": "vimurgy",
+  "to": "Vimergy",
+  "source": "opus+review"
+ },
+ {
+  "from": "Medical Meeting",
+  "to": "Medical Medium",
+  "source": "opus+review"
+ },
+ {
+  "from": "Medical Median",
+  "to": "Medical Medium",
+  "source": "opus+review"
+ },
+ {
+  "from": "Epstein bar",
+  "to": "Epstein-Barr",
+  "source": "opus+review"
+ },
+ {
+  "from": "methicobalamin",
+  "to": "methylcobalamin",
+  "source": "opus+review"
+ },
+ {
+  "from": "adenosilcobalamin",
+  "to": "adenosylcobalamin",
+  "source": "opus+review"
+ },
+ {
+  "from": "monolating",
+  "to": "mono eating",
+  "source": "opus+review"
+ },
+ {
+  "from": "lycine",
+  "to": "lysine",
+  "source": "opus+review"
+ },
+ {
+  "from": "dolce",
+  "to": "dulse",
+  "source": "opus+review"
+ },
+ {
+  "from": "dulce",
+  "to": "dulse",
+  "source": "opus+review"
+ },
+ {
+  "from": "mullen",
+  "to": "mullein",
+  "source": "opus+review"
+ },
+ {
+  "from": "organite",
+  "to": "orgonite",
+  "source": "opus+review"
+ },
+ {
+  "from": "vimrigi",
+  "to": "Vimergy",
+  "source": "opus+review"
+ },
+ {
+  "from": "vimraji",
+  "to": "Vimergy",
+  "source": "opus+review"
+ },
+ {
+  "from": "vimra g",
+  "to": "Vimergy",
+  "source": "opus+review"
+ },
+ {
+  "from": "strepococcus",
+  "to": "Streptococcus",
+  "source": "opus+review"
+ },
+ {
+  "from": "medicalmeme",
+  "to": "medicalmedium",
+  "source": "opus+review"
+ },
+ {
+  "from": "medicalmean",
+  "to": "medicalmedium",
+  "source": "opus+review"
+ },
+ {
+  "from": "megajuicers",
+  "to": "OmegaJuicers",
+  "source": "opus+review"
+ },
+ {
+  "from": "chorella",
+  "to": "chlorella",
+  "source": "opus+review"
+ },
+ {
+  "from": "monoclens",
+  "to": "mono cleanse",
+  "source": "opus+review"
+ },
+ {
+  "from": "irwan",
+  "to": "Erewhon",
+  "source": "opus+review",
+  "context": [
+   "market",
+   "juice",
+   "smoothie",
+   "store",
+   "press",
+   "medical",
+   "medium",
+   "free",
+   "gifts",
+   "shelf",
+   "shelves",
+   "vimergy",
+   "celery"
+  ],
+  "window": 10
+ },
+ {
+  "from": "vimorgy",
+  "to": "Vimergy",
+  "source": "opus+review"
+ },
+ {
+  "from": "vimrg",
+  "to": "Vimergy",
+  "source": "opus+review"
+ },
+ {
+  "from": "vemmergy",
+  "to": "Vimergy",
+  "source": "opus+review"
+ },
+ {
+  "from": "vimor g",
+  "to": "Vimergy",
+  "source": "opus+review"
+ },
+ {
+  "from": "bimber gym",
+  "to": "Vimergy",
+  "source": "opus+review"
+ },
+ {
+  "from": "bimber gene",
+  "to": "Vimergy",
+  "source": "opus+review"
+ },
+ {
+  "from": "medicalme.com",
+  "to": "medicalmedium.com",
+  "source": "opus+review"
+ },
+ {
+  "from": "monoclense",
+  "to": "mono cleanse",
+  "source": "opus+review"
+ },
+ {
+  "from": "monoclans",
+  "to": "mono cleanse",
+  "source": "opus+review"
+ },
+ {
+  "from": "mthfrg",
+  "to": "MTHFR gene",
+  "source": "opus+review"
+ },
+ {
+  "from": "eyebrite",
+  "to": "eyebright",
+  "source": "opus+review"
+ },
+ {
+  "from": "weymans",
+  "to": "Wegmans",
+  "source": "opus+review"
+ },
+ {
+  "from": "erwan",
+  "to": "Erewhon",
+  "source": "opus+review"
+ },
+ {
+  "from": "dals",
+  "to": "dulse",
+  "source": "opus+review",
+  "context": [
+   "spirulina",
+   "cilantro",
+   "barley",
+   "atlantic",
+   "smoothie",
+   "detox",
+   "metal",
+   "blueberry",
+   "blueberries"
+  ],
+  "window": 10
+ },
+ {
+  "from": "monocleans",
+  "to": "mono cleanse",
+  "source": "opus+review"
+ },
+ {
+  "from": "medicalmeem",
+  "to": "medicalmedium",
+  "source": "opus+review"
+ },
+ {
+  "from": "medicalmead",
+  "to": "medicalmedium",
+  "source": "opus+review"
+ },
+ {
+  "from": "applepodcast",
+  "to": "Apple Podcasts",
+  "source": "opus+review"
+ },
+ {
+  "from": "emergy",
+  "to": "Vimergy",
+  "source": "opus+review"
+ },
+ {
+  "from": "vimorji",
+  "to": "Vimergy",
+  "source": "opus+review"
+ },
+ {
+  "from": "vimera g",
+  "to": "Vimergy",
+  "source": "opus+review"
+ },
+ {
+  "from": "vimber g",
+  "to": "Vimergy",
+  "source": "opus+review"
+ },
+ {
+  "from": "vimper g",
+  "to": "Vimergy",
+  "source": "opus+review"
+ },
+ {
+  "from": "vimrig",
+  "to": "Vimergy",
+  "source": "opus+review"
+ },
+ {
+  "from": "vimragy",
+  "to": "Vimergy",
+  "source": "opus+review"
+ },
+ {
+  "from": "charela",
+  "to": "chlorella",
+  "source": "opus+review"
+ },
+ {
+  "from": "salicyclic",
+  "to": "salicylic",
+  "source": "opus+review"
+ },
+ {
+  "from": "strepococcal",
+  "to": "streptococcal",
+  "source": "opus+review"
+ },
+ {
+  "from": "ifloaters",
+  "to": "eye floaters",
+  "source": "opus+review"
+ },
+ {
+  "from": "sebo",
+  "to": "SIBO",
+  "source": "opus+review"
+ },
+ {
+  "from": "etis",
+  "to": "UTIs",
+  "source": "opus+review",
+  "context": [
+   "chronic",
+   "chronically",
+   "years",
+   "infections",
+   "sinus"
+  ],
+  "window": 6
+ },
+ {
+  "from": "vimrigine",
+  "to": "Vimergy",
+  "source": "opus+review"
+ },
+ {
+  "from": "bimbergy",
+  "to": "Vimergy",
+  "source": "opus+review"
+ },
+ {
+  "from": "bimmergy",
+  "to": "Vimergy",
+  "source": "opus+review"
+ },
+ {
+  "from": "vimogy",
+  "to": "Vimergy",
+  "source": "opus+review"
+ },
+ {
+  "from": "vimersi",
+  "to": "Vimergy",
+  "source": "opus+review"
+ },
+ {
+  "from": "vimorgi",
+  "to": "Vimergy",
+  "source": "opus+review"
+ },
+ {
+  "from": "megajucers",
+  "to": "omegajuicers",
+  "source": "opus+review"
+ },
+ {
+  "from": "omegajucers",
+  "to": "omegajuicers",
+  "source": "opus+review"
+ },
+ {
+  "from": "comative",
+  "to": "calmative",
+  "source": "opus+review"
+ },
+ {
+  "from": "psilocobalamin",
+  "to": "cyanocobalamin",
+  "source": "opus+review"
+ },
+ {
+  "from": "adenosyl cabalamin",
+  "to": "adenosylcobalamin",
+  "source": "opus+review"
+ },
+ {
+  "from": "septo",
+  "to": "zepto",
+  "source": "opus+review",
+  "context": [
+   "nano",
+   "metal",
+   "metals",
+   "size",
+   "yacto",
+   "tiny",
+   "particles",
+   "small"
+  ],
+  "window": 8
+ },
+ {
+  "from": "pataya",
+  "to": "pitaya",
+  "source": "opus+review"
+ },
+ {
+  "from": "bataya",
+  "to": "pitaya",
+  "source": "opus+review"
+ },
+ {
+  "from": "batai",
+  "to": "pitaya",
+  "source": "opus+review",
+  "context": [
+   "dragon",
+   "fruit",
+   "bananas",
+   "banana",
+   "smoothie",
+   "here",
+   "pitaya"
+  ],
+  "window": 8
+ },
+ {
+  "from": "set of megalovirus",
+  "to": "cytomegalovirus",
+  "source": "opus+review"
+ },
+ {
+  "from": "megalovirus",
+  "to": "cytomegalovirus",
+  "source": "opus+review"
+ },
+ {
+  "from": "cellarages juice",
+  "to": "celery juice",
+  "source": "opus+review"
+ },
+ {
+  "from": "cellarages",
+  "to": "celery juice",
+  "source": "opus+review"
+ },
+ {
+  "from": "medical meem",
+  "to": "Medical Medium",
+  "source": "opus+review"
+ },
+ {
+  "from": "zinx",
+  "to": "zincs",
+  "source": "opus+review"
+ },
+ {
+  "from": "sorolens",
+  "to": "psoralens",
+  "source": "opus+review"
+ },
+ {
+  "from": "liposoma",
+  "to": "liposomal",
+  "source": "opus+review"
+ },
+ {
+  "from": "vemurgy",
+  "to": "Vimergy",
+  "source": "opus+review"
+ },
+ {
+  "from": "vimorgie",
+  "to": "Vimergy",
+  "source": "opus+review"
+ },
+ {
+  "from": "femmergy",
+  "to": "Vimergy",
+  "source": "opus+review"
+ },
+ {
+  "from": "strep to coctus",
+  "to": "streptococcus",
+  "source": "opus+review"
+ },
+ {
+  "from": "fascial nerve",
+  "to": "facial nerve",
+  "source": "opus+review"
+ },
+ {
+  "from": "fascial nerves",
+  "to": "facial nerves",
+  "source": "opus+review"
+ },
+ {
+  "from": "modo eating",
+  "to": "mono eating",
+  "source": "opus+review"
+ },
+ {
+  "from": "hyperglossal",
+  "to": "hypoglossal",
+  "source": "opus+review"
+ },
+ {
+  "from": "medicalmeeting",
+  "to": "medicalmedium",
+  "source": "opus+review"
+ },
+ {
+  "from": "dermat toxin",
+  "to": "dermatoxin",
+  "source": "opus+review"
+ },
+ {
+  "from": "kumarins",
+  "to": "coumarins",
+  "source": "opus+review"
+ },
+ {
+  "from": "zealite",
+  "to": "zeolite",
+  "source": "opus+review"
+ },
+ {
+  "from": "cyan cabalamin",
+  "to": "cyanocobalamin",
+  "source": "opus+review"
+ },
+ {
+  "from": "cabalamin",
+  "to": "cobalamin",
+  "source": "opus+review"
+ },
+ {
+  "from": "kanker",
+  "to": "canker",
+  "source": "opus+review"
+ },
+ {
+  "from": "scragglers",
+  "to": "stragglers",
+  "source": "opus+review"
+ },
+ {
+  "from": "liposomacy",
+  "to": "liposomal C",
+  "source": "opus+review"
+ },
+ {
+  "from": "pariformis",
+  "to": "piriformis",
+  "source": "opus+review"
+ },
+ {
+  "from": "dimmergy",
+  "to": "Vimergy",
+  "source": "opus+review"
+ },
+ {
+  "from": "bimurgy",
+  "to": "Vimergy",
+  "source": "opus+review"
+ },
+ {
+  "from": "vemrogy",
+  "to": "Vimergy",
+  "source": "opus+review"
+ },
+ {
+  "from": "dols",
+  "to": "dulse",
+  "source": "opus+review"
+ },
+ {
+  "from": "shalat",
+  "to": "shilajit",
+  "source": "opus+review",
+  "context": [
+   "metals",
+   "metal",
+   "remove",
+   "detox"
+  ],
+  "window": 10
+ },
+ {
+  "from": "lubus",
+  "to": "lupus",
+  "source": "opus+review",
+  "context": [
+   "free",
+   "celery"
+  ],
+  "window": 3
+ },
+ {
+  "from": "cytomegavirus",
+  "to": "cytomegalovirus",
+  "source": "opus+review"
+ },
+ {
+  "from": "lymphodema",
+  "to": "lymphedema",
+  "source": "opus+review"
+ },
+ {
+  "from": "padiarco",
+  "to": "pau d'arco",
+  "source": "opus+review"
+ },
+ {
+  "from": "cleanse the huel",
+  "to": "Cleanse to Heal",
+  "source": "opus+review"
+ },
+ {
+  "from": "apple cytopinegar",
+  "to": "apple cider vinegar",
+  "source": "opus+review"
+ },
+ {
+  "from": "uncentered",
+  "to": "uncensored",
+  "source": "opus+review",
+  "context": [
+   "version",
+   "platform",
+   "podcast"
+  ],
+  "window": 4
+ },
+ {
+  "from": "omegageezers",
+  "to": "OmegaJuicers",
+  "source": "opus+review"
+ },
+ {
+  "from": "heyhouseradio",
+  "to": "hayhouseradio",
+  "source": "opus+review"
+ },
+ {
+  "from": "kakao",
+  "to": "cacao",
+  "source": "opus+review"
+ },
+ {
+  "from": "cytomegla virus",
+  "to": "cytomegalovirus",
+  "source": "opus+review"
+ },
+ {
+  "from": "cytomegular virus",
+  "to": "cytomegalovirus",
+  "source": "opus+review"
+ },
+ {
+  "from": "dastrally",
+  "to": "dastardly",
+  "source": "opus+review"
+ },
+ {
+  "from": "vimrigin",
+  "to": "Vimergy",
+  "source": "opus+review"
+ },
+ {
+  "from": "vemmer g",
+  "to": "Vimergy",
+  "source": "opus+review"
+ },
+ {
+  "from": "vimr g1",
+  "to": "Vimergy",
+  "source": "opus+review"
+ },
+ {
+  "from": "shopweymans",
+  "to": "shopwymans",
+  "source": "opus+review"
+ },
+ {
+  "from": "catechismic",
+  "to": "cataclysmic",
+  "source": "opus+review"
+ },
+ {
+  "from": "trinkled",
+  "to": "trickled",
+  "source": "opus+review"
+ },
+ {
+  "from": "nettoleaf",
+  "to": "nettle leaf",
+  "source": "opus+review"
+ },
+ {
+  "from": "redenticides",
+  "to": "rodenticides",
+  "source": "opus+review"
+ },
+ {
+  "from": "scorbic acid",
+  "to": "ascorbic acid",
+  "source": "opus+review"
+ },
+ {
+  "from": "septicaine",
+  "to": "Septocaine",
+  "source": "opus+review"
+ },
+ {
+  "from": "methcobalamin",
+  "to": "methylcobalamin",
+  "source": "opus+review"
+ },
+ {
+  "from": "gadolidium",
+  "to": "gadolinium",
+  "source": "opus+review"
+ },
+ {
+  "from": "ibrite",
+  "to": "eyebright",
+  "source": "opus+review"
+ },
+ {
+  "from": "barbero",
+  "to": "Barbaro",
+  "source": "opus+review",
+  "context": [
+   "robbie",
+   "robby"
+  ],
+  "window": 3
+ },
+ {
+  "from": "miel",
+  "to": "Miele",
+  "source": "opus+review",
+  "context": [
+   "vacuum"
+  ],
+  "window": 8
+ },
+ {
+  "from": "hyperchondriac",
+  "to": "hypochondriac",
+  "source": "opus+review"
+ },
+ {
+  "from": "monoling",
+  "to": "mono eating",
+  "source": "opus+review"
+ },
+ {
+  "from": "misrealness",
+  "to": "mystery illness",
+  "source": "opus+review"
+ },
+ {
+  "from": "gorgogenic",
+  "to": "goitrogenic",
+  "source": "opus+review"
+ },
+ {
+  "from": "gortigenic",
+  "to": "goitrogenic",
+  "source": "opus+review"
+ },
+ {
+  "from": "gorgegenic",
+  "to": "goitrogenic",
+  "source": "opus+review"
+ },
+ {
+  "from": "gortigens",
+  "to": "goitrogens",
+  "source": "opus+review"
+ },
+ {
+  "from": "vimberji",
+  "to": "Vimergy",
+  "source": "opus+review"
+ },
+ {
+  "from": "vimurji",
+  "to": "Vimergy",
+  "source": "opus+review"
+ },
+ {
+  "from": "bemerji",
+  "to": "Vimergy",
+  "source": "opus+review"
+ },
+ {
+  "from": "vimrji",
+  "to": "Vimergy",
+  "source": "opus+review"
+ },
+ {
+  "from": "omegageucers",
+  "to": "omegajuicers",
+  "source": "opus+review"
+ },
+ {
+  "from": "spiralina",
+  "to": "spirulina",
+  "source": "opus+review"
+ },
+ {
+  "from": "brainsaber",
+  "to": "Brain Saver",
+  "source": "opus+review"
+ },
+ {
+  "from": "epsin bar",
+  "to": "Epstein-Barr",
+  "source": "opus+review"
+ },
+ {
+  "from": "testinal",
+  "to": "intestinal",
+  "source": "opus+review"
+ },
+ {
+  "from": "atenic",
+  "to": "actinic",
+  "source": "opus+review",
+  "context": [
+   "keratosis"
+  ],
+  "window": 3
+ },
+ {
+  "from": "bonnemi",
+  "to": "Bon Ami",
+  "source": "opus+review"
+ },
+ {
+  "from": "nicole lappin",
+  "to": "Nicole Lapin",
+  "source": "opus+review"
+ },
+ {
+  "from": "pittaya",
+  "to": "pitaya",
+  "source": "opus+review"
+ },
+ {
+  "from": "hashimotis",
+  "to": "Hashimoto's",
+  "source": "opus+review"
+ },
+ {
+  "from": "adenosycobalamin",
+  "to": "adenosylcobalamin",
+  "source": "opus+review"
+ },
+ {
+  "from": "adenosicobalamin",
+  "to": "adenosylcobalamin",
+  "source": "opus+review"
+ },
+ {
+  "from": "siocobalamin",
+  "to": "cyanocobalamin",
+  "source": "opus+review"
+ },
+ {
+  "from": "livorescu",
+  "to": "Liver Rescue",
+  "source": "opus+review"
+ },
+ {
+  "from": "liver esky",
+  "to": "Liver Rescue",
+  "source": "opus+review"
+ },
+ {
+  "from": "xenophils",
+  "to": "eosinophils",
+  "source": "opus+review"
+ },
+ {
+  "from": "bimergy",
+  "to": "Vimergy",
+  "source": "opus+review"
+ },
+ {
+  "from": "bimberji",
+  "to": "Vimergy",
+  "source": "opus+review"
+ },
+ {
+  "from": "vimrigypropylis",
+  "to": "Vimergy propolis",
+  "source": "opus+review"
+ },
+ {
+  "from": "vemmergy proclis",
+  "to": "Vimergy propolis",
+  "source": "opus+review"
+ },
+ {
+  "from": "proclis",
+  "to": "propolis",
+  "source": "opus+review"
+ },
+ {
+  "from": "benzinate",
+  "to": "benzoate",
+  "source": "opus+review"
+ },
+ {
+  "from": "cida vinegar",
+  "to": "cider vinegar",
+  "source": "opus+review"
+ },
+ {
+  "from": "cytop vinegar",
+  "to": "cider vinegar",
+  "source": "opus+review"
+ },
+ {
+  "from": "cytopineer",
+  "to": "cider vinegar",
+  "source": "opus+review"
+ },
+ {
+  "from": "medicalmedianpodcast",
+  "to": "Medical Medium Podcast",
+  "source": "opus+review"
+ },
+ {
+  "from": "medicalmeum",
+  "to": "medicalmedium",
+  "source": "opus+review"
+ },
+ {
+  "from": "atopic heartbeat",
+  "to": "ectopic heartbeat",
+  "source": "opus+review"
+ },
+ {
+  "from": "monoclons",
+  "to": "mono cleanses",
+  "source": "opus+review"
+ },
+ {
+  "from": "monoclon",
+  "to": "mono cleanse",
+  "source": "opus+review"
+ },
+ {
+  "from": "intervenous",
+  "to": "intravenous",
+  "source": "opus+review"
+ },
+ {
+  "from": "lantlantic dulse",
+  "to": "Atlantic dulse",
+  "source": "opus+review"
+ },
+ {
+  "from": "herbie simplex",
+  "to": "herpes simplex",
+  "source": "opus+review"
+ },
+ {
+  "from": "those cyanins",
+  "to": "those anthocyanins",
+  "source": "opus+review"
+ },
+ {
+  "from": "weyman's",
+  "to": "Wyman's",
+  "source": "opus+review",
+  "context": [
+   "blueberries",
+   "blueberry",
+   "frozen",
+   "wild"
+  ],
+  "window": 6
+ },
+ {
+  "from": "clorella",
+  "to": "chlorella",
+  "source": "opus+review"
+ },
+ {
+  "from": "sellerie just plays",
+  "to": "celery just plays",
+  "source": "opus+review"
+ },
+ {
+  "from": "subclad",
+  "to": "subclade",
+  "source": "opus+review"
+ },
+ {
+  "from": "acinophils",
+  "to": "eosinophils",
+  "source": "opus+review"
+ },
+ {
+  "from": "reynald syndrome",
+  "to": "Raynaud's syndrome",
+  "source": "opus+review"
+ },
+ {
+  "from": "planopolaris",
+  "to": "planopilaris",
+  "source": "opus+review"
+ },
+ {
+  "from": "bimur g",
+  "to": "Vimergy",
+  "source": "opus+review"
+ },
+ {
+  "from": "sparulina",
+  "to": "spirulina",
+  "source": "opus+review"
+ },
+ {
+  "from": "spiruline",
+  "to": "spirulina",
+  "source": "opus+review"
+ },
+ {
+  "from": "bacterian viruses",
+  "to": "bacteria and viruses",
+  "source": "opus+review"
+ },
+ {
+  "from": "dinosilcobalamin",
+  "to": "adenosylcobalamin",
+  "source": "opus+review"
+ },
+ {
+  "from": "monoleating",
+  "to": "mono eating",
+  "source": "opus+review"
+ },
+ {
+  "from": "monoclenz",
+  "to": "Mono Cleanse",
+  "source": "opus+review"
+ },
+ {
+  "from": "neto leaf",
+  "to": "nettle leaf",
+  "source": "opus+review"
+ },
+ {
+  "from": "natto leaf",
+  "to": "nettle leaf",
+  "source": "opus+review"
+ },
+ {
+  "from": "airwana",
+  "to": "Erewhon",
+  "source": "opus+review"
+ },
+ {
+  "from": "petrification",
+  "to": "putrefaction",
+  "source": "opus+review"
+ },
+ {
+  "from": "cuffler cells",
+  "to": "Kupffer cells",
+  "source": "opus+review"
+ },
+ {
+  "from": "cuffler",
+  "to": "Kupffer",
+  "source": "opus+review",
+  "context": [
+   "cells",
+   "liver",
+   "hepo"
+  ],
+  "window": 6
+ },
+ {
+  "from": "podiarco",
+  "to": "pau d'arco",
+  "source": "opus+review"
+ },
+ {
+  "from": "hothornberry",
+  "to": "hawthorn berry",
+  "source": "opus+review"
+ },
+ {
+  "from": "flourettes",
+  "to": "florets",
+  "source": "opus+review"
+ },
+ {
+  "from": "portabelle",
+  "to": "portobello",
+  "source": "opus+review"
+ },
+ {
+  "from": "yonana machine",
+  "to": "Yonanas machine",
+  "source": "opus+review"
+ },
+ {
+  "from": "attenic",
+  "to": "actinic",
+  "source": "opus+review"
+ },
+ {
+  "from": "atinic kurtosis",
+  "to": "actinic keratosis",
+  "source": "opus+review"
+ },
+ {
+  "from": "atinic",
+  "to": "actinic",
+  "source": "opus+review"
+ },
+ {
+  "from": "vimmerg",
+  "to": "Vimergy",
+  "source": "opus+review"
+ },
+ {
+  "from": "trideminal",
+  "to": "trigeminal",
+  "source": "opus+review"
+ },
+ {
+  "from": "medicalmedia.com",
+  "to": "medicalmedium.com",
+  "source": "opus+review"
+ },
+ {
+  "from": "blop",
+  "to": "blob",
+  "source": "opus+review"
+ },
+ {
+  "from": "adenocycobalamin",
+  "to": "adenosylcobalamin",
+  "source": "opus+review"
+ },
+ {
+  "from": "bucus",
+  "to": "mucus",
+  "source": "opus+review"
+ },
+ {
+  "from": "dysautotonia",
+  "to": "dysautonomia",
+  "source": "opus+review"
+ },
+ {
+  "from": "bocha squash",
+  "to": "kabocha squash",
+  "source": "opus+review"
+ },
+ {
+  "from": "reminences",
+  "to": "remnants",
+  "source": "opus+review"
+ },
+ {
+  "from": "misri",
+  "to": "mystery",
+  "source": "opus+review"
+ },
+ {
+  "from": "xenophilic",
+  "to": "eosinophilic",
+  "source": "opus+review"
+ },
+ {
+  "from": "dermatotoxin",
+  "to": "dermatoxin",
+  "source": "opus+review"
+ },
+ {
+  "from": "eligo",
+  "to": "vitiligo",
+  "source": "opus+review"
+ },
+ {
+  "from": "bitiligo",
+  "to": "vitiligo",
+  "source": "opus+review"
+ },
+ {
+  "from": "is invictor",
+  "to": "as in Victor",
+  "source": "opus+review"
+ },
+ {
+  "from": "dermotoxin",
+  "to": "dermatoxin",
+  "source": "opus+review"
+ },
+ {
+  "from": "shadowband",
+  "to": "shadowbanned",
+  "source": "opus+review"
+ },
+ {
+  "from": "vimorgene",
+  "to": "Vimergy",
+  "source": "opus+review"
+ },
+ {
+  "from": "cystin tumors",
+  "to": "cysts and tumors",
+  "source": "opus+review"
+ },
+ {
+  "from": "cystin nodules",
+  "to": "cysts and nodules",
+  "source": "opus+review"
+ },
+ {
+  "from": "panace",
+  "to": "PANDAS",
+  "source": "opus+review"
+ },
+ {
+  "from": "spleenectomy",
+  "to": "splenectomy",
+  "source": "opus+review"
+ },
+ {
+  "from": "glio cells",
+  "to": "glial cells",
+  "source": "opus+review"
+ },
+ {
+  "from": "miradol",
+  "to": "Maradol",
+  "source": "opus+review"
+ },
+ {
+  "from": "coffee macha t chocolate",
+  "to": "Coffee Matcha Tea Chocolate",
+  "source": "opus+review"
+ },
+ {
+  "from": "coffee macha chocolate",
+  "to": "Coffee Matcha Chocolate",
+  "source": "opus+review"
+ },
+ {
+  "from": "elysine",
+  "to": "L-lysine",
+  "source": "opus+review"
+ },
+ {
+  "from": "streptocontus",
+  "to": "Streptococcus",
+  "source": "opus+review"
+ },
+ {
+  "from": "exibis rhizus",
+  "to": "eczema psoriasis",
+  "source": "opus+review"
+ },
+ {
+  "from": "exibis rises",
+  "to": "eczema psoriasis",
+  "source": "opus+review"
+ },
+ {
+  "from": "exibis risis",
+  "to": "eczema psoriasis",
+  "source": "opus+review"
+ },
+ {
+  "from": "denosilcobalamin",
+  "to": "adenosylcobalamin",
+  "source": "opus+review"
+ },
+ {
+  "from": "stasticity",
+  "to": "elasticity",
+  "source": "opus+review"
+ },
+ {
+  "from": "monocleanser",
+  "to": "Mono Cleanse",
+  "source": "opus+review"
+ },
+ {
+  "from": "bemergy",
+  "to": "Vimergy",
+  "source": "opus+review"
+ },
+ {
+  "from": "unlead it",
+  "to": "unleaded",
+  "source": "opus+review"
+ },
+ {
+  "from": "macfs",
+  "to": "ME/CFS",
+  "source": "opus+review"
+ },
+ {
+  "from": "meweed",
+  "to": "MeWe",
+  "source": "opus+review"
+ },
+ {
+  "from": "vimriges",
+  "to": "Vimergy's",
+  "source": "opus+review"
+ },
+ {
+  "from": "visavictori",
+  "to": "V as in Victor, I",
+  "source": "opus+review"
+ },
+ {
+  "from": "candelini",
+  "to": "cannellini",
+  "source": "opus+review"
+ },
+ {
+  "from": "trinkle",
+  "to": "trickle",
+  "source": "opus+review"
+ },
+ {
+  "from": "dino silcobalamin",
+  "to": "adenosylcobalamin",
+  "source": "opus+review"
+ },
+ {
+  "from": "an expectorance",
+  "to": "an expectorant",
+  "source": "opus+review"
+ },
+ {
+  "from": "the expectorance",
+  "to": "the expectorant",
+  "source": "opus+review"
+ },
+ {
+  "from": "doing expectorance",
+  "to": "doing expectorants",
+  "source": "opus+review"
+ },
+ {
+  "from": "vimerge",
+  "to": "Vimergy",
+  "source": "opus+review"
+ },
+ {
+  "from": "predomitor",
+  "to": "pedometer",
+  "source": "opus+review"
+ },
+ {
+  "from": "daltz",
+  "to": "dulse",
+  "source": "opus+review"
+ },
+ {
+  "from": "medicalmeanpodcast",
+  "to": "medicalmediumpodcast",
+  "source": "opus+review"
+ },
+ {
+  "from": "eleocecal",
+  "to": "ileocecal",
+  "source": "opus+review"
+ },
+ {
+  "from": "vimeraji",
+  "to": "Vimergy",
+  "source": "opus+review"
+ },
+ {
+  "from": "polytheanol",
+  "to": "polyphenol",
+  "source": "opus+review"
+ },
+ {
+  "from": "gert",
+  "to": "GERD",
+  "source": "opus+review",
+  "context": [
+   "symptoms",
+   "years",
+   "stomach",
+   "reflux",
+   "acid",
+   "endometriosis"
+  ],
+  "window": 6
+ },
+ {
+  "from": "etopic",
+  "to": "ectopic",
+  "source": "opus+review"
+ },
+ {
+  "from": "vimbergi",
+  "to": "Vimergy",
+  "source": "opus+review"
+ },
+ {
+  "from": "innudated",
+  "to": "inundated",
+  "source": "opus+review"
+ },
+ {
+  "from": "adenocylcobalamin",
+  "to": "adenosylcobalamin",
+  "source": "opus+review"
+ },
+ {
+  "from": "monodytes",
+  "to": "monodiets",
+  "source": "opus+review"
+ },
+ {
+  "from": "than ligo",
+  "to": "vitiligo",
+  "source": "opus+review",
+  "context": [
+   "psoriasis",
+   "eczema"
+  ],
+  "window": 6
+ },
+ {
+  "from": "bonzo beans",
+  "to": "garbanzo beans",
+  "source": "opus+review"
+ },
+ {
+  "from": "periol dermatitis",
+  "to": "perioral dermatitis",
+  "source": "opus+review"
+ },
+ {
+  "from": "lestasticity",
+  "to": "elasticity",
+  "source": "opus+review"
+ },
+ {
+  "from": "margellons",
+  "to": "Morgellons",
+  "source": "opus+review"
+ },
+ {
+  "from": "vimma g",
+  "to": "Vimergy",
+  "source": "opus+review"
+ },
+ {
+  "from": "shopshop.wymans.com",
+  "to": "shop.wymans.com",
+  "source": "opus+review"
+ },
+ {
+  "from": "denosylcobalamin",
+  "to": "adenosylcobalamin",
+  "source": "opus+review"
+ },
+ {
+  "from": "indigested",
+  "to": "undigested",
+  "source": "opus+review"
+ },
+ {
+  "from": "luminati",
+  "to": "Illuminati",
+  "source": "opus+review"
+ },
+ {
+  "from": "chequia",
+  "to": "Czechia",
+  "source": "opus+review"
+ },
+ {
+  "from": "cleanix",
+  "to": "Kleenex",
+  "source": "opus+review"
+ },
+ {
+  "from": "dermotoxins",
+  "to": "dermatoxins",
+  "source": "opus+review"
+ },
+ {
+  "from": "lomacium",
+  "to": "lomatium",
+  "source": "opus+review"
+ },
+ {
+  "from": "fertiland",
+  "to": "fer-de-lance",
+  "source": "opus+review"
+ },
+ {
+  "from": "calandular",
+  "to": "glandular",
+  "source": "opus+review"
+ },
+ {
+  "from": "letrolytes",
+  "to": "electrolytes",
+  "source": "opus+review"
+ },
+ {
+  "from": "apodectomies",
+  "to": "appendectomies",
+  "source": "opus+review"
+ },
+ {
+  "from": "guylain beret",
+  "to": "Guillain-Barr\u00e9",
+  "source": "opus+review"
+ },
+ {
+  "from": "fugees",
+  "to": "Fujis",
+  "source": "opus+review",
+  "context": [
+   "apple",
+   "apples",
+   "delicious",
+   "honey",
+   "crisp",
+   "pink",
+   "ladies",
+   "gala"
+  ],
+  "window": 8
+ },
+ {
+  "from": "medical neum",
+  "to": "Medical Medium",
+  "source": "opus+review"
+ },
+ {
+  "from": "keppellini",
+  "to": "capellini",
+  "source": "opus+review"
+ },
+ {
+  "from": "suncor foods",
+  "to": "Suncore Foods",
+  "source": "opus+review"
+ },
+ {
+  "from": "methafolate",
+  "to": "methylfolate",
+  "source": "opus+review"
+ },
+ {
+  "from": "hypocyte glycemic",
+  "to": "hypoglycemic",
+  "source": "opus+review"
+ },
+ {
+  "from": "scorpic acid",
+  "to": "ascorbic acid",
+  "source": "opus+review"
+ },
+ {
+  "from": "vimrigelycine",
+  "to": "Vimergy L-lysine",
+  "source": "opus+review"
+ },
+ {
+  "from": "basalphils",
+  "to": "basophils",
+  "source": "opus+review"
+ },
+ {
+  "from": "coarsidin",
+  "to": "quercetin",
+  "source": "opus+review"
+ },
+ {
+  "from": "myelon",
+  "to": "myelin",
+  "source": "opus+review"
+ },
+ {
+  "from": "mucfs",
+  "to": "ME/CFS",
+  "source": "opus+review"
+ },
+ {
+  "from": "penicitis",
+  "to": "appendicitis",
+  "source": "opus+review",
+  "context": [
+   "appendix"
+  ],
+  "window": 8
+ },
+ {
+  "from": "omeliberry",
+  "to": "amla berry",
+  "source": "opus+review"
+ },
+ {
+  "from": "vimler g",
+  "to": "Vimergy",
+  "source": "opus+review"
+ },
+ {
+  "from": "chotsky",
+  "to": "tchotchke",
+  "source": "opus+review"
+ },
+ {
+  "from": "estercee",
+  "to": "Ester-C",
+  "source": "opus+review"
+ },
+ {
+  "from": "mochi",
+  "to": "matcha",
+  "source": "opus+review",
+  "context": [
+   "tea",
+   "coffee",
+   "caffeine"
+  ],
+  "window": 4
+ },
+ {
+  "from": "femurgy",
+  "to": "Vimergy",
+  "source": "opus+review"
+ },
+ {
+  "from": "maclemedium",
+  "to": "Medical Medium",
+  "source": "opus+review"
+ },
+ {
+  "from": "myriadic",
+  "to": "muriatic",
+  "source": "opus+review"
+ },
+ {
+  "from": "cleansah heal",
+  "to": "Cleanse to Heal",
+  "source": "opus+review"
+ },
+ {
+  "from": "a dima viral",
+  "to": "edema, viral",
+  "source": "opus+review"
+ },
+ {
+  "from": "clonics",
+  "to": "colonics",
+  "source": "opus+review"
+ },
+ {
+  "from": "symplex",
+  "to": "simplex",
+  "source": "opus+review"
+ },
+ {
+  "from": "a xenophilic esophilitis",
+  "to": "eosinophilic esophagitis",
+  "source": "opus+review"
+ },
+ {
+  "from": "esophilitis",
+  "to": "esophagitis",
+  "source": "opus+review"
+ },
+ {
+  "from": "parivascular",
+  "to": "perivascular",
+  "source": "opus+review"
+ },
+ {
+  "from": "whole clicky thing",
+  "to": "whole cliquey thing",
+  "source": "opus+review"
+ },
+ {
+  "from": "atlantic dolphs",
+  "to": "Atlantic dulse",
+  "source": "opus+review"
+ },
+ {
+  "from": "atlantic sea dolphs",
+  "to": "Atlantic sea dulse",
+  "source": "opus+review"
+ },
+ {
+  "from": "vizan victor",
+  "to": "V as in Victor",
+  "source": "opus+review"
+ },
+ {
+  "from": "dirkham's",
+  "to": "Dercum's",
+  "source": "opus+review"
+ },
+ {
+  "from": "panas",
+  "to": "PANDAS",
+  "source": "opus+review",
+  "context": [
+   "strep"
+  ],
+  "window": 8
+ },
+ {
+  "from": "interstitial stitis",
+  "to": "interstitial cystitis",
+  "source": "opus+review"
+ },
+ {
+  "from": "molen",
+  "to": "mullein",
+  "source": "opus+review",
+  "context": [
+   "herbs",
+   "leaf",
+   "nettle"
+  ],
+  "window": 6
+ },
+ {
+  "from": "bimrgy",
+  "to": "Vimergy",
+  "source": "opus+review"
+ },
+ {
+  "from": "meneers",
+  "to": "M\u00e9ni\u00e8re's",
+  "source": "opus+review"
+ },
+ {
+  "from": "gortrogenic",
+  "to": "goitrogenic",
+  "source": "opus+review"
+ },
+ {
+  "from": "set of meglovirus",
+  "to": "cytomegalovirus",
+  "source": "opus+review"
+ },
+ {
+  "from": "meglovirus",
+  "to": "cytomegalovirus",
+  "source": "opus+review"
+ },
+ {
+  "from": "sedomegalovirus",
+  "to": "cytomegalovirus",
+  "source": "opus+review"
+ },
+ {
+  "from": "duoden",
+  "to": "duodenum",
+  "source": "opus+review"
+ },
+ {
+  "from": "exome",
+  "to": "eczema",
+  "source": "opus+review",
+  "context": [
+   "heal"
+  ],
+  "window": 4
+ },
+ {
+  "from": "intermin fasting",
+  "to": "intermittent fasting",
+  "source": "opus+review"
+ },
+ {
+  "from": "medical mian",
+  "to": "Medical Medium",
+  "source": "opus+review"
+ },
+ {
+  "from": "thevimergy",
+  "to": "the Vimergy",
+  "source": "opus+review"
+ },
+ {
+  "from": "renault sogrins",
+  "to": "Raynaud's, Sjogren's",
+  "source": "opus+review"
+ },
+ {
+  "from": "librescu",
+  "to": "Liver Rescue",
+  "source": "opus+review"
+ },
+ {
+  "from": "levereski",
+  "to": "Liver Rescue",
+  "source": "opus+review"
+ },
+ {
+  "from": "transcemic attack",
+  "to": "transient ischemic attack",
+  "source": "opus+review"
+ },
+ {
+  "from": "methicobolamide",
+  "to": "methylcobalamin",
+  "source": "opus+review"
+ },
+ {
+  "from": "vimery g",
+  "to": "Vimergy",
+  "source": "opus+review"
+ },
+ {
+  "from": "vimery",
+  "to": "Vimergy",
+  "source": "opus+review"
+ },
+ {
+  "from": "vimg",
+  "to": "Vimergy",
+  "source": "opus+review"
+ },
+ {
+  "from": "hydroxycobalamin",
+  "to": "hydroxocobalamin",
+  "source": "opus+review"
+ },
+ {
+  "from": "psychobalamin",
+  "to": "cyanocobalamin",
+  "source": "opus+review"
+ },
+ {
+  "from": "silica balamin",
+  "to": "cyanocobalamin",
+  "source": "opus+review"
+ },
+ {
+  "from": "toxicalcium",
+  "to": "toxic calcium",
+  "source": "opus+review"
+ },
+ {
+  "from": "embroaching",
+  "to": "encroaching",
+  "source": "opus+review"
+ },
+ {
+  "from": "alpset of vinegar",
+  "to": "apple cider vinegar",
+  "source": "opus+review"
+ },
+ {
+  "from": "fungocides",
+  "to": "fungicides",
+  "source": "opus+review"
+ },
+ {
+  "from": "zeolikes",
+  "to": "zeolites",
+  "source": "opus+review"
+ },
+ {
+  "from": "zealike",
+  "to": "zeolite",
+  "source": "opus+review"
+ },
+ {
+  "from": "aphasia praxia",
+  "to": "aphasia, apraxia",
+  "source": "opus+review"
+ },
+ {
+  "from": "assessive thought shifter",
+  "to": "Obsessive Thought Shifter",
+  "source": "opus+review"
+ },
+ {
+  "from": "pippany's happen",
+  "to": "epiphanies happen",
+  "source": "opus+review"
+ },
+ {
+  "from": "getting clonic",
+  "to": "getting colonics",
+  "source": "opus+review"
+ },
+ {
+  "from": "lofactor nerve",
+  "to": "olfactory nerve",
+  "source": "opus+review"
+ },
+ {
+  "from": "stimulocochlear",
+  "to": "vestibulocochlear",
+  "source": "opus+review"
+ },
+ {
+  "from": "ampage",
+  "to": "amperage",
+  "source": "opus+review"
+ },
+ {
+  "from": "Vimriging",
+  "to": "Vimergy",
+  "source": "opus+review"
+ },
+ {
+  "from": "Dacon radish",
+  "to": "daikon radish",
+  "source": "opus+review"
+ },
+ {
+  "from": "gemino neuralgia",
+  "to": "trigeminal neuralgia",
+  "source": "opus+review"
+ },
+ {
+  "from": "Gemino Neurology",
+  "to": "trigeminal neuralgia",
+  "source": "opus+review"
+ },
+ {
+  "from": "Slandro",
+  "to": "cilantro",
+  "source": "opus+review"
+ },
+ {
+  "from": "acryl oil",
+  "to": "a krill oil",
+  "source": "opus+review"
+ },
+ {
+  "from": "vagaster",
+  "to": "vagus nerve",
+  "source": "opus+review"
+ },
+ {
+  "from": "Arleygrass Juice Pad",
+  "to": "barley grass juice powder",
+  "source": "opus+review"
+ },
+ {
+  "from": "Weibins",
+  "to": "Wyman's",
+  "source": "opus+review",
+  "context": [
+   "blueberries",
+   "blueberry",
+   "wild"
+  ],
+  "window": 8
+ },
+ {
+  "from": "kinkersores",
+  "to": "canker sores",
+  "source": "opus+review"
+ },
+ {
+  "from": "Vimbrgy",
+  "to": "Vimergy",
+  "source": "opus+review"
+ },
+ {
+  "from": "vibranji",
+  "to": "Vimergy",
+  "source": "opus+review"
+ },
+ {
+  "from": "hyperactrosis",
+  "to": "hyperhidrosis",
+  "source": "opus+review"
+ },
+ {
+  "from": "Vim Regi",
+  "to": "Vimergy",
+  "source": "opus+review"
+ },
+ {
+  "from": "radiactive",
+  "to": "radioactive",
+  "source": "opus+review"
+ },
+ {
+  "from": "volumous",
+  "to": "voluminous",
+  "source": "opus+review"
+ },
+ {
+  "from": "septoparticles",
+  "to": "zeptoparticles",
+  "source": "opus+review"
+ },
+ {
+  "from": "yactoparticles",
+  "to": "yoctoparticles",
+  "source": "opus+review"
+ },
+ {
+  "from": "epidectomy",
+  "to": "appendectomy",
+  "source": "opus+review"
+ },
+ {
+  "from": "Heddenless Chicken",
+  "to": "Headless Chicken",
+  "source": "opus+review"
+ },
+ {
+  "from": "iridation",
+  "to": "irradiation",
+  "source": "opus+review"
+ },
+ {
+  "from": "phytopchemical",
+  "to": "phytochemical",
+  "source": "opus+review"
+ },
+ {
+  "from": "phlebovines",
+  "to": "phlebotomists",
+  "source": "opus+review"
+ },
+ {
+  "from": "horoscopy",
+  "to": "fluoroscopy",
+  "source": "opus+review",
+  "context": [
+   "x-rays",
+   "mris",
+   "mri",
+   "scans",
+   "cat",
+   "testing",
+   "radiation"
+  ],
+  "window": 8
+ },
+ {
+  "from": "cacao consumage",
+  "to": "cacao consumption",
+  "source": "opus+review"
+ },
+ {
+  "from": "herpes zouser",
+  "to": "herpes zoster",
+  "source": "opus+review"
+ },
+ {
+  "from": "herpes zoustra",
+  "to": "herpes zoster",
+  "source": "opus+review"
+ },
+ {
+  "from": "zoustra virus",
+  "to": "zoster virus",
+  "source": "opus+review"
+ },
+ {
+  "from": "zouster virus",
+  "to": "zoster virus",
+  "source": "opus+review"
+ },
+ {
+  "from": "postules",
+  "to": "pustules",
+  "source": "opus+review"
+ },
+ {
+  "from": "eczema chorizes",
+  "to": "eczema psoriasis",
+  "source": "opus+review"
+ },
+ {
+  "from": "billberry",
+  "to": "bilberry",
+  "source": "opus+review"
+ },
+ {
+  "from": "fastering",
+  "to": "festering",
+  "source": "opus+review"
+ },
+ {
+  "from": "chronical ill",
+  "to": "chronically ill",
+  "source": "opus+review"
+ },
+ {
+  "from": "perineal dialysis",
+  "to": "peritoneal dialysis",
+  "source": "opus+review"
+ },
+ {
+  "from": "tercy engelhardt",
+  "to": "Terces Engelhart",
+  "source": "opus+review"
+ },
+ {
+  "from": "Tercey Englehart",
+  "to": "Terces Engelhart",
+  "source": "opus+review"
+ },
+ {
+  "from": "Hayas author",
+  "to": "Hay House author",
+  "source": "opus+review"
+ },
+ {
+  "from": "phytocemical",
+  "to": "phytochemical",
+  "source": "opus+review"
+ },
+ {
+  "from": "Bimurji",
+  "to": "Vimergy",
+  "source": "opus+review"
+ },
+ {
+  "from": "Vimrigidulse",
+  "to": "Vimergy Dulse",
+  "source": "opus+review"
+ },
+ {
+  "from": "Vimaging",
+  "to": "Vimergy",
+  "source": "opus+review"
+ },
+ {
+  "from": "topical seride",
+  "to": "topical steroid",
+  "source": "opus+review"
+ },
+ {
+  "from": "Blueberry Opar",
+  "to": "Blueberry Oat Bar",
+  "source": "opus+review"
+ },
+ {
+  "from": "cenophils",
+  "to": "eosinophils",
+  "source": "opus+review"
+ },
+ {
+  "from": "GTIs",
+  "to": "UTIs",
+  "source": "opus+review"
+ },
+ {
+  "from": "Neil Diamand",
+  "to": "Neil Diamond",
+  "source": "opus+review"
+ },
+ {
+  "from": "went solas",
+  "to": "went soulless",
+  "source": "opus+review"
+ },
+ {
+  "from": "polytheonol",
+  "to": "polyphenol",
+  "source": "opus+review"
+ },
+ {
+  "from": "vemregy",
+  "to": "Vimergy",
+  "source": "opus+review"
+ },
+ {
+  "from": "bimberge",
+  "to": "Vimergy",
+  "source": "opus+review"
+ },
+ {
+  "from": "limergy",
+  "to": "Vimergy",
+  "source": "opus+review"
+ },
+ {
+  "from": "vimrgv",
+  "to": "Vimergy",
+  "source": "opus+review"
+ },
+ {
+  "from": "vimrag",
+  "to": "Vimergy",
+  "source": "opus+review"
+ },
+ {
+  "from": "pitai",
+  "to": "pitaya",
+  "source": "opus+review"
+ },
+ {
+  "from": "electrite",
+  "to": "electrolyte",
+  "source": "opus+review"
+ },
+ {
+  "from": "eximus",
+  "to": "eczema",
+  "source": "opus+review"
+ },
+ {
+  "from": "cellulary juice",
+  "to": "celery juice",
+  "source": "opus+review"
+ },
+ {
+  "from": "cytomegaly virus",
+  "to": "cytomegalovirus",
+  "source": "opus+review"
+ },
+ {
+  "from": "betonite",
+  "to": "bentonite",
+  "source": "opus+review"
+ },
+ {
+  "from": "pregnazone",
+  "to": "prednisone",
+  "source": "opus+review"
+ },
+ {
+  "from": "medicalmedian",
+  "to": "medicalmedium",
+  "source": "opus+review"
+ },
+ {
+  "from": "planoplanaris",
+  "to": "planopilaris",
+  "source": "opus+review"
+ },
+ {
+  "from": "lactins",
+  "to": "lectins",
+  "source": "opus+review"
+ },
+ {
+  "from": "forewars",
+  "to": "forewords",
+  "source": "opus+review"
+ },
+ {
+  "from": "on IGNFB",
+  "to": "on IG and FB",
+  "source": "opus+review"
+ },
+ {
+  "from": "Mackel Medium",
+  "to": "Medical Medium",
+  "source": "opus+review"
+ },
+ {
+  "from": "Cleansy Heal",
+  "to": "Cleanse to Heal",
+  "source": "opus+review"
+ },
+ {
+  "from": "vimerick",
+  "to": "Vimergy",
+  "source": "opus+review"
+ },
+ {
+  "from": "Vimers eSpirulina",
+  "to": "Vimergy spirulina",
+  "source": "opus+review"
+ },
+ {
+  "from": "uncoffee enemas",
+  "to": "coffee enemas",
+  "source": "opus+review"
+ },
+ {
+  "from": "airvidic",
+  "to": "Ayurvedic",
+  "source": "opus+review"
+ },
+ {
+  "from": "vizenvictor",
+  "to": "V as in Victor",
+  "source": "opus+review"
+ },
+ {
+  "from": "zinc cholineate",
+  "to": "zinc picolinate",
+  "source": "opus+review"
+ },
+ {
+  "from": "zinc to cholineate",
+  "to": "zinc picolinate",
+  "source": "opus+review"
+ },
+ {
+  "from": "omegajoicers",
+  "to": "omegajuicers",
+  "source": "opus+review"
+ },
+ {
+  "from": "Ampy Williams",
+  "to": "Anthony William",
+  "source": "opus+review"
+ },
+ {
+  "from": "and scath",
+  "to": "and staph",
+  "source": "opus+review"
+ },
+ {
+  "from": "vimerti",
+  "to": "Vimergy",
+  "source": "opus+review"
+ },
+ {
+  "from": "vimmergl",
+  "to": "Vimergy",
+  "source": "opus+review"
+ },
+ {
+  "from": "olycine",
+  "to": "L-lysine",
+  "source": "opus+review"
+ },
+ {
+  "from": "methybolamin",
+  "to": "methylcobalamin",
+  "source": "opus+review"
+ },
+ {
+  "from": "maridol",
+  "to": "Maradol",
+  "source": "opus+review"
+ },
+ {
+  "from": "cytomegobirus",
+  "to": "cytomegalovirus",
+  "source": "opus+review"
+ },
+ {
+  "from": "trixaminal",
+  "to": "trigeminal",
+  "source": "opus+review"
+ },
+ {
+  "from": "emboshi",
+  "to": "umeboshi",
+  "source": "opus+review"
+ },
+ {
+  "from": "monoclent",
+  "to": "Mono Cleanse",
+  "source": "opus+review"
+ },
+ {
+  "from": "myoclens",
+  "to": "Mono Cleanse",
+  "source": "opus+review"
+ },
+ {
+  "from": "cyacobalamin",
+  "to": "cyanocobalamin",
+  "source": "opus+review"
+ },
+ {
+  "from": "cytocobalamin",
+  "to": "cyanocobalamin",
+  "source": "opus+review"
+ },
+ {
+  "from": "psycobalamin",
+  "to": "cyanocobalamin",
+  "source": "opus+review"
+ },
+ {
+  "from": "zinc pacholinate",
+  "to": "zinc picolinate",
+  "source": "opus+review"
+ },
+ {
+  "from": "aflactic shock",
+  "to": "anaphylactic shock",
+  "source": "opus+review"
+ },
+ {
+  "from": "vimog spirulina",
+  "to": "Vimergy spirulina",
+  "source": "opus+review"
+ },
+ {
+  "from": "vergy",
+  "to": "Vimergy",
+  "source": "opus+review"
+ },
+ {
+  "from": "echocannabinoid",
+  "to": "endocannabinoid",
+  "source": "opus+review"
+ },
+ {
+  "from": "gexima",
+  "to": "eczema",
+  "source": "opus+review"
+ },
+ {
+  "from": "xeolite",
+  "to": "zeolite",
+  "source": "opus+review"
+ },
+ {
+  "from": "diatonaceous",
+  "to": "diatomaceous",
+  "source": "opus+review"
+ },
+ {
+  "from": "cologues",
+  "to": "colognes",
+  "source": "opus+review"
+ },
+ {
+  "from": "betsonite plays",
+  "to": "bentonite clay",
+  "source": "opus+review"
+ },
+ {
+  "from": "betsonite",
+  "to": "bentonite",
+  "source": "opus+review"
+ },
+ {
+  "from": "glycephate",
+  "to": "glyphosate",
+  "source": "opus+review"
+ },
+ {
+  "from": "telemeers",
+  "to": "telomeres",
+  "source": "opus+review"
+ },
+ {
+  "from": "mino eating cleanse",
+  "to": "mono eating cleanse",
+  "source": "opus+review"
+ },
+ {
+  "from": "monoleat",
+  "to": "mono eat",
+  "source": "opus+review"
+ },
+ {
+  "from": "detoxic heavy metals",
+  "to": "the toxic heavy metals",
+  "source": "opus+review"
+ },
+ {
+  "from": "cellulages",
+  "to": "celery juices",
+  "source": "opus+review"
+ },
+ {
+  "from": "fimrigy",
+  "to": "Vimergy",
+  "source": "opus+review"
+ },
+ {
+  "from": "vinomargy",
+  "to": "Vimergy",
+  "source": "opus+review"
+ },
+ {
+  "from": "adenosilcavolumin",
+  "to": "adenosylcobalamin",
+  "source": "opus+review"
+ },
+ {
+  "from": "gepstein",
+  "to": "Epstein",
+  "source": "opus+review"
+ },
+ {
+  "from": "sedemegalovirus",
+  "to": "cytomegalovirus",
+  "source": "opus+review"
+ },
+ {
+  "from": "human herpesviral 6",
+  "to": "human herpesvirus 6",
+  "source": "opus+review"
+ },
+ {
+  "from": "acromansia",
+  "to": "Akkermansia",
+  "source": "opus+review"
+ },
+ {
+  "from": "mesophilioma",
+  "to": "mesothelioma",
+  "source": "opus+review"
+ },
+ {
+  "from": "controversal",
+  "to": "controversial",
+  "source": "opus+review"
+ },
+ {
+  "from": "pithanies",
+  "to": "epiphanies",
+  "source": "opus+review"
+ },
+ {
+  "from": "pudinesco",
+  "to": "puttanesca",
+  "source": "opus+review"
+ },
+ {
+  "from": "pudanesca",
+  "to": "puttanesca",
+  "source": "opus+review"
+ },
+ {
+  "from": "unconsciousable",
+  "to": "unconscionable",
+  "source": "opus+review"
+ },
+ {
+  "from": "refreshener",
+  "to": "refresher",
+  "source": "opus+review"
+ },
+ {
+  "from": "calibus",
+  "to": "Calabasas",
+  "source": "opus+review",
+  "context": [
+   "erewhon"
+  ],
+  "window": 3
+ },
+ {
+  "from": "canole oil",
+  "to": "canola oil",
+  "source": "opus+review"
+ },
+ {
+  "from": "dysautonia",
+  "to": "dysautonomia",
+  "source": "opus+review"
+ },
+ {
+  "from": "biley robin",
+  "to": "bilirubin",
+  "source": "opus+review"
+ },
+ {
+  "from": "gortogenic",
+  "to": "goitrogenic",
+  "source": "opus+review"
+ },
+ {
+  "from": "with septus",
+  "to": "with sepsis",
+  "source": "opus+review"
+ },
+ {
+  "from": "paw diarco",
+  "to": "pau d'arco",
+  "source": "opus+review"
+ },
+ {
+  "from": "bivergy",
+  "to": "Vimergy",
+  "source": "opus+review"
+ },
+ {
+  "from": "vibra g zinc",
+  "to": "Vimergy zinc",
+  "source": "opus+review"
+ },
+ {
+  "from": "celery cheeser",
+  "to": "celery juicer",
+  "source": "opus+review"
+ },
+ {
+  "from": "gastrointologist",
+  "to": "gastroenterologist",
+  "source": "opus+review"
+ },
+ {
+  "from": "venosylcobalamin",
+  "to": "adenosylcobalamin",
+  "source": "opus+review"
+ },
+ {
+  "from": "adeno cell",
+  "to": "adenosyl",
+  "source": "opus+review"
+ },
+ {
+  "from": "keratosis plerus",
+  "to": "keratosis pilaris",
+  "source": "opus+review"
+ },
+ {
+  "from": "keratosis, plerus",
+  "to": "keratosis pilaris",
+  "source": "opus+review"
+ },
+ {
+  "from": "walson",
+  "to": "Wilson",
+  "source": "opus+review"
+ },
+ {
+  "from": "tonsilectomies",
+  "to": "tonsillectomies",
+  "source": "opus+review"
+ },
+ {
+  "from": "impedements",
+  "to": "impediments",
+  "source": "opus+review"
+ },
+ {
+  "from": "broccoli florette",
+  "to": "broccoli floret",
+  "source": "opus+review"
+ },
+ {
+  "from": "cyrus kambada",
+  "to": "Cyrus Khambatta",
+  "source": "opus+review"
+ },
+ {
+  "from": "mamay",
+  "to": "mamey",
+  "source": "opus+review"
+ },
+ {
+  "from": "ileus secal valve",
+  "to": "ileocecal valve",
+  "source": "opus+review"
+ },
+ {
+  "from": "scentric handles",
+  "to": "scented candles",
+  "source": "opus+review"
+ },
+ {
+  "from": "predizone",
+  "to": "prednisone",
+  "source": "opus+review"
+ },
+ {
+  "from": "Majul dates",
+  "to": "Medjool dates",
+  "source": "opus+review"
+ },
+ {
+  "from": "the mutus",
+  "to": "the Mutsu",
+  "source": "opus+review",
+  "context": [
+   "apple",
+   "apples",
+   "mutsu",
+   "granny",
+   "gravenstein",
+   "delicious",
+   "stellar"
+  ],
+  "window": 10
+ },
+ {
+  "from": "clard",
+  "to": "lard",
+  "source": "opus+review",
+  "context": [
+   "pork",
+   "fat"
+  ],
+  "window": 6
+ },
+ {
+  "from": "marugula",
+  "to": "arugula",
+  "source": "opus+review"
+ },
+ {
+  "from": "arnichokes",
+  "to": "artichokes",
+  "source": "opus+review"
+ },
+ {
+  "from": "shitakes",
+  "to": "shiitakes",
+  "source": "opus+review"
+ },
+ {
+  "from": "unbripe",
+  "to": "unripe",
+  "source": "opus+review"
+ },
+ {
+  "from": "slantro",
+  "to": "cilantro",
+  "source": "opus+review"
+ },
+ {
+  "from": "saboric dermatitis",
+  "to": "seborrheic dermatitis",
+  "source": "opus+review"
+ },
+ {
+  "from": "attenic keratosis",
+  "to": "actinic keratosis",
+  "source": "opus+review"
+ },
+ {
+  "from": "optic doritis",
+  "to": "optic neuritis",
+  "source": "opus+review"
+ },
+ {
+  "from": "pregnated into",
+  "to": "impregnated into",
+  "source": "opus+review"
+ },
+ {
+  "from": "zeebo",
+  "to": "SIBO",
+  "source": "opus+review",
+  "context": [
+   "strep",
+   "intestinal",
+   "gut",
+   "causing",
+   "bloating",
+   "bacteria"
+  ],
+  "window": 6
+ },
+ {
+  "from": "tereosclerosis",
+  "to": "arteriosclerosis",
+  "source": "opus+review"
+ },
+ {
+  "from": "arrhythmas",
+  "to": "arrhythmias",
+  "source": "opus+review"
+ },
+ {
+  "from": "the adenosil",
+  "to": "the adenosyl",
+  "source": "opus+review",
+  "context": [
+   "b12",
+   "methyl",
+   "methylcobalamin",
+   "blend"
+  ],
+  "window": 8
+ },
+ {
+  "from": "centimegalavirus",
+  "to": "cytomegalovirus",
+  "source": "opus+review"
+ },
+ {
+  "from": "haosradio",
+  "to": "hayhouseradio",
+  "source": "opus+review"
+ },
+ {
+  "from": "assradio",
+  "to": "hayhouseradio",
+  "source": "opus+review"
+ },
+ {
+  "from": "pubendom nerve",
+  "to": "pudendal nerve",
+  "source": "opus+review"
+ },
+ {
+  "from": "pedendrum nerve",
+  "to": "pudendal nerve",
+  "source": "opus+review"
+ },
+ {
+  "from": "estercy",
+  "to": "Ester-C",
+  "source": "opus+review"
+ },
+ {
+  "from": "Pawdiarko",
+  "to": "pau d'arco",
+  "source": "opus+review"
+ },
+ {
+  "from": "luggish",
+  "to": "sluggish",
+  "source": "opus+review"
+ },
+ {
+  "from": "Vimaji",
+  "to": "Vimergy",
+  "source": "opus+review"
+ },
+ {
+  "from": "braber",
+  "to": "Braeburn",
+  "source": "opus+review",
+  "context": [
+   "fuji",
+   "golden",
+   "apple",
+   "apples"
+  ],
+  "window": 8
+ },
+ {
+  "from": "vimeridge",
+  "to": "Vimergy",
+  "source": "opus+review"
+ },
+ {
+  "from": "nonucleosis",
+  "to": "mononucleosis",
+  "source": "opus+review"
+ },
+ {
+  "from": "becaria",
+  "to": "urticaria",
+  "source": "opus+review"
+ },
+ {
+  "from": "dermatotoxins",
+  "to": "dermatoxins",
+  "source": "opus+review"
+ },
+ {
+  "from": "borella",
+  "to": "Borrelia",
+  "source": "opus+review"
+ },
+ {
+  "from": "petrochemils",
+  "to": "petrochemicals",
+  "source": "opus+review"
+ },
+ {
+  "from": "vimerosy",
+  "to": "Vimergy",
+  "source": "opus+review"
+ },
+ {
+  "from": "svimra gester c",
+  "to": "Vimergy Ester-C",
+  "source": "opus+review"
+ },
+ {
+  "from": "estor c",
+  "to": "Ester-C",
+  "source": "opus+review"
+ },
+ {
+  "from": "viveran g vitamin c",
+  "to": "Vimergy vitamin C",
+  "source": "opus+review"
+ },
+ {
+  "from": "expector",
+  "to": "expectorant",
+  "source": "opus+review",
+  "context": [
+   "ginger",
+   "virus",
+   "mucus",
+   "lungs"
+  ],
+  "window": 8
+ },
+ {
+  "from": "cryotic fatigue",
+  "to": "chronic fatigue",
+  "source": "opus+review"
+ },
+ {
+  "from": "brand of lysi",
+  "to": "brand of lysine",
+  "source": "opus+review"
+ },
+ {
+  "from": "epscine bars",
+  "to": "Epstein-Barr",
+  "source": "opus+review"
+ },
+ {
+  "from": "nuka honey",
+  "to": "Manuka honey",
+  "source": "opus+review"
+ },
+ {
+  "from": "scott bakulon",
+  "to": "Scott Bakula on",
+  "source": "opus+review"
+ },
+ {
+  "from": "vimorici",
+  "to": "Vimergy",
+  "source": "opus+review"
+ },
+ {
+  "from": "vimerty",
+  "to": "Vimergy",
+  "source": "opus+review"
+ },
+ {
+  "from": "vimgergy",
+  "to": "Vimergy",
+  "source": "opus+review"
+ },
+ {
+  "from": "vibraji",
+  "to": "Vimergy",
+  "source": "opus+review"
+ },
+ {
+  "from": "vivargy",
+  "to": "Vimergy",
+  "source": "opus+review"
+ },
+ {
+  "from": "bimji",
+  "to": "Vimergy",
+  "source": "opus+review"
+ },
+ {
+  "from": "vimsy",
+  "to": "Vimergy",
+  "source": "opus+review"
+ },
+ {
+  "from": "vimgry",
+  "to": "Vimergy",
+  "source": "opus+review"
+ },
+ {
+  "from": "dimmagy",
+  "to": "Vimergy",
+  "source": "opus+review"
+ },
+ {
+  "from": "high potence",
+  "to": "high potency",
+  "source": "opus+review"
+ },
+ {
+  "from": "calcium scorbate",
+  "to": "calcium ascorbate",
+  "source": "opus+review"
+ },
+ {
+  "from": "cellaraches",
+  "to": "celery juice",
+  "source": "opus+review"
+ },
+ {
+  "from": "collodial",
+  "to": "colloidal",
+  "source": "opus+review"
+ },
+ {
+  "from": "help with fibrates",
+  "to": "help with fibroids",
+  "source": "opus+review"
+ },
+ {
+  "from": "cellerie juice",
+  "to": "celery juice",
+  "source": "opus+review"
+ },
+ {
+  "from": "cellar ejus",
+  "to": "celery juice",
+  "source": "opus+review"
+ },
+ {
+  "from": "begaia herbs",
+  "to": "Gaia Herbs",
+  "source": "opus+review"
+ },
+ {
+  "from": "monolorn",
+  "to": "monolaurin",
+  "source": "opus+review"
+ },
+ {
+  "from": "hasebota thyroiditis",
+  "to": "Hashimoto's thyroiditis",
+  "source": "opus+review"
+ },
+ {
+  "from": "atenex keratosis",
+  "to": "actinic keratosis",
+  "source": "opus+review"
+ },
+ {
+  "from": "exosomstoriasis",
+  "to": "eczema, psoriasis",
+  "source": "opus+review"
+ },
+ {
+  "from": "pasturization",
+  "to": "pasteurization",
+  "source": "opus+review"
+ },
+ {
+  "from": "menear",
+  "to": "Meniere",
+  "source": "opus+review",
+  "context": [
+   "disease"
+  ],
+  "window": 3
+ },
+ {
+  "from": "kebimetals",
+  "to": "heavy metals",
+  "source": "opus+review"
+ },
+ {
+  "from": "tropefuls",
+  "to": "dropperfuls",
+  "source": "opus+review"
+ },
+ {
+  "from": "amphicianus",
+  "to": "anthocyanins",
+  "source": "opus+review"
+ },
+ {
+  "from": "catscot",
+  "to": "cat's claw",
+  "source": "opus+review"
+ },
+ {
+  "from": "osteoparesis",
+  "to": "osteoporosis",
+  "source": "opus+review"
+ },
+ {
+  "from": "Vimerski",
+  "to": "Vimergy",
+  "source": "opus+review"
+ },
+ {
+  "from": "fideligo",
+  "to": "vitiligo",
+  "source": "opus+review"
+ },
+ {
+  "from": "Vimger G",
+  "to": "Vimergy",
+  "source": "opus+review"
+ },
+ {
+  "from": "adidasocobalamin",
+  "to": "adenosylcobalamin",
+  "source": "opus+review"
+ },
+ {
+  "from": "trigeminalalgia",
+  "to": "trigeminal neuralgia",
+  "source": "opus+review"
+ },
+ {
+  "from": "aphib",
+  "to": "AFib",
+  "source": "opus+review"
+ },
+ {
+  "from": "calitosis",
+  "to": "halitosis",
+  "source": "opus+review"
+ },
+ {
+  "from": "paleocraft",
+  "to": "paleo crowd",
+  "source": "opus+review"
+ },
+ {
+  "from": "slaroderma",
+  "to": "scleroderma",
+  "source": "opus+review"
+ },
+ {
+  "from": "posty notes",
+  "to": "Post-it notes",
+  "source": "opus+review"
+ },
+ {
+  "from": "stereptococcus",
+  "to": "Streptococcus",
+  "source": "opus+review"
+ },
+ {
+  "from": "streptoconctus",
+  "to": "Streptococcus",
+  "source": "opus+review"
+ },
+ {
+  "from": "reczema",
+  "to": "eczema",
+  "source": "opus+review"
+ },
+ {
+  "from": "soriasis",
+  "to": "psoriasis",
+  "source": "opus+review"
+ },
+ {
+  "from": "medicalmeaning",
+  "to": "medicalmedium",
+  "source": "opus+review"
+ },
+ {
+  "from": "medicalmem",
+  "to": "medicalmedium",
+  "source": "opus+review"
+ },
+ {
+  "from": "tritonal neuralgia",
+  "to": "trigeminal neuralgia",
+  "source": "opus+review"
+ },
+ {
+  "from": "trigeminal ralge",
+  "to": "trigeminal neuralgia",
+  "source": "opus+review"
+ },
+ {
+  "from": "effutable",
+  "to": "irrefutable",
+  "source": "opus+review"
+ },
+ {
+  "from": "diametimaceous",
+  "to": "diatomaceous",
+  "source": "opus+review"
+ },
+ {
+  "from": "zionizer",
+  "to": "ionizer",
+  "source": "opus+review"
+ },
+ {
+  "from": "spectrochemicals",
+  "to": "petrochemicals",
+  "source": "opus+review"
+ },
+ {
+  "from": "toxagomy metals",
+  "to": "toxic heavy metals",
+  "source": "opus+review"
+ },
+ {
+  "from": "charella",
+  "to": "chlorella",
+  "source": "opus+review",
+  "context": [
+   "metals",
+   "chelation",
+   "spirulina",
+   "detox",
+   "heavy"
+  ],
+  "window": 8
+ },
+ {
+  "from": "chorellas",
+  "to": "chlorellas",
+  "source": "opus+review"
+ },
+ {
+  "from": "did a lago",
+  "to": "vitiligo",
+  "source": "opus+review"
+ },
+ {
+  "from": "arsetic",
+  "to": "arsenic",
+  "source": "opus+review"
+ },
+ {
+  "from": "lanic dolls",
+  "to": "Atlantic dulse",
+  "source": "opus+review"
+ },
+ {
+  "from": "cleansaheel",
+  "to": "Cleanse to Heal",
+  "source": "opus+review"
+ },
+ {
+  "from": "mechelmeem",
+  "to": "Medical Medium",
+  "source": "opus+review"
+ },
+ {
+  "from": "vemergy",
+  "to": "Vimergy",
+  "source": "opus+review"
+ },
+ {
+  "from": "guineal hernia",
+  "to": "inguinal hernia",
+  "source": "opus+review"
+ },
+ {
+  "from": "cytomeglovirus",
+  "to": "cytomegalovirus",
+  "source": "opus+review"
+ },
+ {
+  "from": "lactans",
+  "to": "lectins",
+  "source": "opus+review",
+  "context": [
+   "nightshades",
+   "oxalates",
+   "lectins",
+   "foods",
+   "beans"
+  ],
+  "window": 8
+ },
+ {
+  "from": "exoment",
+  "to": "eczema",
+  "source": "opus+review"
+ },
+ {
+  "from": "upsteen bars",
+  "to": "Epstein-Barrs",
+  "source": "opus+review"
+ },
+ {
+  "from": "cytomecrovirus",
+  "to": "cytomegalovirus",
+  "source": "opus+review"
+ },
+ {
+  "from": "cytometallovirus",
+  "to": "cytomegalovirus",
+  "source": "opus+review"
+ },
+ {
+  "from": "ionrs",
+  "to": "ionizers",
+  "source": "opus+review",
+  "context": [
+   "water",
+   "purifiers",
+   "filtration",
+   "purification"
+  ],
+  "window": 8
+ },
+ {
+  "from": "vivirgy",
+  "to": "Vimergy",
+  "source": "opus+review"
+ },
+ {
+  "from": "vivergine",
+  "to": "Vimergy",
+  "source": "opus+review"
+ },
+ {
+  "from": "vimerji",
+  "to": "Vimergy",
+  "source": "opus+review"
+ },
+ {
+  "from": "vivarg",
+  "to": "Vimergy",
+  "source": "opus+review"
+ },
+ {
+  "from": "sevimorgy",
+  "to": "Vimergy",
+  "source": "opus+review"
+ },
+ {
+  "from": "bermg supplements",
+  "to": "Vimergy supplements",
+  "source": "opus+review"
+ },
+ {
+  "from": "fibberg",
+  "to": "Vimergy",
+  "source": "opus+review"
+ },
+ {
+  "from": "vimer g",
+  "to": "Vimergy",
+  "source": "opus+review"
+ },
+ {
+  "from": "aldebarian",
+  "to": "elderberry",
+  "source": "opus+review"
+ },
+ {
+  "from": "schenkels virus",
+  "to": "shingles virus",
+  "source": "opus+review"
+ },
+ {
+  "from": "demianos powder",
+  "to": "D-mannose powder",
+  "source": "opus+review"
+ },
+ {
+  "from": "glycephates",
+  "to": "glyphosates",
+  "source": "opus+review"
+ },
+ {
+  "from": "glycevates",
+  "to": "glyphosates",
+  "source": "opus+review"
+ },
+ {
+  "from": "air pressioners",
+  "to": "air fresheners",
+  "source": "opus+review"
+ },
+ {
+  "from": "antieast",
+  "to": "anti-yeast",
+  "source": "opus+review"
+ },
+ {
+  "from": "strustitial",
+  "to": "interstitial",
+  "source": "opus+review"
+ },
+ {
+  "from": "macromedium.com",
+  "to": "medicalmedium.com",
+  "source": "opus+review"
+ },
+ {
+  "from": "atonic keratosis",
+  "to": "actinic keratosis",
+  "source": "opus+review"
+ },
+ {
+  "from": "hepstein",
+  "to": "Epstein",
+  "source": "opus+review"
+ },
+ {
+  "from": "antiochianin",
+  "to": "anthocyanin",
+  "source": "opus+review"
+ },
+ {
+  "from": "high in lysing",
+  "to": "high in lysine",
+  "source": "opus+review"
+ },
+ {
+  "from": "meckle medium",
+  "to": "Medical Medium",
+  "source": "opus+review"
+ },
+ {
+  "from": "trigeminal alge",
+  "to": "trigeminal neuralgia",
+  "source": "opus+review"
+ },
+ {
+  "from": "into surfig",
+  "to": "into surfing",
+  "source": "opus+review"
+ },
+ {
+  "from": "scucumber",
+  "to": "cucumber",
+  "source": "opus+review"
+ },
+ {
+  "from": "barnella",
+  "to": "Bartonella",
+  "source": "opus+review"
+ },
+ {
+  "from": "histabines",
+  "to": "histamines",
+  "source": "opus+review"
+ },
+ {
+  "from": "phagos nerve",
+  "to": "vagus nerve",
+  "source": "opus+review"
+ },
+ {
+  "from": "VimmerGB12",
+  "to": "Vimergy B12",
+  "source": "opus+review"
+ },
+ {
+  "from": "dinosylcobalamin",
+  "to": "adenosylcobalamin",
+  "source": "opus+review"
+ },
+ {
+  "from": "mimrogy",
+  "to": "Vimergy",
+  "source": "opus+review"
+ },
+ {
+  "from": "zolite",
+  "to": "zeolite",
+  "source": "opus+review"
+ },
+ {
+  "from": "cytomegrivia",
+  "to": "cytomegalovirus",
+  "source": "opus+review"
+ },
+ {
+  "from": "Keep the Krell in",
+  "to": "Keep the chlorella in",
+  "source": "opus+review"
+ },
+ {
+  "from": "thermogy",
+  "to": "Vimergy",
+  "source": "opus+review"
+ },
+ {
+  "from": "cytomega virus",
+  "to": "cytomegalovirus",
+  "source": "opus+review"
+ },
+ {
+  "from": "Midori roll",
+  "to": "nori roll",
+  "source": "opus+review"
+ },
+ {
+  "from": "riluga",
+  "to": "arugula",
+  "source": "opus+review"
+ },
+ {
+  "from": "hematocrosis",
+  "to": "hemochromatosis",
+  "source": "opus+review"
+ },
+ {
+  "from": "elastasticity",
+  "to": "elasticity",
+  "source": "opus+review"
+ },
+ {
+  "from": "outgated",
+  "to": "outdated",
+  "source": "opus+review"
+ },
+ {
+  "from": "El Carnatine",
+  "to": "L-carnitine",
+  "source": "opus+review"
+ },
+ {
+  "from": "carnatine",
+  "to": "carnitine",
+  "source": "opus+review"
+ },
+ {
+  "from": "mechelmean",
+  "to": "Medical Medium",
+  "source": "opus+review"
+ },
+ {
+  "from": "anticeptic",
+  "to": "antiseptic",
+  "source": "opus+review"
+ },
+ {
+  "from": "vampireism",
+  "to": "vampirism",
+  "source": "opus+review"
+ },
+ {
+  "from": "pastorization",
+  "to": "pasteurization",
+  "source": "opus+review"
+ },
+ {
+  "from": "icks and pains",
+  "to": "aches and pains",
+  "source": "opus+review"
+ },
+ {
+  "from": "cellarie",
+  "to": "celery",
+  "source": "opus+review"
+ },
+ {
+  "from": "diatomages earth",
+  "to": "diatomaceous earth",
+  "source": "opus+review"
+ },
+ {
+  "from": "sedemegal virus",
+  "to": "cytomegalovirus",
+  "source": "opus+review"
+ },
+ {
+  "from": "trigelinal",
+  "to": "trigeminal",
+  "source": "opus+review"
+ },
+ {
+  "from": "trageminal",
+  "to": "trigeminal",
+  "source": "opus+review"
+ },
+ {
+  "from": "cliphouse",
+  "to": "Clubhouse",
+  "source": "opus+review"
+ },
+ {
+  "from": "clutathion",
+  "to": "glutathione",
+  "source": "opus+review"
+ },
+ {
+  "from": "monoheating",
+  "to": "mono eating",
+  "source": "opus+review"
+ },
+ {
+  "from": "monowheating",
+  "to": "mono eating",
+  "source": "opus+review"
+ },
+ {
+  "from": "model eating chapter",
+  "to": "mono eating chapter",
+  "source": "opus+review"
+ },
+ {
+  "from": "fodromyalgia",
+  "to": "fibromyalgia",
+  "source": "opus+review"
+ },
+ {
+  "from": "electins",
+  "to": "lectins",
+  "source": "opus+review"
+ },
+ {
+  "from": "vinegarettes",
+  "to": "vinaigrettes",
+  "source": "opus+review"
+ },
+ {
+  "from": "auburines",
+  "to": "aubergines",
+  "source": "opus+review"
+ },
+ {
+  "from": "anaphylaxic",
+  "to": "anaphylactic",
+  "source": "opus+review"
+ },
+ {
+  "from": "cyclobolamide",
+  "to": "cyanocobalamin",
+  "source": "opus+review"
+ },
+ {
+  "from": "cycobalamin",
+  "to": "cyanocobalamin",
+  "source": "opus+review"
+ },
+ {
+  "from": "sayakobalamin",
+  "to": "cyanocobalamin",
+  "source": "opus+review"
+ },
+ {
+  "from": "sidecobalamin",
+  "to": "cyanocobalamin",
+  "source": "opus+review"
+ },
+ {
+  "from": "adenosylcobolamide",
+  "to": "adenosylcobalamin",
+  "source": "opus+review"
+ },
+ {
+  "from": "dropables",
+  "to": "dropperfuls",
+  "source": "opus+review"
+ },
+ {
+  "from": "bimberj",
+  "to": "Vimergy",
+  "source": "opus+review"
+ },
+ {
+  "from": "bimrigi",
+  "to": "Vimergy",
+  "source": "opus+review"
+ },
+ {
+  "from": "bimogy",
+  "to": "Vimergy",
+  "source": "opus+review"
+ },
+ {
+  "from": "vemogy",
+  "to": "Vimergy",
+  "source": "opus+review"
+ },
+ {
+  "from": "spidgen",
+  "to": "smidgen",
+  "source": "opus+review"
+ },
+ {
+  "from": "tendrologists",
+  "to": "endocrinologists",
+  "source": "opus+review"
+ },
+ {
+  "from": "eisenizer",
+  "to": "ionizer",
+  "source": "opus+review"
+ },
+ {
+  "from": "maradola papaya",
+  "to": "Maradol papaya",
+  "source": "opus+review"
+ },
+ {
+  "from": "devex disease",
+  "to": "Devic's disease",
+  "source": "opus+review"
+ },
+ {
+  "from": "cephalopathy",
+  "to": "encephalopathy",
+  "source": "opus+review"
+ },
+ {
+  "from": "demyelation",
+  "to": "demyelination",
+  "source": "opus+review"
+ },
+ {
+  "from": "zivimurgy",
+  "to": "Vimergy",
+  "source": "opus+review"
+ },
+ {
+  "from": "bimrg",
+  "to": "Vimergy",
+  "source": "opus+review"
+ },
+ {
+  "from": "vimgium",
+  "to": "Vimergy",
+  "source": "opus+review"
+ },
+ {
+  "from": "vimbertv12",
+  "to": "Vimergy B12",
+  "source": "opus+review"
+ },
+ {
+  "from": "bimg",
+  "to": "Vimergy",
+  "source": "opus+review"
+ },
+ {
+  "from": "finmer gb12",
+  "to": "Vimergy B12",
+  "source": "opus+review"
+ },
+ {
+  "from": "vimberjee",
+  "to": "Vimergy",
+  "source": "opus+review"
+ },
+ {
+  "from": "viverju",
+  "to": "Vimergy",
+  "source": "opus+review"
+ },
+ {
+  "from": "vembrgy",
+  "to": "Vimergy",
+  "source": "opus+review"
+ },
+ {
+  "from": "vimreju",
+  "to": "Vimergy",
+  "source": "opus+review"
+ },
+ {
+  "from": "rehensive",
+  "to": "comprehensive",
+  "source": "opus+review"
+ },
+ {
+  "from": "hmvs",
+  "to": "HMDS",
+  "source": "opus+review"
+ },
+ {
+  "from": "diatomalitaceous",
+  "to": "diatomaceous",
+  "source": "opus+review"
+ },
+ {
+  "from": "nanoside zeolite",
+  "to": "nano-sized zeolite",
+  "source": "opus+review"
+ },
+ {
+  "from": "sublimit companies",
+  "to": "supplement companies",
+  "source": "opus+review"
+ },
+ {
+  "from": "fimmergy",
+  "to": "Vimergy",
+  "source": "opus+review"
+ },
+ {
+  "from": "vimranji",
+  "to": "Vimergy",
+  "source": "opus+review"
+ },
+ {
+  "from": "vimarin g",
+  "to": "Vimergy",
+  "source": "opus+review"
+ },
+ {
+  "from": "bimership",
+  "to": "Vimergy",
+  "source": "opus+review"
+ },
+ {
+  "from": "vermice",
+  "to": "Vimergy",
+  "source": "opus+review",
+  "context": [
+   "sale"
+  ],
+  "window": 6
+ },
+ {
+  "from": "nadhd",
+  "to": "and ADHD",
+  "source": "opus+review"
+ },
+ {
+  "from": "nocd",
+  "to": "and OCD",
+  "source": "opus+review"
+ },
+ {
+  "from": "c. diffuli",
+  "to": "C. difficile",
+  "source": "opus+review"
+ },
+ {
+  "from": "abscine bar",
+  "to": "Epstein-Barr",
+  "source": "opus+review"
+ },
+ {
+  "from": "copper fosks",
+  "to": "copper flasks",
+  "source": "opus+review"
+ },
+ {
+  "from": "astrometers",
+  "to": "astronomers",
+  "source": "opus+review"
+ },
+ {
+  "from": "astrometer",
+  "to": "astronomer",
+  "source": "opus+review"
+ },
+ {
+  "from": "carbon myoxide",
+  "to": "carbon monoxide",
+  "source": "opus+review"
+ },
+ {
+  "from": "kinkersore",
+  "to": "canker sore",
+  "source": "opus+review"
+ },
+ {
+  "from": "methicetholimethylene",
+  "to": "methylsulfonylmethane",
+  "source": "opus+review"
+ },
+ {
+  "from": "diacomaceous",
+  "to": "diatomaceous",
+  "source": "opus+review"
+ },
+ {
+  "from": "dinosicobalamin",
+  "to": "adenosylcobalamin",
+  "source": "opus+review"
+ },
+ {
+  "from": "omegajeezers",
+  "to": "OmegaJuicers",
+  "source": "opus+review"
+ },
+ {
+  "from": "shegles",
+  "to": "shingles",
+  "source": "opus+review"
+ },
+ {
+  "from": "gastroparist",
+  "to": "gastroparesis",
+  "source": "opus+review"
+ },
+ {
+  "from": "labrinitis",
+  "to": "labyrinthitis",
+  "source": "opus+review"
+ },
+ {
+  "from": "sublingle",
+  "to": "sublingual",
+  "source": "opus+review"
+ },
+ {
+  "from": "esophagealitis",
+  "to": "esophagitis",
+  "source": "opus+review"
+ },
+ {
+  "from": "vinergy",
+  "to": "Vimergy",
+  "source": "opus+review"
+ },
+ {
+  "from": "virmuji",
+  "to": "Vimergy",
+  "source": "opus+review"
+ },
+ {
+  "from": "firmishy",
+  "to": "Vimergy",
+  "source": "opus+review"
+ },
+ {
+  "from": "microsy",
+  "to": "Micro-C",
+  "source": "opus+review"
+ },
+ {
+  "from": "decafetated",
+  "to": "decaffeinated",
+  "source": "opus+review"
+ },
+ {
+  "from": "dibbing sauce",
+  "to": "dipping sauce",
+  "source": "opus+review"
+ },
+ {
+  "from": "krabble fries",
+  "to": "crinkle fries",
+  "source": "opus+review"
+ },
+ {
+  "from": "crankle fries",
+  "to": "crinkle fries",
+  "source": "opus+review"
+ },
+ {
+  "from": "shuajit",
+  "to": "shilajit",
+  "source": "opus+review"
+ },
+ {
+  "from": "get the scorts",
+  "to": "get the squirts",
+  "source": "opus+review"
+ },
+ {
+  "from": "misdew",
+  "to": "missed due",
+  "source": "opus+review"
+ },
+ {
+  "from": "stenobaglovirus",
+  "to": "cytomegalovirus",
+  "source": "opus+review"
+ },
+ {
+  "from": "polytheanols",
+  "to": "polyphenols",
+  "source": "opus+review"
+ },
+ {
+  "from": "shtaki",
+  "to": "shiitake",
+  "source": "opus+review"
+ },
+ {
+  "from": "nightshake",
+  "to": "nightshade",
+  "source": "opus+review",
+  "context": [
+   "potatoes",
+   "potato",
+   "tomato",
+   "tomatoes",
+   "nightshades",
+   "eggplant",
+   "peppers",
+   "scary"
+  ],
+  "window": 8
+ },
+ {
+  "from": "norcolepsy",
+  "to": "narcolepsy",
+  "source": "opus+review"
+ },
+ {
+  "from": "tritemperial neuralgia",
+  "to": "trigeminal neuralgia",
+  "source": "opus+review"
+ },
+ {
+  "from": "undisplosed",
+  "to": "undisclosed",
+  "source": "opus+review"
+ },
+ {
+  "from": "propylis",
+  "to": "propolis",
+  "source": "opus+review"
+ },
+ {
+  "from": "compa frequentition",
+  "to": "competition",
+  "source": "opus+review"
+ },
+ {
+  "from": "vemurg",
+  "to": "Vimergy",
+  "source": "opus+review"
+ },
+ {
+  "from": "dermagy",
+  "to": "Vimergy",
+  "source": "opus+review",
+  "context": [
+   "sale",
+   "propolis",
+   "supplements",
+   "products"
+  ],
+  "window": 8
+ },
+ {
+  "from": "gomquats",
+  "to": "kumquats",
+  "source": "opus+review"
+ },
+ {
+  "from": "la siento kale",
+  "to": "lacinato kale",
+  "source": "opus+review"
+ },
+ {
+  "from": "scrinkle cut",
+  "to": "crinkle cut",
+  "source": "opus+review"
+ },
+ {
+  "from": "intuitabilities",
+  "to": "intuitive abilities",
+  "source": "opus+review"
+ },
+ {
+  "from": "carnaman",
+  "to": "cardamom",
+  "source": "opus+review"
+ },
+ {
+  "from": "cytomegnavirus",
+  "to": "cytomegalovirus",
+  "source": "opus+review"
+ },
+ {
+  "from": "billberries",
+  "to": "bilberries",
+  "source": "opus+review"
+ },
+ {
+  "from": "prevolone",
+  "to": "provolone",
+  "source": "opus+review"
+ },
+ {
+  "from": "herpes zoustero",
+  "to": "herpes zoster",
+  "source": "opus+review"
+ },
+ {
+  "from": "herpes zelster",
+  "to": "herpes zoster",
+  "source": "opus+review"
+ },
+ {
+  "from": "oleofactory",
+  "to": "olfactory",
+  "source": "opus+review"
+ },
+ {
+  "from": "trogemone neuralgia",
+  "to": "trigeminal neuralgia",
+  "source": "opus+review"
+ },
+ {
+  "from": "prostastitis",
+  "to": "prostatitis",
+  "source": "opus+review"
+ },
+ {
+  "from": "ultrodextrin",
+  "to": "maltodextrin",
+  "source": "opus+review"
+ },
+ {
+  "from": "monoclenzes",
+  "to": "mono cleanses",
+  "source": "opus+review"
+ },
+ {
+  "from": "vemre g",
+  "to": "Vimergy",
+  "source": "opus+review"
+ },
+ {
+  "from": "bimger g",
+  "to": "Vimergy",
+  "source": "opus+review"
+ },
+ {
+  "from": "aridologist",
+  "to": "iridologist",
+  "source": "opus+review"
+ },
+ {
+  "from": "autotomics response",
+  "to": "autonomic response",
+  "source": "opus+review"
+ },
+ {
+  "from": "destrialized",
+  "to": "industrialized",
+  "source": "opus+review"
+ },
+ {
+  "from": "vemraji",
+  "to": "Vimergy",
+  "source": "opus+review"
+ },
+ {
+  "from": "vimraj",
+  "to": "Vimergy",
+  "source": "opus+review"
+ },
+ {
+  "from": "vimeridgee",
+  "to": "Vimergy",
+  "source": "opus+review"
+ },
+ {
+  "from": "vimmergv",
+  "to": "Vimergy",
+  "source": "opus+review"
+ },
+ {
+  "from": "demergy",
+  "to": "Vimergy",
+  "source": "opus+review"
+ },
+ {
+  "from": "membergy",
+  "to": "Vimergy",
+  "source": "opus+review"
+ },
+ {
+  "from": "pimergy",
+  "to": "Vimergy",
+  "source": "opus+review"
+ },
+ {
+  "from": "brooklis",
+  "to": "propolis",
+  "source": "opus+review"
+ },
+ {
+  "from": "hmts",
+  "to": "HMDS",
+  "source": "opus+review",
+  "context": [
+   "celery",
+   "juice",
+   "detox",
+   "smoothie",
+   "metal",
+   "metals"
+  ],
+  "window": 8
+ },
+ {
+  "from": "bovid",
+  "to": "COVID",
+  "source": "opus+review",
+  "context": [
+   "flu",
+   "rsv",
+   "immune",
+   "get",
+   "virus"
+  ],
+  "window": 8
+ },
+ {
+  "from": "vovit",
+  "to": "COVID",
+  "source": "opus+review"
+ },
+ {
+  "from": "vulvid",
+  "to": "COVID",
+  "source": "opus+review"
+ },
+ {
+  "from": "vulvit",
+  "to": "COVID",
+  "source": "opus+review"
+ },
+ {
+  "from": "zeolate",
+  "to": "zeolite",
+  "source": "opus+review"
+ },
+ {
+  "from": "tumerc",
+  "to": "turmeric",
+  "source": "opus+review"
+ },
+ {
+  "from": "vitochemical",
+  "to": "phytochemical",
+  "source": "opus+review"
+ },
+ {
+  "from": "veds",
+  "to": "feds",
+  "source": "opus+review",
+  "context": [
+   "owned",
+   "gov",
+   "government"
+  ],
+  "window": 8
+ },
+ {
+  "from": "cardiore diet",
+  "to": "carnivore diet",
+  "source": "opus+review"
+ },
+ {
+  "from": "irwans",
+  "to": "Erewhons",
+  "source": "opus+review"
+ },
+ {
+  "from": "cancelope",
+  "to": "cantaloupe",
+  "source": "opus+review"
+ },
+ {
+  "from": "spinnett salad",
+  "to": "spinach salad",
+  "source": "opus+review"
+ },
+ {
+  "from": "brustitis",
+  "to": "bursitis",
+  "source": "opus+review"
+ },
+ {
+  "from": "methylmean pizza",
+  "to": "Mediterranean pizza",
+  "source": "opus+review"
+ },
+ {
+  "from": "cafe grats",
+  "to": "Cafe Gratitude",
+  "source": "opus+review"
+ },
+ {
+  "from": "sesame to quini",
+  "to": "sesame tahini",
+  "source": "opus+review"
+ },
+ {
+  "from": "Cafe Granteau",
+  "to": "Cafe Gratitude",
+  "source": "opus+review"
+ },
+ {
+  "from": "sliving",
+  "to": "slicing",
+  "source": "opus+review"
+ },
+ {
+  "from": "Conopin",
+  "to": "Klonopin",
+  "source": "opus+review"
+ },
+ {
+  "from": "puccinesca",
+  "to": "puttanesca",
+  "source": "opus+review"
+ },
+ {
+  "from": "spanded edition",
+  "to": "expanded edition",
+  "source": "opus+review"
+ },
+ {
+  "from": "gorgeogenic",
+  "to": "goitrogenic",
+  "source": "opus+review"
+ },
+ {
+  "from": "tarugula pesto",
+  "to": "arugula pesto",
+  "source": "opus+review"
+ },
+ {
+  "from": "similable",
+  "to": "assimilable",
+  "source": "opus+review"
+ },
+ {
+  "from": "Light Chanking Foods",
+  "to": "Life-Changing Foods",
+  "source": "opus+review"
+ },
+ {
+  "from": "prophylis",
+  "to": "propolis",
+  "source": "opus+review"
+ },
+ {
+  "from": "Problest Pure",
+  "to": "Propolis Pure",
+  "source": "opus+review"
+ },
+ {
+  "from": "Propos Pure",
+  "to": "Propolis Pure",
+  "source": "opus+review"
+ },
+ {
+  "from": "vembergy",
+  "to": "Vimergy",
+  "source": "opus+review"
+ },
+ {
+  "from": "vermergy",
+  "to": "Vimergy",
+  "source": "opus+review"
+ },
+ {
+  "from": "mmergy",
+  "to": "Vimergy",
+  "source": "opus+review"
+ },
+ {
+  "from": "vimerzee",
+  "to": "Vimergy",
+  "source": "opus+review"
+ },
+ {
+  "from": "Brainstead books",
+  "to": "Brain Saver books",
+  "source": "opus+review"
+ },
+ {
+  "from": "sedemeglevirus",
+  "to": "cytomegalovirus",
+  "source": "opus+review"
+ },
+ {
+  "from": "trigoneralgia",
+  "to": "trigeminal neuralgia",
+  "source": "opus+review"
+ },
+ {
+  "from": "shillajit",
+  "to": "shilajit",
+  "source": "opus+review"
+ },
+ {
+  "from": "Dr. Broner's",
+  "to": "Dr. Bronner's",
+  "source": "opus+review"
+ },
+ {
+  "from": "HHHs",
+  "to": "HHVs",
+  "source": "opus+review"
+ },
+ {
+  "from": "utericaria",
+  "to": "urticaria",
+  "source": "opus+review"
+ },
+ {
+  "from": "cicinophils",
+  "to": "eosinophils",
+  "source": "opus+review"
+ },
+ {
+  "from": "aficiado",
+  "to": "aficionado",
+  "source": "opus+review"
+ },
+ {
+  "from": "anahistamines",
+  "to": "antihistamines",
+  "source": "opus+review"
+ },
+ {
+  "from": "hasimotis",
+  "to": "Hashimoto's",
+  "source": "opus+review"
+ },
+ {
+  "from": "helitosis",
+  "to": "halitosis",
+  "source": "opus+review"
+ },
+ {
+  "from": "herbicin simplex",
+  "to": "herpes simplex",
+  "source": "opus+review"
+ },
+ {
+  "from": "shinulus virus",
+  "to": "shingles virus",
+  "source": "opus+review"
+ },
+ {
+  "from": "bollygrass",
+  "to": "barley grass",
+  "source": "opus+review"
+ },
+ {
+  "from": "august folium",
+  "to": "angustifolium",
+  "source": "opus+review"
+ },
+ {
+  "from": "cliver rescue",
+  "to": "Liver Rescue",
+  "source": "opus+review"
+ },
+ {
+  "from": "totally unedit",
+  "to": "totally unedited",
+  "source": "opus+review"
+ },
+ {
+  "from": "nitroglove",
+  "to": "nitrile glove",
+  "source": "opus+review"
+ },
+ {
+  "from": "bimrigine",
+  "to": "Vimergy",
+  "source": "opus+review"
+ },
+ {
+  "from": "emboled cord",
+  "to": "umbilical cord",
+  "source": "opus+review"
+ },
+ {
+  "from": "glutathions",
+  "to": "glutathiones",
+  "source": "opus+review"
+ },
+ {
+  "from": "interintestinal tract",
+  "to": "intestinal tract",
+  "source": "opus+review"
+ },
+ {
+  "from": "Celerid juice",
+  "to": "celery juice",
+  "source": "opus+review"
+ },
+ {
+  "from": "vinal infections",
+  "to": "viral infections",
+  "source": "opus+review"
+ },
+ {
+  "from": "nasal palips",
+  "to": "nasal polyps",
+  "source": "opus+review"
+ },
+ {
+  "from": "cytomecular virus",
+  "to": "cytomegalovirus",
+  "source": "opus+review"
+ },
+ {
+  "from": "hyperlycemia",
+  "to": "hyperglycemia",
+  "source": "opus+review"
+ },
+ {
+  "from": "utric acid",
+  "to": "citric acid",
+  "source": "opus+review"
+ },
+ {
+  "from": "Weiman's",
+  "to": "Wyman's",
+  "source": "opus+review",
+  "context": [
+   "blueberry",
+   "blueberries",
+   "juice"
+  ],
+  "window": 6
+ },
+ {
+  "from": "shopweimans",
+  "to": "shopwymans",
+  "source": "opus+review"
+ },
+ {
+  "from": "sybaric dermatitis",
+  "to": "seborrheic dermatitis",
+  "source": "opus+review"
+ },
+ {
+  "from": "seboric dermatitis",
+  "to": "seborrheic dermatitis",
+  "source": "opus+review"
+ },
+ {
+  "from": "actynic keratosis",
+  "to": "actinic keratosis",
+  "source": "opus+review"
+ },
+ {
+  "from": "germatoxins",
+  "to": "dermatoxins",
+  "source": "opus+review"
+ },
+ {
+  "from": "a dectopic heartbeat",
+  "to": "an ectopic heartbeat",
+  "source": "opus+review"
+ },
+ {
+  "from": "glycevate",
+  "to": "glyphosate",
+  "source": "opus+review"
+ },
+ {
+  "from": "pitaia",
+  "to": "pitaya",
+  "source": "opus+review"
+ },
+ {
+  "from": "pitaille",
+  "to": "pitaya",
+  "source": "opus+review"
+ },
+ {
+  "from": "frozen pittier",
+  "to": "frozen pitaya",
+  "source": "opus+review"
+ },
+ {
+  "from": "liver lovules",
+  "to": "liver lobules",
+  "source": "opus+review"
+ },
+ {
+  "from": "exema",
+  "to": "eczema",
+  "source": "opus+review"
+ },
+ {
+  "from": "eczema spriase",
+  "to": "eczema psoriasis",
+  "source": "opus+review"
+ },
+ {
+  "from": "scuriasis",
+  "to": "psoriasis",
+  "source": "opus+review"
+ },
+ {
+  "from": "ambrosa",
+  "to": "Ambrosia",
+  "source": "opus+review",
+  "context": [
+   "gala",
+   "braeburn",
+   "lady",
+   "apple",
+   "apples",
+   "fuji"
+  ],
+  "window": 8
+ },
+ {
+  "from": "estorcy",
+  "to": "Ester-C",
+  "source": "opus+review"
+ },
+ {
+  "from": "estrocy",
+  "to": "Ester-C",
+  "source": "opus+review"
+ },
+ {
+  "from": "estre c",
+  "to": "Ester-C",
+  "source": "opus+review"
+ },
+ {
+  "from": "lithocytes",
+  "to": "lymphocytes",
+  "source": "opus+review"
+ },
+ {
+  "from": "basal fills",
+  "to": "basophils",
+  "source": "opus+review",
+  "context": [
+   "monocytes",
+   "neutrophils",
+   "lymphocytes",
+   "lithocytes",
+   "immune"
+  ],
+  "window": 8
+ },
+ {
+  "from": "lemonbalt",
+  "to": "lemon balm",
+  "source": "opus+review"
+ },
+ {
+  "from": "solveemergy",
+  "to": "Vimergy",
+  "source": "opus+review"
+ },
+ {
+  "from": "theramagee",
+  "to": "the Vimergy",
+  "source": "opus+review"
+ },
+ {
+  "from": "vimriti",
+  "to": "Vimergy",
+  "source": "opus+review"
+ },
+ {
+  "from": "vimerichese",
+  "to": "Vimergy's",
+  "source": "opus+review"
+ },
+ {
+  "from": "vimerich",
+  "to": "Vimergy",
+  "source": "opus+review"
+ },
+ {
+  "from": "vimrachy",
+  "to": "Vimergy",
+  "source": "opus+review"
+ },
+ {
+  "from": "bimrogy",
+  "to": "Vimergy",
+  "source": "opus+review"
+ },
+ {
+  "from": "the elysines",
+  "to": "the L-lysine",
+  "source": "opus+review"
+ },
+ {
+  "from": "celerated juice",
+  "to": "celery juice",
+  "source": "opus+review"
+ },
+ {
+  "from": "cellarid juice",
+  "to": "celery juice",
+  "source": "opus+review"
+ },
+ {
+  "from": "celerate juice",
+  "to": "celery juice",
+  "source": "opus+review"
+ },
+ {
+  "from": "scallery juice",
+  "to": "celery juice",
+  "source": "opus+review"
+ },
+ {
+  "from": "cellarious book",
+  "to": "Celery Juice book",
+  "source": "opus+review"
+ },
+ {
+  "from": "interdate age",
+  "to": "internet age",
+  "source": "opus+review"
+ },
+ {
+  "from": "zuccanis",
+  "to": "zucchinis",
+  "source": "opus+review"
+ },
+ {
+  "from": "intoxic heavy metals",
+  "to": "toxic heavy metals",
+  "source": "opus+review"
+ },
+ {
+  "from": "sorelins",
+  "to": "psoralens",
+  "source": "opus+review"
+ },
+ {
+  "from": "soralen's",
+  "to": "psoralens",
+  "source": "opus+review"
+ },
+ {
+  "from": "an ncap",
+  "to": "an endcap",
+  "source": "opus+review"
+ },
+ {
+  "from": "marsa",
+  "to": "MRSA",
+  "source": "opus+review",
+  "context": [
+   "diff",
+   "superbugs",
+   "superbug",
+   "antibiotics",
+   "antibiotic"
+  ],
+  "window": 8
+ },
+ {
+  "from": "epcine bar",
+  "to": "Epstein-Barr",
+  "source": "opus+review"
+ },
+ {
+  "from": "agglutamine",
+  "to": "L-glutamine",
+  "source": "opus+review"
+ },
+ {
+  "from": "potassium benzenate",
+  "to": "potassium benzoate",
+  "source": "opus+review"
+ },
+ {
+  "from": "cedic acid",
+  "to": "acetic acid",
+  "source": "opus+review"
+ },
+ {
+  "from": "tricheminal",
+  "to": "trigeminal",
+  "source": "opus+review"
+ },
+ {
+  "from": "pergeminal neuralgia",
+  "to": "trigeminal neuralgia",
+  "source": "opus+review"
+ },
+ {
+  "from": "anticyanins",
+  "to": "anthocyanins",
+  "source": "opus+review"
+ },
+ {
+  "from": "sinomegalovirus",
+  "to": "cytomegalovirus",
+  "source": "opus+review"
+ },
+ {
+  "from": "basal philt",
+  "to": "basophils",
+  "source": "opus+review"
+ },
+ {
+  "from": "on TickTick",
+  "to": "on TikTok",
+  "source": "opus+review",
+  "context": [
+   "find",
+   "tiktok"
+  ],
+  "window": 8
+ },
+ {
+  "from": "opstein bar",
+  "to": "Epstein-Barr",
+  "source": "opus+review"
+ },
+ {
+  "from": "fmthfr",
+  "to": "MTHFR",
+  "source": "opus+review"
+ },
+ {
+  "from": "stentomegalovirus",
+  "to": "cytomegalovirus",
+  "source": "opus+review"
+ },
+ {
+  "from": "ameglovirus",
+  "to": "cytomegalovirus",
+  "source": "opus+review"
+ },
+ {
+  "from": "shekels virus",
+  "to": "shingles virus",
+  "source": "opus+review"
+ },
+ {
+  "from": "vemragy",
+  "to": "Vimergy",
+  "source": "opus+review"
+ },
+ {
+  "from": "Viver G",
+  "to": "Vimergy",
+  "source": "opus+review"
+ },
+ {
+  "from": "trigeminal neurologia",
+  "to": "trigeminal neuralgia",
+  "source": "opus+review"
+ },
+ {
+  "from": "trigeminal ralga",
+  "to": "trigeminal neuralgia",
+  "source": "opus+review"
+ },
+ {
+  "from": "triterminal neuralgia",
+  "to": "trigeminal neuralgia",
+  "source": "opus+review"
+ },
+ {
+  "from": "asteriflux",
+  "to": "acid reflux",
+  "source": "opus+review"
+ },
+ {
+  "from": "cassoparesis",
+  "to": "gastroparesis",
+  "source": "opus+review"
+ },
+ {
+  "from": "cregasoparisis",
+  "to": "gastroparesis",
+  "source": "opus+review"
+ },
+ {
+  "from": "live on ngtv",
+  "to": "live on IGTV",
+  "source": "opus+review"
+ },
+ {
+  "from": "mbcfs",
+  "to": "ME/CFS",
+  "source": "opus+review"
+ },
+ {
+  "from": "mcfs",
+  "to": "ME/CFS",
+  "source": "opus+review",
+  "context": [
+   "chronic",
+   "fatigue"
+  ],
+  "window": 6
+ },
+ {
+  "from": "myocytes",
+  "to": "monocytes",
+  "source": "opus+review",
+  "context": [
+   "basophils",
+   "lymphocytes"
+  ],
+  "window": 6
+ },
+ {
+  "from": "monolucleosis",
+  "to": "mononucleosis",
+  "source": "opus+review"
+ },
+ {
+  "from": "macalmedian",
+  "to": "Medical Medium",
+  "source": "opus+review"
+ },
+ {
+  "from": "medicalimmune.com",
+  "to": "medicalmedium.com",
+  "source": "opus+review"
+ },
+ {
+  "from": "entometriosis",
+  "to": "endometriosis",
+  "source": "opus+review"
+ },
+ {
+  "from": "frenic nerve",
+  "to": "phrenic nerve",
+  "source": "opus+review"
+ },
+ {
+  "from": "phallobium",
+  "to": "fallopian",
+  "source": "opus+review"
+ },
+ {
+  "from": "astrojid",
+  "to": "estrogen",
+  "source": "opus+review"
+ },
+ {
+  "from": "malgums",
+  "to": "amalgams",
+  "source": "opus+review",
+  "context": [
+   "mouth",
+   "fillings",
+   "teeth"
+  ],
+  "window": 6
+ },
+ {
+  "from": "necrologists",
+  "to": "neurologists",
+  "source": "opus+review",
+  "context": [
+   "doctors",
+   "doctor"
+  ],
+  "window": 8
+ },
+ {
+  "from": "stulfa rich",
+  "to": "sulfur-rich",
+  "source": "opus+review"
+ },
+ {
+  "from": "lymphodemus",
+  "to": "lymphedema",
+  "source": "opus+review"
+ },
+ {
+  "from": "of cumulations",
+  "to": "of accumulations",
+  "source": "opus+review"
+ },
+ {
+  "from": "gams millet",
+  "to": "yams, millet",
+  "source": "opus+review"
+ },
+ {
+  "from": "vimerg",
+  "to": "Vimergy",
+  "source": "opus+review"
+ },
+ {
+  "from": "dieticulitis",
+  "to": "diverticulitis",
+  "source": "opus+review"
+ },
+ {
+  "from": "acenophilic",
+  "to": "eosinophilic",
+  "source": "opus+review"
+ },
+ {
+  "from": "monoeding cleanse",
+  "to": "mono eating cleanse",
+  "source": "opus+review"
+ },
+ {
+  "from": "cytomegrovirus",
+  "to": "cytomegalovirus",
+  "source": "opus+review"
+ },
+ {
+  "from": "adelase",
+  "to": "aldolase",
+  "source": "opus+review"
+ },
+ {
+  "from": "adelaide b hereditary",
+  "to": "aldolase B hereditary",
+  "source": "opus+review"
+ },
+ {
+  "from": "chemtrolls",
+  "to": "chemtrails",
+  "source": "opus+review"
+ },
+ {
+  "from": "chemtroll",
+  "to": "chemtrail",
+  "source": "opus+review"
+ },
+ {
+  "from": "chemtree episode",
+  "to": "Chemtrail episode",
+  "source": "opus+review"
+ },
+ {
+  "from": "chemtro podcast",
+  "to": "Chemtrail podcast",
+  "source": "opus+review"
+ },
+ {
+  "from": "chemchill episode",
+  "to": "Chemtrail episode",
+  "source": "opus+review"
+ },
+ {
+  "from": "thermag wild blueberry",
+  "to": "Vimergy wild blueberry",
+  "source": "opus+review"
+ },
+ {
+  "from": "memerjee",
+  "to": "Vimergy",
+  "source": "opus+review"
+ },
+ {
+  "from": "dimmerjee",
+  "to": "Vimergy",
+  "source": "opus+review"
+ },
+ {
+  "from": "bimmerjee",
+  "to": "Vimergy",
+  "source": "opus+review"
+ },
+ {
+  "from": "zivimragy",
+  "to": "Vimergy",
+  "source": "opus+review"
+ },
+ {
+  "from": "epdha",
+  "to": "EPA DHA",
+  "source": "opus+review"
+ },
+ {
+  "from": "cat's glaw",
+  "to": "cat's claw",
+  "source": "opus+review"
+ },
+ {
+  "from": "llycine",
+  "to": "L-lysine",
+  "source": "opus+review"
+ },
+ {
+  "from": "collagulating",
+  "to": "coagulating",
+  "source": "opus+review"
+ },
+ {
+  "from": "gasturitis",
+  "to": "gastritis",
+  "source": "opus+review"
+ },
+ {
+  "from": "mdcfs",
+  "to": "ME/CFS",
+  "source": "opus+review"
+ },
+ {
+  "from": "omegageeasters",
+  "to": "omegajuicers",
+  "source": "opus+review"
+ },
+ {
+  "from": "megaducers",
+  "to": "omegajuicers",
+  "source": "opus+review"
+ },
+ {
+  "from": "momegranate",
+  "to": "pomegranate",
+  "source": "opus+review"
+ },
+ {
+  "from": "spleen ectomies",
+  "to": "splenectomies",
+  "source": "opus+review"
+ },
+ {
+  "from": "didiligo",
+  "to": "vitiligo",
+  "source": "opus+review"
+ },
+ {
+  "from": "trigental neuralgia",
+  "to": "trigeminal neuralgia",
+  "source": "opus+review"
+ },
+ {
+  "from": "abilitating",
+  "to": "debilitating",
+  "source": "opus+review"
+ },
+ {
+  "from": "glutathion",
+  "to": "glutathione",
+  "source": "opus+review"
+ },
+ {
+  "from": "hashimos",
+  "to": "Hashimoto's",
+  "source": "opus+review"
+ },
+ {
+  "from": "skirtalina",
+  "to": "spirulina",
+  "source": "opus+review"
+ },
+ {
+  "from": "bimeries",
+  "to": "Vimergy",
+  "source": "opus+review"
+ },
+ {
+  "from": "vimerity",
+  "to": "Vimergy",
+  "source": "opus+review"
+ },
+ {
+  "from": "bimaji",
+  "to": "Vimergy",
+  "source": "opus+review"
+ },
+ {
+  "from": "cleanset hill",
+  "to": "Cleanse to Heal",
+  "source": "opus+review"
+ },
+ {
+  "from": "monoclonses",
+  "to": "mono cleanses",
+  "source": "opus+review"
+ },
+ {
+  "from": "sofiners",
+  "to": "softeners",
+  "source": "opus+review"
+ },
+ {
+  "from": "machetea",
+  "to": "matcha tea",
+  "source": "opus+review"
+ },
+ {
+  "from": "boreala",
+  "to": "Borrelia",
+  "source": "opus+review"
+ },
+ {
+  "from": "litch",
+  "to": "glitch",
+  "source": "opus+review",
+  "context": [
+   "tiktok",
+   "live",
+   "isn't"
+  ],
+  "window": 5
+ },
+ {
+  "from": "schengel's virus",
+  "to": "shingles virus",
+  "source": "opus+review"
+ },
+ {
+  "from": "krullina",
+  "to": "chlorella",
+  "source": "opus+review"
+ },
+ {
+  "from": "ephrinephrine",
+  "to": "epinephrine",
+  "source": "opus+review"
+ },
+ {
+  "from": "methylbombin",
+  "to": "methylcobalamin",
+  "source": "opus+review"
+ },
+ {
+  "from": "denosyclobombin",
+  "to": "adenosylcobalamin",
+  "source": "opus+review"
+ },
+ {
+  "from": "mechelmeam",
+  "to": "Medical Medium",
+  "source": "opus+review"
+ },
+ {
+  "from": "sparschetta",
+  "to": "bruschetta",
+  "source": "opus+review"
+ },
+ {
+  "from": "persghetta",
+  "to": "bruschetta",
+  "source": "opus+review"
+ },
+ {
+  "from": "brisketta",
+  "to": "bruschetta",
+  "source": "opus+review"
+ },
+ {
+  "from": "obesia",
+  "to": "Babesia",
+  "source": "opus+review"
+ },
+ {
+  "from": "dipcytomegalovirus",
+  "to": "cytomegalovirus",
+  "source": "opus+review"
+ },
+ {
+  "from": "aczema",
+  "to": "eczema",
+  "source": "opus+review"
+ },
+ {
+  "from": "sepstein bar",
+  "to": "Epstein-Barr",
+  "source": "opus+review"
+ },
+ {
+  "from": "spimorgy",
+  "to": "Vimergy",
+  "source": "opus+review"
+ },
+ {
+  "from": "lantic dolls",
+  "to": "Atlantic dulse",
+  "source": "opus+review"
+ },
+ {
+  "from": "Atlantic dolls",
+  "to": "Atlantic dulse",
+  "source": "opus+review"
+ },
+ {
+  "from": "maltodexin",
+  "to": "maltodextrin",
+  "source": "opus+review"
+ },
+ {
+  "from": "harnia",
+  "to": "hernia",
+  "source": "opus+review"
+ },
+ {
+  "from": "exomes",
+  "to": "exosomes",
+  "source": "opus+review",
+  "context": [
+   "virus",
+   "viruses",
+   "viral"
+  ],
+  "window": 8
+ },
+ {
+  "from": "ash will gondah",
+  "to": "ashwagandha",
+  "source": "opus+review"
+ },
+ {
+  "from": "toxi-keppy metals",
+  "to": "toxic heavy metals",
+  "source": "opus+review"
+ },
+ {
+  "from": "toxi keppy metals",
+  "to": "toxic heavy metals",
+  "source": "opus+review"
+ },
+ {
+  "from": "avhd",
+  "to": "ADHD",
+  "source": "opus+review"
+ },
+ {
+  "from": "exomissoriasis",
+  "to": "eczema, psoriasis",
+  "source": "opus+review"
+ },
+ {
+  "from": "eczema striasis",
+  "to": "eczema psoriasis",
+  "source": "opus+review"
+ },
+ {
+  "from": "Medical Weean",
+  "to": "Medical Medium",
+  "source": "opus+review"
+ },
+ {
+  "from": "Medical Wean",
+  "to": "Medical Medium",
+  "source": "opus+review"
+ },
+ {
+  "from": "Megaline Podcast",
+  "to": "Medical Medium Podcast",
+  "source": "opus+review"
+ },
+ {
+  "from": "stipping sauce",
+  "to": "dipping sauce",
+  "source": "opus+review"
+ },
+ {
+  "from": "start spratling",
+  "to": "start sprouting",
+  "source": "opus+review"
+ },
+ {
+  "from": "it restorates you",
+  "to": "it restores you",
+  "source": "opus+review"
+ },
+ {
+  "from": "Vemur G",
+  "to": "Vimergy",
+  "source": "opus+review"
+ },
+ {
+  "from": "LaBloodDraw",
+  "to": "lab blood draw",
+  "source": "opus+review"
+ },
+ {
+  "from": "Inori rolls",
+  "to": "nori rolls",
+  "source": "opus+review"
+ },
+ {
+  "from": "vimears",
+  "to": "veneers",
+  "source": "opus+review"
+ },
+ {
+  "from": "curation therapy",
+  "to": "chelation therapy",
+  "source": "opus+review"
+ },
+ {
+  "from": "antimuclear",
+  "to": "antinuclear",
+  "source": "opus+review"
+ },
+ {
+  "from": "sendermegalovirus",
+  "to": "cytomegalovirus",
+  "source": "opus+review"
+ },
+ {
+  "from": "cytoneglob virus",
+  "to": "cytomegalovirus",
+  "source": "opus+review"
+ },
+ {
+  "from": "ceolite",
+  "to": "zeolite",
+  "source": "opus+review"
+ },
+ {
+  "from": "using xenolite",
+  "to": "using zeolite",
+  "source": "opus+review"
+ },
+ {
+  "from": "apocryphary",
+  "to": "apothecary",
+  "source": "opus+review"
+ },
+ {
+  "from": "inflams",
+  "to": "inflames",
+  "source": "opus+review"
+ },
+ {
+  "from": "vidaligo",
+  "to": "vitiligo",
+  "source": "opus+review"
+ },
+ {
+  "from": "niastatin",
+  "to": "nystatin",
+  "source": "opus+review"
+ },
+ {
+  "from": "trishinone yeast",
+  "to": "nutritional yeast",
+  "source": "opus+review"
+ },
+ {
+  "from": "repurbishing",
+  "to": "refurbishing",
+  "source": "opus+review"
+ },
+ {
+  "from": "accipical",
+  "to": "occipital",
+  "source": "opus+review"
+ },
+ {
+  "from": "elium",
+  "to": "ileum",
+  "source": "opus+review",
+  "context": [
+   "biotics",
+   "b12",
+   "intestine",
+   "intestines",
+   "gut",
+   "camp"
+  ],
+  "window": 8
+ },
+ {
+  "from": "ceptary juice",
+  "to": "celery juice",
+  "source": "opus+review"
+ },
+ {
+  "from": "osopenia",
+  "to": "osteopenia",
+  "source": "opus+review"
+ },
+ {
+  "from": "osoporosis",
+  "to": "osteoporosis",
+  "source": "opus+review"
+ },
+ {
+  "from": "dietitimidious earth",
+  "to": "diatomaceous earth",
+  "source": "opus+review"
+ },
+ {
+  "from": "compucha",
+  "to": "kombucha",
+  "source": "opus+review"
+ },
+ {
+  "from": "medical weam",
+  "to": "Medical Medium",
+  "source": "opus+review"
+ },
+ {
+  "from": "adremals",
+  "to": "adrenals",
+  "source": "opus+review"
+ },
+ {
+  "from": "a fibrillator",
+  "to": "a defibrillator",
+  "source": "opus+review"
+ },
+ {
+  "from": "an affibrillator",
+  "to": "a defibrillator",
+  "source": "opus+review"
+ },
+ {
+  "from": "chemtrills",
+  "to": "chemtrails",
+  "source": "opus+review"
+ },
+ {
+  "from": "hasmodus thyroiditis",
+  "to": "Hashimoto's thyroiditis",
+  "source": "opus+review"
+ },
+ {
+  "from": "uthv6",
+  "to": "HHV-6",
+  "source": "opus+review"
+ },
+ {
+  "from": "too much oxalator",
+  "to": "too much oxalate",
+  "source": "opus+review"
+ },
+ {
+  "from": "parasitable infection",
+  "to": "parasitic infection",
+  "source": "opus+review"
+ },
+ {
+  "from": "cialite",
+  "to": "zeolite",
+  "source": "opus+review"
+ },
+ {
+  "from": "ventanite",
+  "to": "bentonite",
+  "source": "opus+review"
+ },
+ {
+  "from": "treptococcus",
+  "to": "Streptococcus",
+  "source": "opus+review"
+ },
+ {
+  "from": "adenocyclobalamin",
+  "to": "adenosylcobalamin",
+  "source": "opus+review"
+ },
+ {
+  "from": "denocycobalamin",
+  "to": "adenosylcobalamin",
+  "source": "opus+review"
+ },
+ {
+  "from": "vimritchi",
+  "to": "Vimergy",
+  "source": "opus+review"
+ },
+ {
+  "from": "vemergis",
+  "to": "Vimergy",
+  "source": "opus+review"
+ },
+ {
+  "from": "themergy",
+  "to": "Vimergy",
+  "source": "opus+review"
+ },
+ {
+  "from": "cetomegalovirus",
+  "to": "cytomegalovirus",
+  "source": "opus+review"
+ },
+ {
+  "from": "cytomagmavirus",
+  "to": "cytomegalovirus",
+  "source": "opus+review"
+ },
+ {
+  "from": "gapstein",
+  "to": "Epstein",
+  "source": "opus+review"
+ },
+ {
+  "from": "zeolitis",
+  "to": "zeolite is",
+  "source": "opus+review"
+ },
+ {
+  "from": "syacobalamin",
+  "to": "cyanocobalamin",
+  "source": "opus+review"
+ },
+ {
+  "from": "salikabalamin",
+  "to": "cyanocobalamin",
+  "source": "opus+review"
+ },
+ {
+  "from": "salicobalamin",
+  "to": "cyanocobalamin",
+  "source": "opus+review"
+ },
+ {
+  "from": "sayo kabalamin",
+  "to": "cyanocobalamin",
+  "source": "opus+review"
+ },
+ {
+  "from": "sterlina",
+  "to": "spirulina",
+  "source": "opus+review"
+ },
+ {
+  "from": "drografoles",
+  "to": "dropperfuls",
+  "source": "opus+review"
+ },
+ {
+  "from": "symplexes",
+  "to": "simplexes",
+  "source": "opus+review"
+ },
+ {
+  "from": "squariderma",
+  "to": "scleroderma",
+  "source": "opus+review"
+ },
+ {
+  "from": "nutrophils",
+  "to": "neutrophils",
+  "source": "opus+review"
+ },
+ {
+  "from": "telepropter",
+  "to": "teleprompter",
+  "source": "opus+review"
+ },
+ {
+  "from": "tindness",
+  "to": "tightness",
+  "source": "opus+review"
+ },
+ {
+  "from": "cytobel virus",
+  "to": "cytomegalovirus",
+  "source": "opus+review"
+ },
+ {
+  "from": "cytomegala",
+  "to": "cytomegalo",
+  "source": "opus+review"
+ },
+ {
+  "from": "megageezers.com",
+  "to": "omegajuicers.com",
+  "source": "opus+review"
+ },
+ {
+  "from": "omegageeacers.com",
+  "to": "omegajuicers.com",
+  "source": "opus+review"
+ },
+ {
+  "from": "omegageeacers",
+  "to": "omegajuicers",
+  "source": "opus+review"
+ },
+ {
+  "from": "anositol",
+  "to": "inositol",
+  "source": "opus+review"
+ },
+ {
+  "from": "telepropon",
+  "to": "teleprompter",
+  "source": "opus+review"
+ },
+ {
+  "from": "drinking cilleries",
+  "to": "drinking celery juice",
+  "source": "opus+review"
+ },
+ {
+  "from": "low OHCL",
+  "to": "low HCl",
+  "source": "opus+review"
+ },
+ {
+  "from": "MM900 HGES",
+  "to": "MM900HDS",
+  "source": "opus+review"
+ },
+ {
+  "from": "titrified",
+  "to": "petrified",
+  "source": "opus+review"
+ },
+ {
+  "from": "Lemmergy",
+  "to": "Vimergy",
+  "source": "opus+review"
+ },
+ {
+  "from": "Vimergine",
+  "to": "Vimergy",
+  "source": "opus+review"
+ },
+ {
+  "from": "Vimradi",
+  "to": "Vimergy",
+  "source": "opus+review"
+ },
+ {
+  "from": "medicalmeat.com",
+  "to": "medicalmedium.com",
+  "source": "opus+review"
+ },
+ {
+  "from": "medicalmeeme.com",
+  "to": "medicalmedium.com",
+  "source": "opus+review"
+ },
+ {
+  "from": "Morning Clunge Challenge",
+  "to": "Morning Cleanse Challenge",
+  "source": "opus+review"
+ },
+ {
+  "from": "Shrepp",
+  "to": "Strep",
+  "source": "opus+review"
+ },
+ {
+  "from": "Pubendum nerve",
+  "to": "pudendal nerve",
+  "source": "opus+review"
+ },
+ {
+  "from": "phlebotomis",
+  "to": "phlebotomist",
+  "source": "opus+review"
+ },
+ {
+  "from": "ectopuncturist",
+  "to": "acupuncturist",
+  "source": "opus+review"
+ },
+ {
+  "from": "heart calps",
+  "to": "heart palps",
+  "source": "opus+review"
+ },
+ {
+  "from": "chorbet",
+  "to": "sorbet",
+  "source": "opus+review"
+ },
+ {
+  "from": "screenshoot",
+  "to": "screenshot",
+  "source": "opus+review"
+ },
+ {
+  "from": "scinted",
+  "to": "scented",
+  "source": "opus+review"
+ },
+ {
+  "from": "cedeno silkobalamin",
+  "to": "adenosylcobalamin",
+  "source": "opus+review"
+ },
+ {
+  "from": "adiosylcobalamin",
+  "to": "adenosylcobalamin",
+  "source": "opus+review"
+ },
+ {
+  "from": "astrogandha",
+  "to": "ashwagandha",
+  "source": "opus+review"
+ },
+ {
+  "from": "mphf",
+  "to": "MTHF",
+  "source": "opus+review"
+ },
+ {
+  "from": "this autonomia",
+  "to": "dysautonomia",
+  "source": "opus+review"
+ },
+ {
+  "from": "zuodenum",
+  "to": "duodenum",
+  "source": "opus+review"
+ },
+ {
+  "from": "incestinal",
+  "to": "intestinal",
+  "source": "opus+review"
+ },
+ {
+  "from": "crohn's scolitis",
+  "to": "Crohn's, colitis",
+  "source": "opus+review"
+ },
+ {
+  "from": "appenix",
+  "to": "appendix",
+  "source": "opus+review"
+ },
+ {
+  "from": "penix ruptures",
+  "to": "appendix ruptures",
+  "source": "opus+review"
+ },
+ {
+  "from": "dysoptomia",
+  "to": "dysautonomia",
+  "source": "opus+review"
+ },
+ {
+  "from": "cytomegalyovirus",
+  "to": "cytomegalovirus",
+  "source": "opus+review"
+ },
+ {
+  "from": "budstream",
+  "to": "bloodstream",
+  "source": "opus+review"
+ },
+ {
+  "from": "goitogenic",
+  "to": "goitrogenic",
+  "source": "opus+review"
+ },
+ {
+  "from": "kleitz",
+  "to": "colitis",
+  "source": "opus+review",
+  "context": [
+   "crohn's",
+   "ibs"
+  ],
+  "window": 8
+ },
+ {
+  "from": "nmlm",
+  "to": "MLM",
+  "source": "opus+review"
+ },
+ {
+  "from": "frigivore",
+  "to": "frugivore",
+  "source": "opus+review"
+ },
+ {
+  "from": "methecovolumin",
+  "to": "methylcobalamin",
+  "source": "opus+review"
+ },
+ {
+  "from": "setomegalovirus",
+  "to": "cytomegalovirus",
+  "source": "opus+review"
+ },
+ {
+  "from": "osteopinia",
+  "to": "osteopenia",
+  "source": "opus+review"
+ },
+ {
+  "from": "sodium biocarbonate",
+  "to": "sodium bicarbonate",
+  "source": "opus+review"
+ },
+ {
+  "from": "beridians",
+  "to": "meridians",
+  "source": "opus+review"
+ },
+ {
+  "from": "koli",
+  "to": "coli",
+  "source": "opus+review",
+  "context": [
+   "staph",
+   "strep",
+   "bugs"
+  ],
+  "window": 6
+ },
+ {
+  "from": "macheteen green tea",
+  "to": "matcha green tea",
+  "source": "opus+review"
+ },
+ {
+  "from": "disastrally",
+  "to": "disastrously",
+  "source": "opus+review"
+ },
+ {
+  "from": "hypospadious",
+  "to": "hypospadias",
+  "source": "opus+review"
+ },
+ {
+  "from": "hyperspatious",
+  "to": "hypospadias",
+  "source": "opus+review",
+  "context": [
+   "penis",
+   "urethra",
+   "hitler"
+  ],
+  "window": 8
+ },
+ {
+  "from": "trinkling",
+  "to": "trickling",
+  "source": "opus+review"
+ },
+ {
+  "from": "atlantico seaweed",
+  "to": "Atlantic seaweed",
+  "source": "opus+review"
+ },
+ {
+  "from": "arogola",
+  "to": "arugula",
+  "source": "opus+review"
+ },
+ {
+  "from": "antiparesants",
+  "to": "antidepressants",
+  "source": "opus+review"
+ },
+ {
+  "from": "phytopenical",
+  "to": "phytochemical",
+  "source": "opus+review"
+ },
+ {
+  "from": "enositol",
+  "to": "inositol",
+  "source": "opus+review"
+ },
+ {
+  "from": "teleproctor",
+  "to": "teleprompter",
+  "source": "opus+review"
+ },
+ {
+  "from": "jaxxat inhibitor",
+  "to": "JAK inhibitor",
+  "source": "opus+review"
+ },
+ {
+  "from": "godsents",
+  "to": "godsends",
+  "source": "opus+review"
+ },
+ {
+  "from": "godsense",
+  "to": "godsends",
+  "source": "opus+review",
+  "context": [
+   "golden",
+   "seal",
+   "goldenseal",
+   "juice",
+   "my"
+  ],
+  "window": 6
+ },
+ {
+  "from": "shaga",
+  "to": "chaga",
+  "source": "opus+review"
+ },
+ {
+  "from": "zanaheim",
+  "to": "Anaheim",
+  "source": "opus+review"
+ },
+ {
+  "from": "ankles and spandolitis",
+  "to": "ankylosing spondylitis",
+  "source": "opus+review"
+ },
+ {
+  "from": "spandolitis",
+  "to": "spondylitis",
+  "source": "opus+review"
+ },
+ {
+  "from": "monoclenze",
+  "to": "mono cleanse",
+  "source": "opus+review"
+ },
+ {
+  "from": "obstinable",
+  "to": "obtainable",
+  "source": "opus+review"
+ },
+ {
+  "from": "cell retries",
+  "to": "celery juice",
+  "source": "opus+review"
+ },
+ {
+  "from": "Medi-Medium",
+  "to": "Medical Medium",
+  "source": "opus+review"
+ },
+ {
+  "from": "Norexia",
+  "to": "anorexia",
+  "source": "opus+review"
+ },
+ {
+  "from": "horserad",
+  "to": "horseradish",
+  "source": "opus+review"
+ },
+ {
+  "from": "Osoyoz",
+  "to": "Osoyoos",
+  "source": "opus+review"
+ },
+ {
+  "from": "Desilary Jews",
+  "to": "the celery juice",
+  "source": "opus+review"
+ },
+ {
+  "from": "Airwanda",
+  "to": "Erewhon",
+  "source": "opus+review"
+ },
+ {
+  "from": "Fort Lardo",
+  "to": "Fort Lauderdale",
+  "source": "opus+review"
+ },
+ {
+  "from": "alipurnal",
+  "to": "allopurinol",
+  "source": "opus+review"
+ },
+ {
+  "from": "Bittuotary",
+  "to": "pituitary",
+  "source": "opus+review"
+ },
+ {
+  "from": "butternet squash",
+  "to": "butternut squash",
+  "source": "opus+review"
+ },
+ {
+  "from": "sendic candles",
+  "to": "scented candles",
+  "source": "opus+review"
+ },
+ {
+  "from": "redenticide",
+  "to": "rodenticide",
+  "source": "opus+review"
+ },
+ {
+  "from": "somnonella",
+  "to": "salmonella",
+  "source": "opus+review"
+ },
+ {
+  "from": "ambulism",
+  "to": "embolism",
+  "source": "opus+review"
+ },
+ {
+  "from": "adenosocobalamin",
+  "to": "adenosylcobalamin",
+  "source": "opus+review"
+ },
+ {
+  "from": "athenocobalamin",
+  "to": "adenosylcobalamin",
+  "source": "opus+review"
+ },
+ {
+  "from": "superstaff",
+  "to": "super staph",
+  "source": "opus+review",
+  "context": [
+   "mrsa",
+   "diff",
+   "antibiotic",
+   "antibiotics",
+   "superstrap",
+   "strep",
+   "resistant"
+  ],
+  "window": 8
+ },
+ {
+  "from": "superstrap",
+  "to": "super strep",
+  "source": "opus+review",
+  "context": [
+   "mrsa",
+   "diff",
+   "antibiotic",
+   "antibiotics",
+   "superstaff",
+   "staph",
+   "resistant"
+  ],
+  "window": 8
+ },
+ {
+  "from": "vegasner",
+  "to": "vagus nerve",
+  "source": "opus+review"
+ },
+ {
+  "from": "Vemir G2",
+  "to": "Vimergy too",
+  "source": "opus+review"
+ },
+ {
+  "from": "vemir",
+  "to": "Vimergy",
+  "source": "opus+review"
+ },
+ {
+  "from": "bitochemical",
+  "to": "phytochemical",
+  "source": "opus+review"
+ },
+ {
+  "from": "bacitrecin",
+  "to": "bacitracin",
+  "source": "opus+review"
+ },
+ {
+  "from": "embiotic",
+  "to": "antibiotic",
+  "source": "opus+review"
+ },
+ {
+  "from": "set of megavirus",
+  "to": "cytomegalovirus",
+  "source": "opus+review"
+ },
+ {
+  "from": "boogaroo",
+  "to": "buckaroo",
+  "source": "opus+review",
+  "context": [
+   "buckle"
+  ],
+  "window": 4
+ },
+ {
+  "from": "addukey",
+  "to": "adzuki",
+  "source": "opus+review"
+ },
+ {
+  "from": "Beezlebug",
+  "to": "Beelzebub",
+  "source": "opus+review"
+ },
+ {
+  "from": "anaphetamines",
+  "to": "amphetamines",
+  "source": "opus+review"
+ },
+ {
+  "from": "sedameglovirus",
+  "to": "cytomegalovirus",
+  "source": "opus+review"
+ },
+ {
+  "from": "saff flour oil",
+  "to": "safflower oil",
+  "source": "opus+review"
+ },
+ {
+  "from": "shilogy",
+  "to": "shilajit",
+  "source": "opus+review"
+ },
+ {
+  "from": "ringy in the ears",
+  "to": "ringing in the ears",
+  "source": "opus+review"
+ },
+ {
+  "from": "Calavasas",
+  "to": "Calabasas",
+  "source": "opus+review"
+ },
+ {
+  "from": "alcarnitine",
+  "to": "L-carnitine",
+  "source": "opus+review"
+ },
+ {
+  "from": "judgedeth",
+  "to": "judgeth",
+  "source": "opus+review"
+ },
+ {
+  "from": "thiam wood",
+  "to": "thyine wood",
+  "source": "opus+review"
+ },
+ {
+  "from": "glucagen",
+  "to": "glucagon",
+  "source": "opus+review"
+ },
+ {
+  "from": "Exxom and psoriasis",
+  "to": "Eczema and psoriasis",
+  "source": "opus+review"
+ },
+ {
+  "from": "hepatites",
+  "to": "hepatitis",
+  "source": "opus+review"
+ },
+ {
+  "from": "schogren",
+  "to": "Sj\u00f6gren",
+  "source": "opus+review"
+ },
+ {
+  "from": "renault syndrome",
+  "to": "Raynaud's syndrome",
+  "source": "opus+review"
+ },
+ {
+  "from": "misophilioma",
+  "to": "mesothelioma",
+  "source": "opus+review"
+ },
+ {
+  "from": "tertiary aminal neuralgia",
+  "to": "trigeminal neuralgia",
+  "source": "opus+review"
+ },
+ {
+  "from": "fernan",
+  "to": "furan",
+  "source": "opus+review",
+  "context": [
+   "dioxin",
+   "dioxins",
+   "pesticide",
+   "plastic",
+   "chemical",
+   "chemicals"
+  ],
+  "window": 8
+ },
+ {
+  "from": "fernans",
+  "to": "furans",
+  "source": "opus+review",
+  "context": [
+   "dioxin",
+   "dioxins",
+   "pesticide",
+   "plastic",
+   "chemical",
+   "chemicals"
+  ],
+  "window": 8
+ },
+ {
+  "from": "fluffling its feathers",
+  "to": "fluffing its feathers",
+  "source": "opus+review"
+ },
+ {
+  "from": "sickingly",
+  "to": "sickeningly",
+  "source": "opus+review"
+ },
+ {
+  "from": "andromedial cells",
+  "to": "endometrial cells",
+  "source": "opus+review"
+ },
+ {
+  "from": "transiskemic",
+  "to": "transient ischemic",
+  "source": "opus+review"
+ },
+ {
+  "from": "bors case",
+  "to": "worst case",
+  "source": "opus+review"
+ },
+ {
+  "from": "officiados",
+  "to": "aficionados",
+  "source": "opus+review"
+ },
+ {
+  "from": "Ashimoto",
+  "to": "Hashimoto",
+  "source": "opus+review"
+ },
+ {
+  "from": "rhythmias",
+  "to": "arrhythmias",
+  "source": "opus+review",
+  "context": [
+   "heart",
+   "palpitations",
+   "heartbeat",
+   "ectopic"
+  ],
+  "window": 6
+ },
+ {
+  "from": "nataleaf",
+  "to": "nettle leaf",
+  "source": "opus+review"
+ },
+ {
+  "from": "aphalopaeic",
+  "to": "alpha-lipoic",
+  "source": "opus+review"
+ },
+ {
+  "from": "spirulene",
+  "to": "spirulina",
+  "source": "opus+review"
+ },
+ {
+  "from": "Braska family",
+  "to": "Brassica family",
+  "source": "opus+review"
+ },
+ {
+  "from": "bladarach",
+  "to": "bladderwrack",
+  "source": "opus+review"
+ },
+ {
+  "from": "Stenomegla virus",
+  "to": "cytomegalovirus",
+  "source": "opus+review"
+ },
+ {
+  "from": "estra C",
+  "to": "Ester-C",
+  "source": "opus+review"
+ },
+ {
+  "from": "exomacoriasis",
+  "to": "eczema psoriasis",
+  "source": "opus+review"
+ },
+ {
+  "from": "Examen Psoriasis",
+  "to": "eczema psoriasis",
+  "source": "opus+review"
+ },
+ {
+  "from": "pustle",
+  "to": "pustule",
+  "source": "opus+review"
+ },
+ {
+  "from": "landskeepers",
+  "to": "landscapers",
+  "source": "opus+review"
+ },
+ {
+  "from": "at tenic keratosis",
+  "to": "actinic keratosis",
+  "source": "opus+review"
+ },
+ {
+  "from": "intrametrile",
+  "to": "endometrial",
+  "source": "opus+review"
+ },
+ {
+  "from": "entrametrile",
+  "to": "endometrial",
+  "source": "opus+review"
+ },
+ {
+  "from": "entromatial",
+  "to": "endometrial",
+  "source": "opus+review"
+ },
+ {
+  "from": "intermuthial cells",
+  "to": "endometrial cells",
+  "source": "opus+review"
+ },
+ {
+  "from": "dysautomia",
+  "to": "dysautonomia",
+  "source": "opus+review"
+ },
+ {
+  "from": "dysautotomia",
+  "to": "dysautonomia",
+  "source": "opus+review"
+ },
+ {
+  "from": "preciferous",
+  "to": "cruciferous",
+  "source": "opus+review"
+ },
+ {
+  "from": "backos",
+  "to": "backhoes",
+  "source": "opus+review"
+ },
+ {
+  "from": "pocrates",
+  "to": "Hippocrates",
+  "source": "opus+review"
+ },
+ {
+  "from": "black razzarees",
+  "to": "black raspberries",
+  "source": "opus+review"
+ },
+ {
+  "from": "razzarees",
+  "to": "raspberries",
+  "source": "opus+review"
+ },
+ {
+  "from": "your alium",
+  "to": "your ileum",
+  "source": "opus+review"
+ },
+ {
+  "from": "ileo seat",
+  "to": "ileocecal",
+  "source": "opus+review"
+ },
+ {
+  "from": "depstein",
+  "to": "Epstein",
+  "source": "opus+review"
+ },
+ {
+  "from": "letuses",
+  "to": "lettuces",
+  "source": "opus+review"
+ },
+ {
+  "from": "cytomegraviruses",
+  "to": "cytomegaloviruses",
+  "source": "opus+review"
+ },
+ {
+  "from": "psionica",
+  "to": "sciatica",
+  "source": "opus+review"
+ },
+ {
+  "from": "scarcidosis",
+  "to": "sarcoidosis",
+  "source": "opus+review"
+ },
+ {
+  "from": "acheloid",
+  "to": "a keloid",
+  "source": "opus+review"
+ },
+ {
+  "from": "lycan plantis",
+  "to": "lichen planus",
+  "source": "opus+review"
+ },
+ {
+  "from": "concephalitis",
+  "to": "encephalitis",
+  "source": "opus+review"
+ },
+ {
+  "from": "spirulita",
+  "to": "spirulina",
+  "source": "opus+review"
+ },
+ {
+  "from": "antioxidates",
+  "to": "antioxidants",
+  "source": "opus+review"
+ },
+ {
+  "from": "pescadarian",
+  "to": "pescatarian",
+  "source": "opus+review"
+ },
+ {
+  "from": "thyroidites",
+  "to": "thyroiditis",
+  "source": "opus+review"
+ },
+ {
+  "from": "medical bebeam",
+  "to": "Medical Medium",
+  "source": "opus+review"
+ },
+ {
+  "from": "podiarko",
+  "to": "pau d'arco",
+  "source": "opus+review"
+ },
+ {
+  "from": "lapomas",
+  "to": "lipomas",
+  "source": "opus+review"
+ },
+ {
+  "from": "dino silcovalam",
+  "to": "adenosylcobalamin",
+  "source": "opus+review"
+ },
+ {
+  "from": "uparchy",
+  "to": "hierarchy",
+  "source": "opus+review"
+ },
+ {
+  "from": "isomalipaic",
+  "to": "alpha lipoic",
+  "source": "opus+review"
+ },
+ {
+  "from": "rhizones",
+  "to": "rhizomes",
+  "source": "opus+review"
+ },
+ {
+  "from": "collagulate",
+  "to": "coagulate",
+  "source": "opus+review"
+ },
+ {
+  "from": "diet of reticulitis",
+  "to": "diverticulitis",
+  "source": "opus+review"
+ },
+ {
+  "from": "diet of reticulosis",
+  "to": "diverticulosis",
+  "source": "opus+review"
+ },
+ {
+  "from": "brinkle",
+  "to": "wrinkle",
+  "source": "opus+review"
+ },
+ {
+  "from": "ashkandah",
+  "to": "ashwagandha",
+  "source": "opus+review"
+ },
+ {
+  "from": "adenosilcobal",
+  "to": "adenosylcobalamin",
+  "source": "opus+review"
+ },
+ {
+  "from": "spinylitis",
+  "to": "spondylitis",
+  "source": "opus+review"
+ },
+ {
+  "from": "rugel",
+  "to": "arugula",
+  "source": "opus+review",
+  "context": [
+   "greens",
+   "salad",
+   "lettuce",
+   "spinach",
+   "kale"
+  ],
+  "window": 8
+ },
+ {
+  "from": "trigeminal eryalgia",
+  "to": "trigeminal neuralgia",
+  "source": "opus+review"
+ },
+ {
+  "from": "trigeminal analgia",
+  "to": "trigeminal neuralgia",
+  "source": "opus+review"
+ },
+ {
+  "from": "triteminal",
+  "to": "trigeminal",
+  "source": "opus+review"
+ },
+ {
+  "from": "discumbersome",
+  "to": "cumbersome",
+  "source": "opus+review"
+ },
+ {
+  "from": "hemiplagic",
+  "to": "hemiplegic",
+  "source": "opus+review"
+ },
+ {
+  "from": "pharmagabit",
+  "to": "PharmaGABA",
+  "source": "opus+review"
+ },
+ {
+  "from": "neuromagit",
+  "to": "Neuro-Mag",
+  "source": "opus+review"
+ },
+ {
+  "from": "alglutamine",
+  "to": "L-glutamine",
+  "source": "opus+review"
+ },
+ {
+  "from": "methyl sulfonylmethylene",
+  "to": "methylsulfonylmethane",
+  "source": "opus+review"
+ },
+ {
+  "from": "methylsiphonomethalane",
+  "to": "methylsulfonylmethane",
+  "source": "opus+review"
+ },
+ {
+  "from": "electants",
+  "to": "lectins",
+  "source": "opus+review"
+ },
+ {
+  "from": "ibright",
+  "to": "eyebright",
+  "source": "opus+review"
+ },
+ {
+  "from": "baritosefstein",
+  "to": "varieties of Epstein",
+  "source": "opus+review"
+ },
+ {
+  "from": "invocana",
+  "to": "Invokana",
+  "source": "opus+review"
+ },
+ {
+  "from": "janimeth",
+  "to": "Janumet",
+  "source": "opus+review"
+ },
+ {
+  "from": "lupicide",
+  "to": "glipizide",
+  "source": "opus+review"
+ },
+ {
+  "from": "schissandra",
+  "to": "schisandra",
+  "source": "opus+review"
+ },
+ {
+  "from": "unsensitive nerves",
+  "to": "on sensitive nerves",
+  "source": "opus+review"
+ },
+ {
+  "from": "amrize",
+  "to": "MRIs",
+  "source": "opus+review"
+ },
+ {
+  "from": "monosodium glutinate",
+  "to": "monosodium glutamate",
+  "source": "opus+review"
+ },
+ {
+  "from": "didoligo",
+  "to": "vitiligo",
+  "source": "opus+review"
+ },
+ {
+  "from": "acetomegalovirus",
+  "to": "cytomegalovirus",
+  "source": "opus+review"
+ },
+ {
+  "from": "centimegalovirus",
+  "to": "cytomegalovirus",
+  "source": "opus+review"
+ },
+ {
+  "from": "segalovirus",
+  "to": "cytomegalovirus",
+  "source": "opus+review"
+ },
+ {
+  "from": "stetomegalovir",
+  "to": "cytomegalovirus",
+  "source": "opus+review"
+ },
+ {
+  "from": "stedomegalovir",
+  "to": "cytomegalovirus",
+  "source": "opus+review"
+ },
+ {
+  "from": "volumist",
+  "to": "voluminous",
+  "source": "opus+review"
+ },
+ {
+  "from": "vanegers",
+  "to": "vinegars",
+  "source": "opus+review"
+ },
+ {
+  "from": "cortogenic",
+  "to": "goitrogenic",
+  "source": "opus+review"
+ },
+ {
+  "from": "didaligo",
+  "to": "vitiligo",
+  "source": "opus+review"
+ },
+ {
+  "from": "medicalmeadam",
+  "to": "medicalmedium",
+  "source": "opus+review"
+ },
+ {
+  "from": "medicalmenium",
+  "to": "medicalmedium",
+  "source": "opus+review"
+ },
+ {
+  "from": "zinc picolini",
+  "to": "zinc picolinate",
+  "source": "opus+review"
+ },
+ {
+  "from": "stanima",
+  "to": "stamina",
+  "source": "opus+review"
+ },
+ {
+  "from": "glostrum",
+  "to": "colostrum",
+  "source": "opus+review"
+ },
+ {
+  "from": "collyflower",
+  "to": "cauliflower",
+  "source": "opus+review"
+ },
+ {
+  "from": "strizzle",
+  "to": "drizzle",
+  "source": "opus+review"
+ },
+ {
+  "from": "scorcidosis",
+  "to": "sarcoidosis",
+  "source": "opus+review"
+ },
+ {
+  "from": "nidosis",
+  "to": "nodosa",
+  "source": "opus+review",
+  "context": [
+   "polyarteritis"
+  ],
+  "window": 4
+ },
+ {
+  "from": "vimergb",
+  "to": "Vimergy B",
+  "source": "opus+review"
+ },
+ {
+  "from": "capocha",
+  "to": "kabocha",
+  "source": "opus+review"
+ },
+ {
+  "from": "excella",
+  "to": "eczema",
+  "source": "opus+review",
+  "context": [
+   "psoriasis",
+   "liver",
+   "rosacea"
+  ],
+  "window": 6
+ },
+ {
+  "from": "rosestia",
+  "to": "rosacea",
+  "source": "opus+review"
+ },
+ {
+  "from": "hyperichosis",
+  "to": "hyperhidrosis",
+  "source": "opus+review"
+ },
+ {
+  "from": "fidalia",
+  "to": "Vidalia",
+  "source": "opus+review"
+ },
+ {
+  "from": "gepcine bar",
+  "to": "Epstein-Barr",
+  "source": "opus+review"
+ },
+ {
+  "from": "prostitus",
+  "to": "prostatitis",
+  "source": "opus+review"
+ },
+ {
+  "from": "interstitial scythus",
+  "to": "interstitial cystitis",
+  "source": "opus+review"
+ },
+ {
+  "from": "bimersie",
+  "to": "Vimergy",
+  "source": "opus+review"
+ },
+ {
+  "from": "msra",
+  "to": "MRSA",
+  "source": "opus+review"
+ },
+ {
+  "from": "medical meeky",
+  "to": "Medical Medium",
+  "source": "opus+review"
+ },
+ {
+  "from": "meridol",
+  "to": "Maradol",
+  "source": "opus+review",
+  "context": [
+   "papaya",
+   "papayas"
+  ],
+  "window": 8
+ },
+ {
+  "from": "stenocilycobalamin",
+  "to": "adenosylcobalamin",
+  "source": "opus+review"
+ },
+ {
+  "from": "ileus secal",
+  "to": "ileocecal",
+  "source": "opus+review"
+ },
+ {
+  "from": "pits and endivots",
+  "to": "pits and divots",
+  "source": "opus+review"
+ },
+ {
+  "from": "trituminal",
+  "to": "trigeminal",
+  "source": "opus+review"
+ },
+ {
+  "from": "predominer",
+  "to": "pedometer",
+  "source": "opus+review"
+ },
+ {
+  "from": "herticism",
+  "to": "hirsutism",
+  "source": "opus+review"
+ },
+ {
+  "from": "putenital",
+  "to": "pudendal",
+  "source": "opus+review"
+ }
+]
