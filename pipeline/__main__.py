@@ -17,7 +17,9 @@ def main():
     ap.add_argument("--base", default=os.environ.get("SITE_BASE", "/"), help="URL path the site is served under")
     ap.add_argument("--ids", nargs="+", help="opus-pass: only these record ids")
     ap.add_argument("--limit", type=int, help="opus-pass: run at most N pending chunks")
-    ap.add_argument("--parallel", type=int, default=6)
+    ap.add_argument("--words", type=int, default=opus_pass.DEFAULT_WORDS,
+                    help="opus-pass: chunk size in words for talks not already complete")
+    ap.add_argument("--parallel", type=int, default=3, help="opus-pass: concurrent CLI calls (3 fits 14 GB)")
     ap.add_argument("--timeout", type=int, default=300, help="opus-pass: seconds per CLI call")
     ap.add_argument("--dry-run", action="store_true")
     a = ap.parse_args()
@@ -28,7 +30,7 @@ def main():
         stats = records.build(os.path.join(a.raw, "MMTranscripts.zip"), a.build, fetch.read_etag(a.raw))
         print(json.dumps(stats, indent=1))
     elif a.step == "opus-pass":
-        opus_pass.main(a.build, a.ids, a.limit, a.parallel, a.timeout, a.dry_run)
+        opus_pass.main(a.build, a.ids, a.limit, a.parallel, a.timeout, a.dry_run, a.words)
     else:
         n = build_site.build(a.build, a.dist, a.base, os.environ.get("CF_BEACON_TOKEN", "").strip())
         print(f"site: {n} talk pages")

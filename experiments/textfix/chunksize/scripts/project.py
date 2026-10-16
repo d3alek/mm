@@ -51,7 +51,7 @@ def main():
         fp = os.path.join(fix.FIXES, rec["id"] + ".jsonl")
         done = set()
         if os.path.exists(fp):
-            done = {json.loads(l)["sha"] for l in open(fp, encoding="utf-8") if l.strip()}
+            done = {json.loads(l).get("sha") for l in open(fp, encoding="utf-8") if l.strip()}
         run = []
         for i, j, _, sha in chs:
             total_chunks += 1

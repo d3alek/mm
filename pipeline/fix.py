@@ -9,7 +9,8 @@ words. Same semantics the textfix bakeoff measured (experiments/textfix/scripts/
 
 Fix lines are {"cue", "at", "from", "to", "chunk", "sha"}: `from` must sit exactly at offset `at` of cue
 `cue` in the glossary-fixed text (it may run on into following cues); otherwise the edit is skipped.
-Lines without `from` only mark a chunk as done for the opus pass.
+Lines without `from` only mark a chunk as done for the opus pass. A first line {"chunk_words": N} records
+the chunk size the opus pass used for the talk (no such line: 250).
 """
 
 import json

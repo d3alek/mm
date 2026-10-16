@@ -4,7 +4,7 @@ SITE_BASE ?= /
 PAGEFIND ?= npx -y pagefind@1.5.2
 PY ?= python3
 PORT ?= 8000
-PARALLEL ?= 6
+PARALLEL ?= 3
 export MM_RAW SITE_BASE CF_BEACON_TOKEN
 
 .PHONY: fetch records opus-pass data site serve clean
@@ -15,7 +15,7 @@ fetch:
 records:
 	$(PY) -m pipeline records
 
-# Opus edits for chunks not yet in pipeline/fixes/ (resumable; OPUS_ARGS e.g. --limit 40 --dry-run).
+# Opus edits for chunks not yet in pipeline/fixes/ (resumable; OPUS_ARGS e.g. --words 8000 --limit 40 --dry-run).
 opus-pass: records
 	$(PY) -m pipeline opus-pass --parallel $(PARALLEL) $(OPUS_ARGS)
 

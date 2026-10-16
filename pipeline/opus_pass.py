@@ -1,7 +1,14 @@
-"""Opus edit pass: every ~250-word chunk of the glossary-fixed records -> pipeline/fixes/<id>.jsonl.
+"""Opus edit pass: each talk's glossary-fixed text, in chunks of whole cues -> pipeline/fixes/<id>.jsonl.
 
-Arm E of experiments/textfix: same prompt (fix_prompt.txt), same model, same chunking (cues are taken
-until the chunk holds >= 250 words of original text). Reads build/records, so run `records` first.
+Arm E of experiments/textfix (same prompt fix_prompt.txt, same model). Reads build/records, so run
+`records` first. Chunk size is per talk and recorded as the fixes file's first line, {"chunk_words": N}:
+- 250 (the first production run, arm E's rule: cues are taken until the chunk holds >= 250 words; a
+  file without a header line was cut at this size).
+- Any other N (default 8000, experiments/textfix/chunksize): the talk is cut at cue boundaries into
+  ceil(words / N) chunks of about equal length, so a talk shorter than N is one chunk.
+A talk whose file has every chunk done at its recorded size is kept as is. Any other talk is run whole at
+the requested size: a partial file at another size is replaced on that talk's first new answer, so no
+talk mixes sizes.
 
 A chunk is identified by sha1(model, prompt, chunk text). It is done once a line carrying its sha is in
 the fixes file; raw CLI responses are kept in build/opus/<id>/<sha>.json so a crash between the call and
@@ -24,8 +31,13 @@ import time
 from . import fix
 
 MODEL = "claude-opus-5-5"
-CHUNK_WORDS = 250
+LEGACY_WORDS = 250  # size of the first production run; also what a headerless fixes file means
+DEFAULT_WORDS = 8000
 CLI_OVERHEAD_TOKENS = 800  # harness tokens per `claude -p` call, measured in the bakeoff
+# Per-call fits from experiments/textfix/chunksize (r1 calls): seconds and list $ as a + b * words / 1000.
+FIT_S, FIT_USD = (5.3, 1.0), (0.0097, 0.0146)
+OUT_TOKENS_PER_KWORD = 122  # 974 output tokens per 8k-word call in the same test
+MIN_MEM_KB = 3 * 1024 * 1024  # start a call only while MemAvailable >= 3 GB (14 GB laptop)
 with open(os.path.join(fix.DIR, "fix_prompt.txt"), encoding="utf-8") as _f:
     SYSTEM = _f.read()
 PROMPT_SHA = hashlib.sha1(f"{MODEL}\0{SYSTEM}".encode()).hexdigest()
@@ -38,29 +50,67 @@ class UsageLimit(Exception):
     pass
 
 
-def chunks(raw: list[str], fixed: list[str]) -> list[tuple[int, int, str, str]]:
-    """(first cue, end cue, glossary-fixed text, sha); boundaries from original word counts."""
-    out, i = [], 0
-    while i < len(raw):
-        j, n = i, 0
-        while j < len(raw) and n < CHUNK_WORDS:
-            n += len(raw[j].split())
-            j += 1
-        text = " ".join(fixed[i:j])
-        out.append((i, j, text, hashlib.sha1(f"{PROMPT_SHA}\0{text}".encode()).hexdigest()[:16]))
-        i = j
+def cut(raw: list[str], words: int) -> list[tuple[int, int]]:
+    """Cue ranges [i, j); boundaries from original word counts."""
+    counts = [len(t.split()) for t in raw]
+    if words == LEGACY_WORDS:  # arm E's rule, kept so the 250-word run's shas still match
+        out, i = [], 0
+        while i < len(raw):
+            j, n = i, 0
+            while j < len(raw) and n < words:
+                n += counts[j]
+                j += 1
+            out.append((i, j))
+            i = j
+        return out
+    k = max(1, -(-sum(counts) // words))
+    target = sum(counts) / k
+    out, i, acc = [], 0, 0
+    for j, n in enumerate(counts, 1):
+        acc += n
+        if len(out) < k - 1 and acc >= target * (len(out) + 1):
+            out.append((i, j))
+            i = j
+    if i < len(raw):
+        out.append((i, len(raw)))
     return out
 
 
+def chunks(raw: list[str], fixed: list[str], words: int = LEGACY_WORDS) -> list[tuple[int, int, str, str]]:
+    """(first cue, end cue, glossary-fixed text, sha)."""
+    out = []
+    for i, j in cut(raw, words):
+        text = " ".join(fixed[i:j])
+        out.append((i, j, text, hashlib.sha1(f"{PROMPT_SHA}\0{text}".encode()).hexdigest()[:16]))
+    return out
+
+
+def _is_edits(v) -> bool:
+    return isinstance(v, list) and all(isinstance(e, dict) and isinstance(e.get("from"), str) and isinstance(e.get("to"), str) for e in v)
+
+
 def parse_edits(s: str) -> list[dict] | None:
-    m = re.search(r"\[.*\]", s.strip(), re.S)
+    """The last JSON array of {from, to} in the answer (the model sometimes revises itself after a first one)."""
+    dec, found, pos = json.JSONDecoder(), None, 0
+    while (i := s.find("[", pos)) >= 0:
+        try:
+            v, end = dec.raw_decode(s, i)
+        except json.JSONDecodeError:
+            pos = i + 1
+            continue
+        if _is_edits(v):
+            found, pos = v, end
+        else:
+            pos = i + 1
+    return found
+
+
+def mem_available_kb() -> int | None:
     try:
-        v = json.loads(m.group(0)) if m else None
-    except json.JSONDecodeError:
+        with open("/proc/meminfo") as f:
+            return next(int(l.split()[1]) for l in f if l.startswith("MemAvailable:"))
+    except (OSError, StopIteration):
         return None
-    if not isinstance(v, list) or not all(isinstance(e, dict) and isinstance(e.get("from"), str) and isinstance(e.get("to"), str) for e in v):
-        return None
-    return v
 
 
 def chunk_spans(text: str, edits: list[dict]) -> tuple[list[tuple[int, int, str]], int]:
@@ -81,19 +131,26 @@ def chunk_spans(text: str, edits: list[dict]) -> tuple[list[tuple[int, int, str]
 
 
 class Runner:
-    def __init__(self, build: str, fixes_dir: str, parallel: int, timeout: int, log_every: int):
+    def __init__(self, build: str, fixes_dir: str, parallel: int, timeout: int, log_every: int,
+                 words: int = DEFAULT_WORDS):
         self.build, self.fixes_dir = build, fixes_dir
         self.opus_dir = os.path.join(build, "opus")
-        self.parallel, self.timeout, self.log_every = parallel, timeout, log_every
+        self.parallel, self.timeout, self.log_every, self.words = parallel, timeout, log_every, words
         self.cwd = os.path.join(self.opus_dir, "cwd")  # empty dir: no project files reach the CLI
         os.makedirs(self.cwd, exist_ok=True)
         os.makedirs(fixes_dir, exist_ok=True)
         self.pause_until = 0.0
         self.lock = threading.Lock()
+        self.mem_gate = threading.Lock()
 
     # ---- state -------------------------------------------------------------------------------
-    def plan(self, ids: list[str] | None) -> list[dict]:
-        """Per record: current chunks, and the fixes file compacted to lines of current, still-exact chunks."""
+    def plan(self, ids: list[str] | None, write: bool = True) -> list[dict]:
+        """Per record: its chunk size and chunks, and its fixes file compacted to current, still-exact chunks.
+
+        status: "kept" (every chunk done at the file's size), "resume" (partly done at the requested size),
+        "reset" (partly done at another size: run whole, old lines dropped on the talk's first new answer),
+        "new" (no fixes file). write=False leaves the fixes files untouched (dry run).
+        """
         rules = fix.load()
         paths = sorted(glob.glob(os.path.join(self.build, "records", "*.json")))
         if ids:
@@ -102,27 +159,40 @@ class Runner:
         for p in paths:
             with open(p, encoding="utf-8") as f:
                 rec = json.load(f)
+            rid = rec["id"]
             raw = [c.get("text_raw", c["text"]) for c in rec["cues"]]
             fixed = fix.glossary_texts(rec["cues"], rules)
-            chs = chunks(raw, fixed)
-            plans.append({"id": rec["id"], "platform": rec["platform"], "fixed": fixed, "chunks": chs})
-            self._compact(rec["id"], fixed, {sha: k for k, (_, _, _, sha) in enumerate(chs)})
+            size, lines = self._read(rid)
+            chs = chunks(raw, fixed, size)
+            lines = self._compact(lines, fixed, chs)
+            done = {d["sha"] for d in lines}
+            if lines and all(c[3] in done for c in chs):
+                status = "kept"
+            elif lines and size == self.words:
+                status = "resume"
+            else:
+                status, size, done = "reset" if lines else "new", self.words, set()
+                chs = chunks(raw, fixed, size)
+            if write and status in ("kept", "resume"):
+                self._write(rid, size, lines)
+            plans.append({"id": rid, "fixed": fixed, "words": size, "chunks": chs, "status": status, "done": done})
         return plans
 
     def _fixes_path(self, rid: str) -> str:
         return os.path.join(self.fixes_dir, rid + ".jsonl")
 
-    def _read(self, rid: str) -> list[dict]:
+    def _read(self, rid: str) -> tuple[int, list[dict]]:
+        """(chunk size, chunk lines); the size is the {"chunk_words": N} line, else the legacy 250."""
         try:
             with open(self._fixes_path(rid), encoding="utf-8") as f:
-                return [json.loads(l) for l in f if l.strip()]
+                rows = [json.loads(l) for l in f if l.strip()]
         except FileNotFoundError:
-            return []
+            return self.words, []
+        size = next((d["chunk_words"] for d in rows if "chunk_words" in d), LEGACY_WORDS)
+        return size, [d for d in rows if "sha" in d]
 
-    def _compact(self, rid: str, fixed: list[str], current: dict[str, int]):
-        lines = self._read(rid)
-        if not lines:
-            return
+    def _compact(self, lines: list[dict], fixed: list[str], chs: list[tuple]) -> list[dict]:
+        current = {sha: k for k, (_, _, _, sha) in enumerate(chs)}
         bad = {d["sha"] for d in lines if d["sha"] not in current}
         by_sha: dict[str, list] = {}
         for d in lines:
@@ -131,30 +201,35 @@ class Runner:
             edits = [d for d in ds if "from" in d]
             if edits and fix.edit_spans(fixed, edits)[1]:
                 bad.add(sha)  # cue numbering moved under an unchanged chunk: redo it
-        keep = [dict(d, chunk=current[d["sha"]]) for d in lines if d["sha"] not in bad]
-        self._write(rid, keep)
+        return [dict(d, chunk=current[d["sha"]]) for d in lines if d["sha"] not in bad]
 
-    def _write(self, rid: str, lines: list[dict]):
+    def _write(self, rid: str, size: int, lines: list[dict]):
         path = self._fixes_path(rid)
         if not lines:
             if os.path.exists(path):
                 os.remove(path)
             return
         lines.sort(key=lambda d: (d["chunk"], d.get("cue", -1), d.get("at", -1)))
-        data = "".join(json.dumps(d, ensure_ascii=False, sort_keys=True) + "\n" for d in lines)
+        rows = [{"chunk_words": size}] + lines
+        data = "".join(json.dumps(d, ensure_ascii=False, sort_keys=True) + "\n" for d in rows)
         tmp = path + ".tmp"
         with open(tmp, "w", encoding="utf-8") as f:
             f.write(data)
         os.replace(tmp, path)
 
-    def _append(self, rid: str, lines: list[dict]):
-        with open(self._fixes_path(rid), "a", encoding="utf-8") as f:
+    def _append(self, plan: dict, lines: list[dict]):
+        if plan["status"] in ("reset", "new"):  # the talk's first answer at this size replaces the file
+            self._write(plan["id"], plan["words"], lines)
+            plan["status"] = "resume"
+            return
+        with open(self._fixes_path(plan["id"]), "a", encoding="utf-8") as f:
             f.write("".join(json.dumps(d, ensure_ascii=False, sort_keys=True) + "\n" for d in lines))
 
     # ---- calling -----------------------------------------------------------------------------
     def _call(self, text: str) -> dict:
         cmd = ["claude", "-p", "--model", MODEL, "--tools", "", "--strict-mcp-config", "--no-session-persistence",
                "--setting-sources", "", "--output-format", "json", "--system-prompt", SYSTEM]
+        self._wait_memory()
         t0 = time.time()
         p = subprocess.run(cmd, input="<transcript>\n" + text + "\n</transcript>", capture_output=True, text=True,
                            timeout=self.timeout, cwd=self.cwd)
@@ -167,8 +242,18 @@ class Runner:
             if LIMIT_RE.search(msg) and not RATE_RE.search(msg):
                 raise UsageLimit(msg)
             raise RuntimeError(msg[:300] or f"exit {p.returncode}")
+        if res.get("stop_reason") == "max_tokens":
+            raise RuntimeError("answer truncated at max_tokens")
         res["wall_s"] = round(time.time() - t0, 2)
         return res
+
+    def _wait_memory(self):
+        """One waiter at a time, with a short gap so the call started last shows up in MemAvailable."""
+        with self.mem_gate:
+            while (kb := mem_available_kb()) is not None and kb < MIN_MEM_KB:
+                self.log(f"low memory ({kb // 1024} MB available), waiting")
+                time.sleep(30)
+            time.sleep(2)
 
     def _wait_pause(self):
         while (left := self.pause_until - time.time()) > 0:
@@ -223,20 +308,17 @@ class Runner:
 
     # ---- run ---------------------------------------------------------------------------------
     def run(self, plans: list[dict], limit: int | None, dry_run: bool):
-        done = {rid: {d["sha"] for d in self._read(rid)} for rid in (p["id"] for p in plans)}
-        todo = [(p, k, c) for p in plans for k, c in enumerate(p["chunks"]) if c[3] not in done[p["id"]]]
+        todo = [(p, k, c) for p in plans for k, c in enumerate(p["chunks"]) if c[3] not in p["done"]]
         total = sum(len(p["chunks"]) for p in plans)
         pending = len(todo)
         todo = todo[:limit] if limit is not None else todo
-        est_in = sum(len(SYSTEM) + len(c[2]) + 26 for _, _, c in todo) // 4 + CLI_OVERHEAD_TOKENS * len(todo)
-        print(f"records {len(plans)}, chunks {total}, done {total - pending}, to run {len(todo)}, "
-              f"est. input tokens {est_in:,} (~{est_in // max(len(todo), 1)}/chunk)")
+        self.report(plans, todo, total, pending)
         if dry_run or not todo:
             return
         stats = {"ok": 0, "cached": 0, "failed": 0, "edits": 0, "unfound": 0, "in": 0, "out": 0, "usd": 0.0}
         t0 = time.time()
         fail_path = os.path.join(self.opus_dir, "failures.jsonl")
-        self.log(f"start: {len(todo)} chunks, parallel {self.parallel}")
+        self.log(f"start: {len(todo)} chunks at --words {self.words}, parallel {self.parallel}")
         ex = cf.ThreadPoolExecutor(self.parallel)
         try:
             futs = {ex.submit(self.work, p["id"], c[3], c[2]): (p, k, c) for p, k, c in todo}
@@ -250,7 +332,7 @@ class Runner:
                 else:
                     stats["ok" if status == "ok" else "cached"] += 1
                     lines = self._lines(p["fixed"], i, k, sha, text, edits, stats)
-                    self._append(p["id"], lines)
+                    self._append(p, lines)
                     u = res.get("usage") or {}
                     stats["in"] += sum(u.get(x, 0) for x in ("input_tokens", "cache_creation_input_tokens", "cache_read_input_tokens"))
                     stats["out"] += u.get("output_tokens", 0)
@@ -263,9 +345,25 @@ class Runner:
         finally:
             ex.shutdown(wait=False, cancel_futures=True)
             for p in plans:  # tidy appended lines into sorted order
-                lines = self._read(p["id"])
-                if lines:
-                    self._write(p["id"], lines)
+                if p["status"] == "resume":
+                    self._write(p["id"], *self._read(p["id"]))
+
+    def report(self, plans: list[dict], todo: list, total: int, pending: int):
+        by: dict[str, int] = {}
+        for p in plans:
+            key = f"{p['status']}@{p['words']}"
+            by[key] = by.get(key, 0) + 1
+        words = [len(c[2].split()) for _, _, c in todo]
+        est_in = sum(len(SYSTEM) + len(c[2]) + 26 for _, _, c in todo) // 4 + CLI_OVERHEAD_TOKENS * len(todo)
+        est_out = sum(words) * OUT_TOKENS_PER_KWORD // 1000
+        secs = sum(FIT_S[0] + FIT_S[1] * w / 1000 for w in words)
+        usd = sum(FIT_USD[0] + FIT_USD[1] * w / 1000 for w in words)
+        print(f"talks {len(plans)}: " + ", ".join(f"{k} {v}" for k, v in sorted(by.items()))
+              + "  (kept = every chunk done at that size; reset = partial at another size, rerun whole)")
+        print(f"chunks {total}, done {total - pending}, to run {len(todo)} calls at --words {self.words} "
+              f"(words/call median {sorted(words)[len(words) // 2] if words else 0}, max {max(words, default=0)})")
+        print(f"est. tokens in {est_in:,} out {est_out:,}; projected wall {fmt_s(secs / 3)} at 3-way, "
+              f"{fmt_s(secs / self.parallel)} at --parallel {self.parallel}; list ~${usd:,.0f} (chunksize-test fits)")
 
     def _lines(self, fixed, first_cue, k, sha, text, edits, stats) -> list[dict]:
         starts = fix.offsets(fixed)
@@ -303,6 +401,6 @@ def fmt_s(s: float) -> str:
 
 
 def main(build: str, ids: list[str] | None, limit: int | None, parallel: int, timeout: int, dry_run: bool,
-         log_every: int = 10):
-    r = Runner(build, fix.FIXES, parallel, timeout, log_every)
-    r.run(r.plan(ids), limit, dry_run)
+         words: int = DEFAULT_WORDS, log_every: int = 10):
+    r = Runner(build, fix.FIXES, parallel, timeout, log_every, words)
+    r.run(r.plan(ids, write=not dry_run), limit, dry_run)
