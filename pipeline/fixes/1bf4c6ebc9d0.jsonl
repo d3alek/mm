@@ -1,9 +1,10 @@
-{"chunk": 1, "sha": "d5607fd24998a78f"}
-{"chunk": 3, "sha": "8d33629a2237e324"}
+{"chunk_words": 250}
 {"chunk": 0, "sha": "fb4746d3b33d26bf"}
+{"chunk": 1, "sha": "d5607fd24998a78f"}
 {"at": 44, "chunk": 2, "cue": 69, "from": "blood leaded", "sha": "f7ced32e766bb7a7", "to": "bloodletted"}
-{"chunk": 5, "sha": "cd6d859bcd15eb6c"}
+{"chunk": 3, "sha": "8d33629a2237e324"}
 {"chunk": 4, "sha": "f1777bcf3804a40b"}
+{"chunk": 5, "sha": "cd6d859bcd15eb6c"}
 {"chunk": 6, "sha": "173b81e02c23c706"}
 {"chunk": 7, "sha": "019fbc8ceae72528"}
 {"chunk": 8, "sha": "f5ebec80b7176589"}

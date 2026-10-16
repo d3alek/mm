@@ -1,8 +1,10 @@
+{"chunk_words": 250}
 {"chunk": 0, "sha": "904b765e70e76931"}
 {"at": 74, "chunk": 1, "cue": 46, "from": "medical meme podcast", "sha": "f7dd7dafbd79b73b", "to": "Medical Medium podcast"}
-{"chunk": 4, "sha": "b0aac07ae81261d6"}
-{"chunk": 3, "sha": "0a59ea53ec1b7bdf"}
 {"chunk": 2, "sha": "5f06ab0c39228144"}
+{"chunk": 3, "sha": "0a59ea53ec1b7bdf"}
+{"chunk": 4, "sha": "b0aac07ae81261d6"}
+{"at": 42, "chunk": 5, "cue": 112, "from": "medical meme information", "sha": "006a4b0e54aa47bf", "to": "medical medium information"}
 {"chunk": 6, "sha": "0b1a4769ecd952c5"}
 {"chunk": 7, "sha": "249194621bc6bc90"}
 {"chunk": 8, "sha": "ef3cab7d1abbe6c8"}
@@ -10,8 +12,7 @@
 {"chunk": 10, "sha": "867acca76ed52e95"}
 {"at": 78, "chunk": 11, "cue": 250, "from": "Medical Mean Podcast", "sha": "b8bc765708a48512", "to": "Medical Medium Podcast"}
 {"chunk": 12, "sha": "12ac1568771a3471"}
-{"at": 42, "chunk": 5, "cue": 112, "from": "medical meme information", "sha": "006a4b0e54aa47bf", "to": "medical medium information"}
-{"at": 0, "chunk": 15, "cue": 318, "from": "Medical Me Podcast", "sha": "56192ddc758c4d9c", "to": "Medical Medium Podcast"}
 {"at": 62, "chunk": 13, "cue": 274, "from": "you're healing", "sha": "f86b98ef7ed12bec", "to": "your healing"}
 {"at": 50, "chunk": 14, "cue": 302, "from": "chronic Leo", "sha": "b65fc7d43bccb2e2", "to": "chronically ill"}
 {"at": 52, "chunk": 14, "cue": 305, "from": "Medical Mean Podcast", "sha": "b65fc7d43bccb2e2", "to": "Medical Medium Podcast"}
+{"at": 0, "chunk": 15, "cue": 318, "from": "Medical Me Podcast", "sha": "56192ddc758c4d9c", "to": "Medical Medium Podcast"}

@@ -1,6 +1,7 @@
-{"chunk": 2, "sha": "331d27e396d02d94"}
-{"chunk": 1, "sha": "0bdf4bc480005eb5"}
+{"chunk_words": 250}
 {"at": 61, "chunk": 0, "cue": 12, "from": "Jennifer Eel", "sha": "7f65d428919e5b6c", "to": "Jennifer Ehle"}
+{"chunk": 1, "sha": "0bdf4bc480005eb5"}
+{"chunk": 2, "sha": "331d27e396d02d94"}
 {"at": 48, "chunk": 3, "cue": 68, "from": "Bennetts'", "sha": "182542a869b88e94", "to": "Bennets'"}
 {"at": 0, "chunk": 4, "cue": 91, "from": "Jennifer Eel", "sha": "dd60ba7a11e8d5e3", "to": "Jennifer Ehle"}
 {"at": 82, "chunk": 5, "cue": 99, "from": "Elizabeth Bennett", "sha": "0fdb4cffb0984d6f", "to": "Elizabeth Bennet"}

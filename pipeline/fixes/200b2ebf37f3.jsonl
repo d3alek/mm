@@ -1,28 +1,29 @@
+{"chunk_words": 250}
 {"chunk": 0, "sha": "5916cdc35c6f52ed"}
 {"chunk": 1, "sha": "d2ed5306b9545fb4"}
-{"chunk": 4, "sha": "0ea6cd2071b5ff7d"}
-{"chunk": 3, "sha": "6f7b052d69fbaf25"}
-{"chunk": 6, "sha": "ddc6d59a830c6875"}
 {"at": 35, "chunk": 2, "cue": 59, "from": "be an alternative", "sha": "0687645e5ac0ad28", "to": "be in alternative"}
+{"chunk": 3, "sha": "6f7b052d69fbaf25"}
+{"chunk": 4, "sha": "0ea6cd2071b5ff7d"}
 {"at": 87, "chunk": 5, "cue": 131, "from": "be these sides", "sha": "188d97f3a97e4562", "to": "be besides"}
+{"chunk": 6, "sha": "ddc6d59a830c6875"}
 {"chunk": 7, "sha": "81629a809e336823"}
-{"chunk": 10, "sha": "d5e3b52b0fdbf4d1"}
 {"at": 32, "chunk": 8, "cue": 183, "from": "limes tends", "sha": "ce1838c1e65c913a", "to": "Lyme tends"}
 {"at": 73, "chunk": 8, "cue": 183, "from": "lime thing", "sha": "ce1838c1e65c913a", "to": "Lyme thing"}
-{"chunk": 11, "sha": "b7ca1c3c0cab3b35"}
 {"chunk": 9, "sha": "a8c04bcba08cddb8"}
+{"chunk": 10, "sha": "d5e3b52b0fdbf4d1"}
+{"chunk": 11, "sha": "b7ca1c3c0cab3b35"}
 {"chunk": 12, "sha": "6a8e576ad0d196f3"}
 {"chunk": 13, "sha": "ee32547d349a26ab"}
 {"chunk": 14, "sha": "552d65b76c7debd5"}
 {"at": 0, "chunk": 15, "cue": 357, "from": "gunk and settlement", "sha": "bd5825d82b42008f", "to": "gunk and sediment"}
-{"chunk": 17, "sha": "f744d57d11593b34"}
 {"at": 15, "chunk": 16, "cue": 388, "from": "aluminum nitrate", "sha": "b52931b94d8cd924", "to": "sodium nitrate"}
-{"chunk": 22, "sha": "a0c0a2dfe9b9ff07"}
-{"chunk": 20, "sha": "1e1e19ab83477cf4"}
-{"chunk": 19, "sha": "88a9b03477d10c76"}
-{"at": 22, "chunk": 21, "cue": 525, "from": "Billy Rubin", "sha": "8c9ce32ad140c271", "to": "bilirubin"}
-{"chunk": 23, "sha": "940b546f603f3004"}
+{"chunk": 17, "sha": "f744d57d11593b34"}
 {"chunk": 18, "sha": "6016be73e727f480"}
+{"chunk": 19, "sha": "88a9b03477d10c76"}
+{"chunk": 20, "sha": "1e1e19ab83477cf4"}
+{"at": 22, "chunk": 21, "cue": 525, "from": "Billy Rubin", "sha": "8c9ce32ad140c271", "to": "bilirubin"}
+{"chunk": 22, "sha": "a0c0a2dfe9b9ff07"}
+{"chunk": 23, "sha": "940b546f603f3004"}
 {"chunk": 24, "sha": "deebbbacdafeed77"}
 {"chunk": 25, "sha": "c0b7e13e8d5d8134"}
 {"at": 74, "chunk": 26, "cue": 657, "from": "braided", "sha": "d84b90dd5043e823", "to": "berated"}

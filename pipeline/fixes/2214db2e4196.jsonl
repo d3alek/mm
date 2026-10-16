@@ -1,19 +1,20 @@
+{"chunk_words": 250}
 {"chunk": 0, "sha": "9c69ddb602c90872"}
-{"at": 7, "chunk": 2, "cue": 35, "from": "getting bitter", "sha": "64d951cc40b58cff", "to": "getting better"}
 {"at": 76, "chunk": 1, "cue": 32, "from": "through medical information", "sha": "e92ba5529283def1", "to": "through Medical Medium information"}
+{"at": 7, "chunk": 2, "cue": 35, "from": "getting bitter", "sha": "64d951cc40b58cff", "to": "getting better"}
 {"chunk": 3, "sha": "7e745abf76b4789a"}
 {"at": 74, "chunk": 4, "cue": 64, "from": "cellular juice", "sha": "c8ca7dd236dd7053", "to": "celery juice"}
 {"at": 5, "chunk": 4, "cue": 65, "from": "heavy metal detox movie", "sha": "c8ca7dd236dd7053", "to": "heavy metal detox smoothie"}
-{"chunk": 6, "sha": "167e2f5abfb0289c"}
 {"chunk": 5, "sha": "e6aaa896700d42df"}
-{"at": 42, "chunk": 9, "cue": 160, "from": "you ring them all together", "sha": "d794ee4fdce79ba4", "to": "you bring them all together"}
-{"at": 30, "chunk": 8, "cue": 133, "from": "different metals than them", "sha": "39604a5e33e956e4", "to": "different metals in them"}
+{"chunk": 6, "sha": "167e2f5abfb0289c"}
 {"chunk": 7, "sha": "ace3da9a29c8a015"}
+{"at": 30, "chunk": 8, "cue": 133, "from": "different metals than them", "sha": "39604a5e33e956e4", "to": "different metals in them"}
+{"at": 42, "chunk": 9, "cue": 160, "from": "you ring them all together", "sha": "d794ee4fdce79ba4", "to": "you bring them all together"}
 {"chunk": 10, "sha": "b3af4c80a8d26e61"}
 {"chunk": 11, "sha": "9c1572a14da20be7"}
 {"at": 24, "chunk": 12, "cue": 220, "from": "90% Vars", "sha": "7794cde28ebb3569", "to": "90% bars"}
-{"at": 14, "chunk": 14, "cue": 271, "from": "air freshers", "sha": "10654ec03d08db6d", "to": "air fresheners"}
 {"at": 14, "chunk": 13, "cue": 255, "from": "fear monitor", "sha": "af07d6aa1f7a12df", "to": "fear-mongering"}
+{"at": 14, "chunk": 14, "cue": 271, "from": "air freshers", "sha": "10654ec03d08db6d", "to": "air fresheners"}
 {"chunk": 15, "sha": "4415f3c246e6b503"}
 {"at": 4, "chunk": 16, "cue": 312, "from": "Medical Beam", "sha": "b4ac1d694e06b13d", "to": "Medical Medium"}
 {"at": 8, "chunk": 16, "cue": 320, "from": "medical meme", "sha": "b4ac1d694e06b13d", "to": "medical medium"}
@@ -21,9 +22,9 @@
 {"chunk": 18, "sha": "6d6de3e98c8a143c"}
 {"at": 19, "chunk": 19, "cue": 378, "from": "medical meme community", "sha": "8478ea7b3b4a5307", "to": "Medical Medium community"}
 {"chunk": 20, "sha": "02f75cf4d37972e2"}
+{"chunk": 21, "sha": "850bc49179af3b35"}
 {"at": 78, "chunk": 22, "cue": 457, "from": "Medical Meme", "sha": "f83fcb83c673bd6c", "to": "Medical Medium"}
 {"at": 73, "chunk": 22, "cue": 459, "from": "Medical Meme", "sha": "f83fcb83c673bd6c", "to": "Medical Medium"}
-{"chunk": 21, "sha": "850bc49179af3b35"}
 {"at": 0, "chunk": 23, "cue": 469, "from": "quick run out", "sha": "3d7742ae9bd6348d", "to": "quick rundown"}
 {"at": 41, "chunk": 23, "cue": 472, "from": "licorice fruit", "sha": "3d7742ae9bd6348d", "to": "licorice root"}
 {"chunk": 24, "sha": "e431a04e88865953"}

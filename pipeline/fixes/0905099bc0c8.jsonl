@@ -1,3 +1,4 @@
+{"chunk_words": 250}
 {"chunk": 0, "sha": "caac21bb8e208cd7"}
 {"at": 74, "chunk": 1, "cue": 25, "from": "the root deal", "sha": "c3f9360507de752d", "to": "the real deal"}
 {"chunk": 2, "sha": "d3670d21e2044087"}
@@ -18,17 +19,17 @@
 {"chunk": 16, "sha": "f322fbd91b6dc7c7"}
 {"chunk": 17, "sha": "0badf80dd2839a3f"}
 {"chunk": 18, "sha": "902c66c41af1380a"}
-{"chunk": 20, "sha": "775a5b8845a49f03"}
 {"at": 0, "chunk": 19, "cue": 312, "from": "hunky potato", "sha": "f8585e8bb96ff6ca", "to": "chunky potato"}
-{"chunk": 22, "sha": "4acb7f067d01e17c"}
+{"chunk": 20, "sha": "775a5b8845a49f03"}
 {"at": 5, "chunk": 21, "cue": 339, "from": "moe another", "sha": "235df5173fdf86e0", "to": "Bowie another"}
 {"at": 23, "chunk": 21, "cue": 339, "from": "boe's getting", "sha": "235df5173fdf86e0", "to": "Bowie's getting"}
+{"chunk": 22, "sha": "4acb7f067d01e17c"}
 {"chunk": 23, "sha": "7b71aa19cd9eb853"}
 {"chunk": 24, "sha": "d11f956d8420c907"}
 {"chunk": 25, "sha": "824d37fb2e6ba336"}
 {"chunk": 26, "sha": "4f54377f91d3df96"}
-{"chunk": 28, "sha": "599194cc6a37d691"}
 {"at": 0, "chunk": 27, "cue": 438, "from": "Epstein bars", "sha": "fa2f2700d972e67c", "to": "Epstein-Barr"}
 {"at": 55, "chunk": 27, "cue": 438, "from": "10 strips", "sha": "fa2f2700d972e67c", "to": "10 streps"}
 {"at": 0, "chunk": 27, "cue": 451, "from": "at medical media", "sha": "fa2f2700d972e67c", "to": "at medical medium"}
+{"chunk": 28, "sha": "599194cc6a37d691"}
 {"chunk": 29, "sha": "e7c6cf5b7b02a20f"}

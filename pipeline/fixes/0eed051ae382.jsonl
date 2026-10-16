@@ -1,78 +1,79 @@
+{"chunk_words": 250}
 {"chunk": 0, "sha": "8513e0c8bafca46d"}
 {"chunk": 1, "sha": "dec6159ededc1311"}
 {"at": 81, "chunk": 2, "cue": 45, "from": "kiwis in of me", "sha": "3b623fc6d417ea63", "to": "kiwis in front of me"}
 {"chunk": 3, "sha": "96ba53cc45a70874"}
 {"chunk": 4, "sha": "25f298b1af05ade7"}
 {"at": 25, "chunk": 5, "cue": 113, "from": "explanation point", "sha": "8de5c957c60cca68", "to": "exclamation point"}
-{"chunk": 7, "sha": "5728e432e5e34ce6"}
 {"chunk": 6, "sha": "07ba78a5ba191fc1"}
+{"chunk": 7, "sha": "5728e432e5e34ce6"}
 {"chunk": 8, "sha": "45707c23085bcd75"}
-{"chunk": 10, "sha": "ad5035f537e6a43c"}
 {"chunk": 9, "sha": "bf728ca75adde1c5"}
-{"chunk": 13, "sha": "30a42f704a30e170"}
+{"chunk": 10, "sha": "ad5035f537e6a43c"}
 {"chunk": 11, "sha": "028c1b94ca503f58"}
 {"at": 19, "chunk": 12, "cue": 262, "from": "going to beat the person", "sha": "287af30781ea4811", "to": "going to be the person"}
+{"chunk": 13, "sha": "30a42f704a30e170"}
 {"chunk": 14, "sha": "d344932bfaf6e88f"}
-{"chunk": 16, "sha": "fd9d45dcb0a94a7c"}
 {"chunk": 15, "sha": "5bcd986a31877668"}
+{"chunk": 16, "sha": "fd9d45dcb0a94a7c"}
 {"chunk": 17, "sha": "bed0c62dfd9846de"}
 {"chunk": 18, "sha": "a0ff2c795405151f"}
 {"chunk": 19, "sha": "5043a41c8a124d96"}
 {"chunk": 20, "sha": "590211c8067cc556"}
 {"at": 24, "chunk": 21, "cue": 430, "from": "adrenals in the liver", "sha": "45485f33831ee4a9", "to": "adrenals and the liver"}
 {"chunk": 22, "sha": "8b9123e558673f5b"}
-{"chunk": 24, "sha": "c596a71860f3d18c"}
 {"chunk": 23, "sha": "6f5d6fca4b91eef7"}
+{"chunk": 24, "sha": "c596a71860f3d18c"}
 {"chunk": 25, "sha": "19d5b06a85e9c5ce"}
-{"chunk": 28, "sha": "757e609035401fab"}
+{"chunk": 26, "sha": "71efe3b9638afa33"}
 {"chunk": 27, "sha": "d451642b47845380"}
+{"chunk": 28, "sha": "757e609035401fab"}
 {"chunk": 29, "sha": "99e27a3d992f74ae"}
 {"chunk": 30, "sha": "0cedad021fc8a853"}
-{"chunk": 26, "sha": "71efe3b9638afa33"}
-{"chunk": 32, "sha": "2d29718c7bc8407c"}
 {"at": 28, "chunk": 31, "cue": 627, "from": "mosh", "sha": "88f0e246f2c85120", "to": "mâche"}
+{"chunk": 32, "sha": "2d29718c7bc8407c"}
 {"chunk": 33, "sha": "2fbd1982471fbc31"}
-{"chunk": 35, "sha": "3e1178e580b545a1"}
 {"chunk": 34, "sha": "ab1899d460c82092"}
+{"chunk": 35, "sha": "3e1178e580b545a1"}
 {"chunk": 36, "sha": "5deb3d32da3ffc2d"}
+{"at": 52, "chunk": 37, "cue": 769, "from": "lemon-bom-tay", "sha": "6a70fa571989c5d9", "to": "lemon balm tea"}
 {"chunk": 38, "sha": "73647fd0b7f667e6"}
 {"chunk": 39, "sha": "e041919a65e365c2"}
-{"at": 52, "chunk": 37, "cue": 769, "from": "lemon-bom-tay", "sha": "6a70fa571989c5d9", "to": "lemon balm tea"}
 {"chunk": 40, "sha": "b9f57bc9e7ab780f"}
 {"chunk": 41, "sha": "a2f033da8fbb4b64"}
 {"at": 34, "chunk": 42, "cue": 866, "from": "in the whole bed", "sha": "b26e17c6551b82ab", "to": "and the whole bit"}
 {"chunk": 43, "sha": "5106ea40f1943e45"}
+{"chunk": 44, "sha": "a7b3776ef16bf78f"}
 {"chunk": 45, "sha": "4c3ecf26b086399c"}
 {"chunk": 46, "sha": "70a34913ce972240"}
-{"chunk": 44, "sha": "a7b3776ef16bf78f"}
 {"chunk": 47, "sha": "0c92a0c32acf8451"}
+{"chunk": 48, "sha": "93d4a8d51d773704"}
 {"chunk": 49, "sha": "b63d486c9c1ecd70"}
+{"chunk": 50, "sha": "fa2e0bbc480afdbb"}
 {"chunk": 51, "sha": "07de585dc1ef5638"}
 {"chunk": 52, "sha": "e29b0740bb96d6cc"}
-{"chunk": 50, "sha": "fa2e0bbc480afdbb"}
-{"chunk": 48, "sha": "93d4a8d51d773704"}
 {"chunk": 53, "sha": "399cba8d9e733279"}
 {"at": 20, "chunk": 54, "cue": 1251, "from": "Light Heart at Lisa", "sha": "2da3abd8109f27fb", "to": "Lighthearted Lisa"}
-{"chunk": 58, "sha": "d92c57b6da47c6ea"}
+{"chunk": 55, "sha": "f378f519e4e84eaa"}
 {"at": 66, "chunk": 56, "cue": 1284, "from": "medical meme information", "sha": "5cf29987963906e6", "to": "medical medium information"}
 {"at": 0, "chunk": 56, "cue": 1292, "from": "Brainsaver", "sha": "5cf29987963906e6", "to": "Brain Saver"}
 {"at": 76, "chunk": 56, "cue": 1295, "from": "poach a tool for medical medium", "sha": "5cf29987963906e6", "to": "poach a tool from medical medium"}
 {"at": 76, "chunk": 57, "cue": 1299, "from": "the medical information", "sha": "91e6adb5692f8f5b", "to": "the Medical Medium information"}
-{"chunk": 55, "sha": "f378f519e4e84eaa"}
-{"chunk": 60, "sha": "dd25a7cc5ec3478c"}
+{"chunk": 58, "sha": "d92c57b6da47c6ea"}
 {"at": 0, "chunk": 59, "cue": 1376, "from": "It's going to some symptoms", "sha": "a974f25537c4b270", "to": "Let's go into some symptoms"}
 {"at": 0, "chunk": 59, "cue": 1377, "from": "Domino pain", "sha": "a974f25537c4b270", "to": "Abdominal pain"}
+{"chunk": 60, "sha": "dd25a7cc5ec3478c"}
 {"at": 13, "chunk": 61, "cue": 1453, "from": "mirrored down", "sha": "dc95316c90d02e2e", "to": "mired down"}
 {"at": 3, "chunk": 62, "cue": 1485, "from": "Medical Meme Podcast", "sha": "3fe4d245b6da5dff", "to": "Medical Medium Podcast"}
 {"at": 13, "chunk": 63, "cue": 1509, "from": "mirrored down", "sha": "006ca8ff09abe979", "to": "mired down"}
 {"chunk": 64, "sha": "18fdb6cac85b3d2a"}
 {"chunk": 65, "sha": "3768d29f5fa1f0e8"}
-{"chunk": 67, "sha": "1f16d424b0a79010"}
 {"chunk": 66, "sha": "8f279a3e8109081a"}
+{"chunk": 67, "sha": "1f16d424b0a79010"}
 {"at": 29, "chunk": 68, "cue": 1675, "from": "Medical Media newsletter", "sha": "56d1ce3eddb372d4", "to": "Medical Medium newsletter"}
 {"chunk": 69, "sha": "41500bc4c22adf20"}
 {"chunk": 70, "sha": "05477425b1e4e852"}
-{"chunk": 72, "sha": "666b9cfaec8867a2"}
-{"chunk": 73, "sha": "191b6730c459f4b9"}
 {"at": 74, "chunk": 71, "cue": 1772, "from": "medical meme information", "sha": "8070ee0c0ee463ac", "to": "Medical Medium information"}
 {"at": 38, "chunk": 71, "cue": 1784, "from": "social media sensory", "sha": "8070ee0c0ee463ac", "to": "social media censoring"}
+{"chunk": 72, "sha": "666b9cfaec8867a2"}
+{"chunk": 73, "sha": "191b6730c459f4b9"}

@@ -1,3 +1,4 @@
+{"chunk_words": 250}
 {"chunk": 0, "sha": "fc0079e5cf84cb7f"}
 {"chunk": 1, "sha": "11b11af7f85c5a72"}
 {"chunk": 2, "sha": "50ba432e207afaa5"}
@@ -5,6 +6,7 @@
 {"at": 36, "chunk": 3, "cue": 60, "from": "Brainsaver", "sha": "afb2cd14ca942319", "to": "Brain Saver"}
 {"chunk": 4, "sha": "2120258553c9d0bc"}
 {"chunk": 5, "sha": "dc95733469a1a926"}
+{"chunk": 6, "sha": "d550b3d9eaf0dd90"}
 {"at": 0, "chunk": 7, "cue": 129, "from": "Medical media meditations", "sha": "7a9e1545bca8615f", "to": "Medical Medium meditations"}
 {"chunk": 8, "sha": "e11c8bfacadf64d9"}
 {"chunk": 9, "sha": "972e7ec4ef000881"}
@@ -14,11 +16,10 @@
 {"chunk": 12, "sha": "e311534ad1188c6f"}
 {"chunk": 13, "sha": "0c3f77be852d7aba"}
 {"at": 64, "chunk": 14, "cue": 304, "from": "nose in our mouth we're removing", "sha": "8da40e0af49d9e9c", "to": "nose and our mouth we're moving"}
-{"chunk": 18, "sha": "cd8b91e78b1ebc69"}
-{"at": 55, "chunk": 17, "cue": 356, "from": "medical media meditations", "sha": "f4c5d09d3f170aa6", "to": "Medical Medium meditations"}
-{"chunk": 16, "sha": "79fd842a4c3b0a70"}
 {"at": 0, "chunk": 15, "cue": 310, "from": "SOC has given me", "sha": "8c0473dc4f3fe6b5", "to": "Spirit of Compassion has given me"}
-{"chunk": 6, "sha": "d550b3d9eaf0dd90"}
+{"chunk": 16, "sha": "79fd842a4c3b0a70"}
+{"at": 55, "chunk": 17, "cue": 356, "from": "medical media meditations", "sha": "f4c5d09d3f170aa6", "to": "Medical Medium meditations"}
+{"chunk": 18, "sha": "cd8b91e78b1ebc69"}
 {"chunk": 19, "sha": "eb85044b570b5ce8"}
 {"chunk": 20, "sha": "610770fc48089d72"}
 {"at": 41, "chunk": 21, "cue": 453, "from": "medical meme podcast", "sha": "4d6930bc92b58747", "to": "Medical Medium podcast"}

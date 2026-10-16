@@ -1,23 +1,24 @@
+{"chunk_words": 250}
 {"chunk": 0, "sha": "167f68100bd0fa4d"}
 {"chunk": 1, "sha": "26a2bc1f7ae8c156"}
 {"chunk": 2, "sha": "313d8982eb671fdb"}
+{"chunk": 3, "sha": "6682469c3545300f"}
 {"chunk": 4, "sha": "cc130030b1c1b86b"}
 {"chunk": 5, "sha": "62233c44fdc2eb00"}
-{"chunk": 3, "sha": "6682469c3545300f"}
+{"chunk": 6, "sha": "b851ce4e851a69c1"}
 {"chunk": 7, "sha": "5fae787652a20949"}
 {"chunk": 8, "sha": "f8111d6237e9f9e3"}
-{"chunk": 6, "sha": "b851ce4e851a69c1"}
 {"chunk": 9, "sha": "4bff6a44294f5165"}
-{"chunk": 11, "sha": "c0273a45382cbd92"}
 {"chunk": 10, "sha": "5e13b29164d80a97"}
+{"chunk": 11, "sha": "c0273a45382cbd92"}
 {"chunk": 12, "sha": "981ea7e53356434c"}
 {"chunk": 13, "sha": "6590218ea9aaeae9"}
 {"chunk": 14, "sha": "ed57a016d03b5350"}
 {"chunk": 15, "sha": "e84201b46de2625b"}
-{"chunk": 17, "sha": "9e1a7005f51e8499"}
 {"chunk": 16, "sha": "1d9d94f3263a6003"}
+{"chunk": 17, "sha": "9e1a7005f51e8499"}
 {"chunk": 18, "sha": "a892b253ff3797b0"}
-{"at": 39, "chunk": 20, "cue": 399, "from": "used his chum", "sha": "313aa885f247209f", "to": "used as chum"}
 {"at": 49, "chunk": 19, "cue": 380, "from": "research in science", "sha": "698019988ddf3ccd", "to": "research and science"}
-{"chunk": 22, "sha": "2c6be6e854b0de29"}
+{"at": 39, "chunk": 20, "cue": 399, "from": "used his chum", "sha": "313aa885f247209f", "to": "used as chum"}
 {"chunk": 21, "sha": "41edf97763a98744"}
+{"chunk": 22, "sha": "2c6be6e854b0de29"}

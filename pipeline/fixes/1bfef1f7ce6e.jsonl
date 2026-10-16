@@ -1,8 +1,9 @@
+{"chunk_words": 250}
 {"at": 81, "chunk": 0, "cue": 9, "from": "digestive track", "sha": "590a2de5a4cd877d", "to": "digestive tract"}
-{"chunk": 2, "sha": "127c8ecd52475fbd"}
 {"at": 17, "chunk": 1, "cue": 32, "from": "Ben?", "sha": "0c96841dd6cf5ed0", "to": "been?"}
 {"at": 35, "chunk": 1, "cue": 32, "from": "Ben?", "sha": "0c96841dd6cf5ed0", "to": "been?"}
 {"at": 67, "chunk": 1, "cue": 32, "from": "Ben?", "sha": "0c96841dd6cf5ed0", "to": "been?"}
+{"chunk": 2, "sha": "127c8ecd52475fbd"}
 {"chunk": 3, "sha": "b2ab0ccfab042168"}
 {"chunk": 4, "sha": "0703393ca6ca3866"}
 {"at": 33, "chunk": 5, "cue": 112, "from": "digestion track", "sha": "512689e81aabcfa9", "to": "digestion tract"}
@@ -13,31 +14,31 @@
 {"chunk": 10, "sha": "6b9893d857f8e900"}
 {"chunk": 11, "sha": "25d81456b2c26d1b"}
 {"chunk": 12, "sha": "80d6caf05e629c42"}
-{"chunk": 14, "sha": "70b03d9518ce0dab"}
 {"chunk": 13, "sha": "1a958cdf9d1b7cea"}
+{"chunk": 14, "sha": "70b03d9518ce0dab"}
 {"chunk": 15, "sha": "7f38a4932d56efe4"}
 {"chunk": 16, "sha": "4be6628e1c0b98e6"}
 {"at": 53, "chunk": 17, "cue": 325, "from": "colostomy back", "sha": "aff386cbe2bf81a5", "to": "colostomy bag"}
-{"at": 42, "chunk": 21, "cue": 427, "from": "for you in spirit of compassion", "sha": "562e38029334bbce", "to": "for you and Spirit of Compassion"}
-{"at": 74, "chunk": 20, "cue": 406, "from": "tahiti", "sha": "31e009b1f4558c5d", "to": "tahini"}
-{"at": 51, "chunk": 20, "cue": 409, "from": "HDL is really low", "sha": "31e009b1f4558c5d", "to": "HCl is really low"}
 {"at": 58, "chunk": 18, "cue": 371, "from": "intestinal track", "sha": "416c4e60d148eb17", "to": "intestinal tract"}
 {"chunk": 19, "sha": "d0970b2ebe9e84fe"}
+{"at": 74, "chunk": 20, "cue": 406, "from": "tahiti", "sha": "31e009b1f4558c5d", "to": "tahini"}
+{"at": 51, "chunk": 20, "cue": 409, "from": "HDL is really low", "sha": "31e009b1f4558c5d", "to": "HCl is really low"}
+{"at": 42, "chunk": 21, "cue": 427, "from": "for you in spirit of compassion", "sha": "562e38029334bbce", "to": "for you and Spirit of Compassion"}
 {"at": 36, "chunk": 22, "cue": 443, "from": "the ship sinks", "sha": "6fdf96cbfd4102cc", "to": "the shit sinks"}
 {"at": 52, "chunk": 22, "cue": 443, "from": "The ship sinks", "sha": "6fdf96cbfd4102cc", "to": "The shit sinks"}
 {"at": 84, "chunk": 23, "cue": 456, "from": "for all just", "sha": "6551480c475f602e", "to": "virologists"}
 {"chunk": 24, "sha": "cdce8881f83da85d"}
 {"chunk": 25, "sha": "989895917f16d545"}
-{"chunk": 28, "sha": "ed4a741a60424f73"}
-{"chunk": 29, "sha": "0283bb90fb8e1e17"}
 {"chunk": 26, "sha": "7f8e3efc8feebb5c"}
 {"at": 22, "chunk": 27, "cue": 549, "from": "M&M 900 HDS", "sha": "a0378f41cef9df82", "to": "MM900 HDS"}
+{"chunk": 28, "sha": "ed4a741a60424f73"}
+{"chunk": 29, "sha": "0283bb90fb8e1e17"}
+{"at": 10, "chunk": 30, "cue": 607, "from": "HCO", "sha": "d986841a7be9c4e7", "to": "HCL"}
+{"chunk": 31, "sha": "011b89dbd3d02906"}
 {"chunk": 32, "sha": "52b900d71a90b7d5"}
 {"chunk": 33, "sha": "80e1b0c4f54cae8a"}
 {"at": 9, "chunk": 34, "cue": 672, "from": "MM900 HTS", "sha": "1d160b22a2258560", "to": "MM900HDS"}
-{"at": 10, "chunk": 30, "cue": 607, "from": "HCO", "sha": "d986841a7be9c4e7", "to": "HCL"}
-{"chunk": 31, "sha": "011b89dbd3d02906"}
 {"chunk": 35, "sha": "f7cdc66b18d37d20"}
-{"chunk": 37, "sha": "5f33ed6d070459ef"}
 {"at": 42, "chunk": 36, "cue": 715, "from": "everything out of the sun", "sha": "c4145112239a7a0f", "to": "everything under the sun"}
+{"chunk": 37, "sha": "5f33ed6d070459ef"}
 {"chunk": 38, "sha": "b935120a173bdc10"}

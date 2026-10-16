@@ -1,17 +1,18 @@
+{"chunk_words": 250}
 {"at": 4, "chunk": 0, "cue": 1, "from": "Brainsaver", "sha": "7aaee4a799d08a26", "to": "Brain Saver"}
 {"chunk": 1, "sha": "1137b8bcd63d4db7"}
 {"chunk": 2, "sha": "0f04931058bdb2f6"}
 {"chunk": 3, "sha": "dbd8cea5ab62ddde"}
 {"at": 0, "chunk": 4, "cue": 78, "from": "medical meme", "sha": "2ea6cb5b4a42fb41", "to": "Medical Medium"}
 {"chunk": 5, "sha": "2c877d311501ed74"}
+{"chunk": 6, "sha": "4855df77dda3e72d"}
 {"chunk": 7, "sha": "2275bbe09f5d6985"}
 {"chunk": 8, "sha": "c888b8fbc4862160"}
-{"chunk": 6, "sha": "4855df77dda3e72d"}
 {"at": 58, "chunk": 9, "cue": 173, "from": "raping their patients", "sha": "5e51d84bc38cc807", "to": "robbing their patients"}
-{"chunk": 13, "sha": "bfcd7cb6c8d5d1cf"}
-{"chunk": 12, "sha": "2b93b77b8b29e307"}
 {"chunk": 10, "sha": "80925f08230fb58d"}
 {"chunk": 11, "sha": "3e36a92979c1c1df"}
+{"chunk": 12, "sha": "2b93b77b8b29e307"}
+{"chunk": 13, "sha": "bfcd7cb6c8d5d1cf"}
 {"at": 11, "chunk": 14, "cue": 260, "from": "If you're a partner", "sha": "964159834d7373c9", "to": "If you're a parent"}
 {"chunk": 15, "sha": "732ca843673d1fdf"}
 {"chunk": 16, "sha": "6b6347bd17fcac6d"}
@@ -21,27 +22,27 @@
 {"chunk": 20, "sha": "02c75d1835505e59"}
 {"chunk": 21, "sha": "d61ea73d2d82161b"}
 {"chunk": 22, "sha": "c628e69a10304a3d"}
-{"chunk": 24, "sha": "9d8fe7bb8aedb374"}
 {"at": 10, "chunk": 23, "cue": 507, "from": "blood draining agenda", "sha": "9f69052ca411e7d3", "to": "blood draw agenda"}
+{"chunk": 24, "sha": "9d8fe7bb8aedb374"}
 {"at": 6, "chunk": 25, "cue": 563, "from": "kind, ooh, tropenia", "sha": "f08bae8db881f8ce", "to": "kind of neutropenia"}
 {"chunk": 26, "sha": "327fc8d313201adb"}
 {"at": 44, "chunk": 27, "cue": 605, "from": "lumber puncture", "sha": "fa8f95696533ba49", "to": "lumbar puncture"}
 {"at": 17, "chunk": 28, "cue": 644, "from": "Brainsaver", "sha": "424b093d4c257f66", "to": "Brain Saver"}
+{"at": 88, "chunk": 29, "cue": 663, "from": "they don't No", "sha": "c2765d7eb55c03e1", "to": "they don't know"}
+{"at": 0, "chunk": 29, "cue": 666, "from": "Medical Meme Information", "sha": "c2765d7eb55c03e1", "to": "Medical Medium Information"}
+{"chunk": 30, "sha": "2e65efb6171b8f5b"}
 {"chunk": 31, "sha": "f1bb996545a98e55"}
 {"at": 18, "chunk": 32, "cue": 756, "from": "medical meme", "sha": "f6b4fb7f66ccf402", "to": "Medical Medium"}
 {"at": 37, "chunk": 32, "cue": 764, "from": "medical meme", "sha": "f6b4fb7f66ccf402", "to": "Medical Medium"}
-{"chunk": 30, "sha": "2e65efb6171b8f5b"}
-{"chunk": 34, "sha": "f750ce7d76e961a9"}
-{"at": 88, "chunk": 29, "cue": 663, "from": "they don't No", "sha": "c2765d7eb55c03e1", "to": "they don't know"}
-{"at": 0, "chunk": 29, "cue": 666, "from": "Medical Meme Information", "sha": "c2765d7eb55c03e1", "to": "Medical Medium Information"}
 {"chunk": 33, "sha": "f87e86e319185389"}
+{"chunk": 34, "sha": "f750ce7d76e961a9"}
 {"at": 55, "chunk": 35, "cue": 853, "from": "illumination", "sha": "2e5121f101826783", "to": "Illuminati"}
 {"at": 18, "chunk": 36, "cue": 860, "from": "explanation point", "sha": "3ce485024c0f0212", "to": "exclamation point"}
 {"chunk": 37, "sha": "bdc047fd0d314986"}
+{"at": 15, "chunk": 38, "cue": 925, "from": "blood let it to death", "sha": "20cbba1d0c1997b0", "to": "bloodletted to death"}
 {"at": 10, "chunk": 39, "cue": 962, "from": "Medical Meme", "sha": "3ec044c55b90aceb", "to": "Medical Medium"}
 {"at": 18, "chunk": 39, "cue": 963, "from": "Medical Meme", "sha": "3ec044c55b90aceb", "to": "Medical Medium"}
 {"at": 71, "chunk": 39, "cue": 968, "from": "medical meme", "sha": "3ec044c55b90aceb", "to": "medical medium"}
-{"at": 15, "chunk": 38, "cue": 925, "from": "blood let it to death", "sha": "20cbba1d0c1997b0", "to": "bloodletted to death"}
-{"chunk": 41, "sha": "e3c13aafc897c3d4"}
 {"at": 13, "chunk": 40, "cue": 972, "from": "medical meme", "sha": "c354544aaa746ce7", "to": "Medical Medium"}
 {"at": 13, "chunk": 40, "cue": 980, "from": "medical meme", "sha": "c354544aaa746ce7", "to": "Medical Medium"}
+{"chunk": 41, "sha": "e3c13aafc897c3d4"}

@@ -1,6 +1,7 @@
+{"chunk_words": 250}
+{"chunk": 0, "sha": "803bff97da399126"}
 {"chunk": 1, "sha": "587eb7f076279fec"}
 {"at": 10, "chunk": 2, "cue": 68, "from": "research in science", "sha": "346f1cc8fc271b58", "to": "research and science"}
-{"chunk": 0, "sha": "803bff97da399126"}
 {"chunk": 3, "sha": "51c85243cb3f2a30"}
 {"chunk": 4, "sha": "7d31130aca6fb24b"}
 {"chunk": 5, "sha": "abd18e75b8c7c5d5"}
@@ -8,32 +9,32 @@
 {"chunk": 7, "sha": "bc7d0901a21938d5"}
 {"at": 8, "chunk": 8, "cue": 215, "from": "it's not response.", "sha": "2b1e7c5352e5fcf7", "to": "it's not responsible."}
 {"chunk": 9, "sha": "9a634b048745b227"}
-{"chunk": 11, "sha": "c77fd89bdf8fa26f"}
 {"chunk": 10, "sha": "1b525cc298d9a4f8"}
+{"chunk": 11, "sha": "c77fd89bdf8fa26f"}
 {"chunk": 12, "sha": "870f7b1f6f7e73f0"}
-{"chunk": 14, "sha": "1c8d9d44bf4caa15"}
 {"chunk": 13, "sha": "fb31d793d44309fb"}
+{"chunk": 14, "sha": "1c8d9d44bf4caa15"}
 {"chunk": 15, "sha": "10c272c56a96eff8"}
-{"at": 31, "chunk": 17, "cue": 436, "from": "Epstein bar", "sha": "1ecca34f573e7a2c", "to": "Epstein-Barr"}
 {"chunk": 16, "sha": "638632083650d5e6"}
+{"at": 31, "chunk": 17, "cue": 436, "from": "Epstein bar", "sha": "1ecca34f573e7a2c", "to": "Epstein-Barr"}
 {"at": 66, "chunk": 18, "cue": 443, "from": "research at science", "sha": "86a55376eaca09e7", "to": "research and science"}
 {"chunk": 19, "sha": "9d7a09df48736efc"}
-{"chunk": 22, "sha": "44c8b93c3408c55d"}
-{"chunk": 23, "sha": "2ab367d2e81f5d92"}
+{"chunk": 20, "sha": "b83003688e4b73e7"}
 {"at": 62, "chunk": 21, "cue": 505, "from": "dermatoxin", "sha": "9ae1e223a36ee91d", "to": "dermatotoxin"}
 {"at": 92, "chunk": 21, "cue": 505, "from": "dermatoxin", "sha": "9ae1e223a36ee91d", "to": "dermatotoxin"}
-{"chunk": 20, "sha": "b83003688e4b73e7"}
-{"at": 20, "chunk": 26, "cue": 625, "from": "with the ligos", "sha": "46ffc06bc6bb9228", "to": "with vitiligo"}
+{"chunk": 22, "sha": "44c8b93c3408c55d"}
+{"chunk": 23, "sha": "2ab367d2e81f5d92"}
 {"chunk": 24, "sha": "1749fd955f108a4b"}
 {"chunk": 25, "sha": "1bc100a4bad625e1"}
+{"at": 20, "chunk": 26, "cue": 625, "from": "with the ligos", "sha": "46ffc06bc6bb9228", "to": "with vitiligo"}
+{"chunk": 27, "sha": "9ac4cfcf09b6e821"}
 {"chunk": 28, "sha": "02077bafbb426caf"}
 {"at": 57, "chunk": 29, "cue": 710, "from": "Epstein bars", "sha": "caf00591acf5940f", "to": "Epstein-Barrs"}
-{"chunk": 27, "sha": "9ac4cfcf09b6e821"}
 {"chunk": 30, "sha": "a37e6aef426b7fc8"}
 {"chunk": 31, "sha": "b4296729bf4ed7dc"}
-{"at": 46, "chunk": 34, "cue": 827, "from": "spinach, mosh", "sha": "2177db1f17088cec", "to": "spinach, mâche"}
 {"at": 63, "chunk": 32, "cue": 772, "from": "celery sodium celery salts", "sha": "428de5cde58d3252", "to": "celery sodium cluster salts"}
 {"chunk": 33, "sha": "7e32494fcba0ca18"}
+{"at": 46, "chunk": 34, "cue": 827, "from": "spinach, mosh", "sha": "2177db1f17088cec", "to": "spinach, mâche"}
 {"chunk": 35, "sha": "03c5b4b94e328f48"}
 {"at": 54, "chunk": 36, "cue": 856, "from": "alpha-lopaic acid", "sha": "1f5874ba596ed3a0", "to": "alpha-lipoic acid"}
 {"at": 28, "chunk": 36, "cue": 862, "from": "heavy metal detox movie", "sha": "1f5874ba596ed3a0", "to": "heavy metal detox smoothie"}

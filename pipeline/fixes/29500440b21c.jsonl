@@ -1,13 +1,14 @@
+{"chunk_words": 250}
 {"chunk": 0, "sha": "f5fb7dbb958bc85b"}
-{"chunk": 2, "sha": "ff43a90a75a8e5e1"}
 {"chunk": 1, "sha": "1e230b07c7637dce"}
+{"chunk": 2, "sha": "ff43a90a75a8e5e1"}
 {"chunk": 3, "sha": "60678a8d221e8a18"}
 {"at": 0, "chunk": 4, "cue": 85, "from": "the good of the emergency room", "sha": "8af8880bf2a44f03", "to": "they go to the emergency room"}
 {"at": 12, "chunk": 5, "cue": 101, "from": "Getter", "sha": "1ef2ac2fc62b8ce5", "to": "Gettr"}
 {"at": 52, "chunk": 5, "cue": 119, "from": "I carried these", "sha": "1ef2ac2fc62b8ce5", "to": "I cured these"}
-{"chunk": 8, "sha": "dbe3b95dd26e2109"}
 {"chunk": 6, "sha": "c1a9e28e1145a1b3"}
 {"at": 25, "chunk": 7, "cue": 145, "from": "technically about obstruction", "sha": "2125b29dc51913b0", "to": "technically a bowel obstruction"}
+{"chunk": 8, "sha": "dbe3b95dd26e2109"}
 {"chunk": 9, "sha": "3c2943c2dd381a34"}
 {"chunk": 10, "sha": "43d35624a439a7a4"}
 {"at": 74, "chunk": 11, "cue": 223, "from": "They setting out a bowel obstruction", "sha": "cde6489e2ef75d20", "to": "They're saying it's a bowel obstruction"}
@@ -21,18 +22,18 @@
 {"chunk": 19, "sha": "046f09aa8f381323"}
 {"chunk": 20, "sha": "190975545eed1acc"}
 {"chunk": 21, "sha": "f64d5fec730a9f70"}
-{"at": 0, "chunk": 23, "cue": 413, "from": "and it's own", "sha": "8481bd91059e9bb4", "to": "on its own"}
 {"at": 59, "chunk": 22, "cue": 403, "from": "do away", "sha": "a2c8a3fd5c4c582c", "to": "go away"}
 {"at": 90, "chunk": 22, "cue": 403, "from": "do away", "sha": "a2c8a3fd5c4c582c", "to": "go away"}
 {"at": 58, "chunk": 22, "cue": 405, "from": "Brainsaver", "sha": "a2c8a3fd5c4c582c", "to": "Brain Saver"}
 {"at": 91, "chunk": 22, "cue": 406, "from": "Brainsaver", "sha": "a2c8a3fd5c4c582c", "to": "Brain Saver"}
 {"at": 22, "chunk": 22, "cue": 407, "from": "Brainsaver", "sha": "a2c8a3fd5c4c582c", "to": "Brain Saver"}
+{"at": 0, "chunk": 23, "cue": 413, "from": "and it's own", "sha": "8481bd91059e9bb4", "to": "on its own"}
 {"chunk": 24, "sha": "2c0fab59ebc151aa"}
-{"chunk": 27, "sha": "e720613a217dfbff"}
-{"chunk": 26, "sha": "60be164efcb742c9"}
-{"chunk": 28, "sha": "8637e9c2c4956fe0"}
-{"at": 0, "chunk": 29, "cue": 511, "from": "brand saber books", "sha": "004602d1720f9b4e", "to": "Brain Saver books"}
 {"at": 70, "chunk": 25, "cue": 452, "from": "So that's medical information", "sha": "eab90d07a8fbd925", "to": "So that's medical medium information"}
 {"at": 54, "chunk": 25, "cue": 453, "from": "Brainsaver", "sha": "eab90d07a8fbd925", "to": "Brain Saver"}
+{"chunk": 26, "sha": "60be164efcb742c9"}
+{"chunk": 27, "sha": "e720613a217dfbff"}
+{"chunk": 28, "sha": "8637e9c2c4956fe0"}
+{"at": 0, "chunk": 29, "cue": 511, "from": "brand saber books", "sha": "004602d1720f9b4e", "to": "Brain Saver books"}
 {"chunk": 30, "sha": "aed84fda86eed592"}
 {"chunk": 31, "sha": "fdc22cd4f4ba9686"}

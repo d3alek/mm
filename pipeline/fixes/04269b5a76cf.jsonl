@@ -1,18 +1,19 @@
-{"chunk": 1, "sha": "215e134f96de2975"}
+{"chunk_words": 250}
 {"at": 36, "chunk": 0, "cue": 15, "from": "alcohol and tinctures", "sha": "aea6367b773ef61d", "to": "alcohol in tinctures"}
+{"chunk": 1, "sha": "215e134f96de2975"}
 {"at": 0, "chunk": 2, "cue": 71, "from": "Supplements are no supplements", "sha": "a17857e403646949", "to": "Supplements or no supplements"}
-{"chunk": 5, "sha": "e352ef5b81182cf5"}
 {"at": 16, "chunk": 3, "cue": 94, "from": "cider liver", "sha": "d73a5559be59f791", "to": "inside our liver"}
 {"at": 3, "chunk": 3, "cue": 95, "from": "cider liver", "sha": "d73a5559be59f791", "to": "inside our liver"}
 {"at": 45, "chunk": 3, "cue": 95, "from": "Epstein barn", "sha": "d73a5559be59f791", "to": "Epstein-Barr"}
 {"chunk": 4, "sha": "c4bfbe35bc952f78"}
-{"at": 32, "chunk": 7, "cue": 169, "from": "T-Servana", "sha": "772ab10746a06123", "to": "Taste Nirvana"}
+{"chunk": 5, "sha": "e352ef5b81182cf5"}
 {"chunk": 6, "sha": "6c80704481e89fd9"}
+{"at": 32, "chunk": 7, "cue": 169, "from": "T-Servana", "sha": "772ab10746a06123", "to": "Taste Nirvana"}
 {"at": 41, "chunk": 8, "cue": 179, "from": "bluers", "sha": "6ea390c2ad9b5d29", "to": "blueberries"}
-{"at": 6, "chunk": 10, "cue": 236, "from": "traditional medicinal teas", "sha": "20e6443c28129c92", "to": "Traditional Medicinals teas"}
 {"at": 47, "chunk": 9, "cue": 203, "from": "5 mth f1 capsule", "sha": "092843438505ecec", "to": "5-MTHF 1 capsule"}
 {"at": 79, "chunk": 9, "cue": 208, "from": "powder for Vimergy", "sha": "092843438505ecec", "to": "powder from Vimergy"}
 {"at": 22, "chunk": 9, "cue": 213, "from": "one drop or fold", "sha": "092843438505ecec", "to": "one dropperful"}
+{"at": 6, "chunk": 10, "cue": 236, "from": "traditional medicinal teas", "sha": "20e6443c28129c92", "to": "Traditional Medicinals teas"}
 {"at": 24, "chunk": 11, "cue": 254, "from": "new companies", "sha": "990f54109b50876a", "to": "few companies"}
 {"at": 55, "chunk": 11, "cue": 263, "from": "Pattaya", "sha": "990f54109b50876a", "to": "pitaya"}
 {"at": 82, "chunk": 11, "cue": 263, "from": "Pattaya", "sha": "990f54109b50876a", "to": "pitaya"}
@@ -22,7 +23,7 @@
 {"chunk": 14, "sha": "d21485a5d48d3f51"}
 {"chunk": 15, "sha": "5acdf993e358bfd6"}
 {"chunk": 16, "sha": "c34009892a5b1356"}
-{"chunk": 18, "sha": "fe2a4657b4743ae0"}
 {"at": 7, "chunk": 17, "cue": 366, "from": "opened up two adrenal", "sha": "04b1989c00273fbf", "to": "opened up to adrenal"}
-{"chunk": 20, "sha": "b8d6979aad7b9b5d"}
+{"chunk": 18, "sha": "fe2a4657b4743ae0"}
 {"at": 70, "chunk": 19, "cue": 399, "from": "Pattaya Powder", "sha": "0edfe69e71b35fa6", "to": "Pitaya Powder"}
+{"chunk": 20, "sha": "b8d6979aad7b9b5d"}

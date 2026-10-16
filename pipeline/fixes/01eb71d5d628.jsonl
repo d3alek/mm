@@ -1,43 +1,44 @@
+{"chunk_words": 250}
 {"chunk": 0, "sha": "ee62e9ecffbf5790"}
 {"chunk": 1, "sha": "348b827c80fdae6d"}
 {"at": 83, "chunk": 2, "cue": 79, "from": "falters", "sha": "27b12ca93a166999", "to": "floaters"}
-{"chunk": 4, "sha": "84eddd17880cf013"}
 {"chunk": 3, "sha": "0f3dbc4d8a912710"}
+{"chunk": 4, "sha": "84eddd17880cf013"}
 {"chunk": 5, "sha": "6bbd56070104684e"}
 {"chunk": 6, "sha": "41511574488b4a55"}
+{"at": 14, "chunk": 7, "cue": 184, "from": "that book how to get done", "sha": "db0ee5422b6e68b7", "to": "that book had to get done"}
 {"chunk": 8, "sha": "8ff355d6c94c8ef3"}
 {"chunk": 9, "sha": "f23b2102bcd1142c"}
 {"chunk": 10, "sha": "bc4089283a9aaff7"}
-{"at": 14, "chunk": 7, "cue": 184, "from": "that book how to get done", "sha": "db0ee5422b6e68b7", "to": "that book had to get done"}
 {"chunk": 11, "sha": "77f2dcdb21e48948"}
 {"chunk": 12, "sha": "e55345512fab08c1"}
-{"chunk": 15, "sha": "a12137b6d4c1b56e"}
 {"chunk": 13, "sha": "59f4e874fe390380"}
 {"at": 37, "chunk": 14, "cue": 332, "from": "apple and apple pie", "sha": "1f91ad6dfddb8f66", "to": "apple in apple pie"}
 {"at": 22, "chunk": 14, "cue": 333, "from": "bananas and banana sundaes", "sha": "1f91ad6dfddb8f66", "to": "bananas in banana sundaes"}
 {"at": 32, "chunk": 14, "cue": 335, "from": "sulfur and fruit", "sha": "1f91ad6dfddb8f66", "to": "sulfured fruit"}
-{"chunk": 17, "sha": "0e554ace1774fd64"}
+{"chunk": 15, "sha": "a12137b6d4c1b56e"}
 {"chunk": 16, "sha": "5dde31162a17b36f"}
+{"chunk": 17, "sha": "0e554ace1774fd64"}
 {"chunk": 18, "sha": "07ee6cf699dc5f81"}
 {"chunk": 19, "sha": "b81e290004657fc0"}
 {"chunk": 20, "sha": "4ef9c65cd0325f8b"}
-{"chunk": 23, "sha": "89239c3a268d1930"}
 {"chunk": 21, "sha": "f6f0f7f7b8d76d41"}
 {"at": 58, "chunk": 22, "cue": 490, "from": "spirit setting light down", "sha": "5edc152f77ec5a51", "to": "spirit sending light down"}
+{"chunk": 23, "sha": "89239c3a268d1930"}
 {"chunk": 24, "sha": "522f834e32c0d05c"}
 {"chunk": 25, "sha": "86735ccccbfa1c88"}
 {"chunk": 26, "sha": "1a2681d9a64c682d"}
+{"at": 43, "chunk": 27, "cue": 594, "from": "epstein var", "sha": "b9dbc6fe0b064c9c", "to": "epstein barr"}
+{"at": 5, "chunk": 27, "cue": 595, "from": "hhp6", "sha": "b9dbc6fe0b064c9c", "to": "hhv6"}
 {"chunk": 28, "sha": "4846e6b87f8771a0"}
 {"at": 25, "chunk": 29, "cue": 633, "from": "epstein-bar", "sha": "c8f370f51bc0a456", "to": "Epstein-Barr"}
 {"at": 66, "chunk": 29, "cue": 633, "from": "epstein-bar", "sha": "c8f370f51bc0a456", "to": "Epstein-Barr"}
-{"at": 43, "chunk": 27, "cue": 594, "from": "epstein var", "sha": "b9dbc6fe0b064c9c", "to": "epstein barr"}
-{"at": 5, "chunk": 27, "cue": 595, "from": "hhp6", "sha": "b9dbc6fe0b064c9c", "to": "hhv6"}
 {"at": 12, "chunk": 30, "cue": 657, "from": "past a generation", "sha": "1fb6511950ae6c0f", "to": "passed a generation"}
 {"at": 31, "chunk": 30, "cue": 657, "from": "past a generation", "sha": "1fb6511950ae6c0f", "to": "passed a generation"}
 {"chunk": 31, "sha": "ddd89f418e84c2ae"}
 {"chunk": 32, "sha": "b6b1616f3f3f3d1a"}
+{"at": 67, "chunk": 33, "cue": 739, "from": "bells ballsy", "sha": "19d402461431f56c", "to": "Bell's palsy"}
 {"chunk": 34, "sha": "53bcab9657348928"}
 {"chunk": 35, "sha": "d2089baef5358bdc"}
-{"at": 67, "chunk": 33, "cue": 739, "from": "bells ballsy", "sha": "19d402461431f56c", "to": "Bell's palsy"}
 {"chunk": 36, "sha": "bd71d484d45e1cb1"}
 {"chunk": 37, "sha": "6979d1a7ef873f5e"}

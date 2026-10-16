@@ -1,39 +1,40 @@
-{"chunk": 1, "sha": "c7a1caf6de3dcd94"}
+{"chunk_words": 250}
 {"at": 83, "chunk": 0, "cue": 10, "from": "we're up begins", "sha": "32d32cb9cedfce51", "to": "we're up against"}
+{"chunk": 1, "sha": "c7a1caf6de3dcd94"}
 {"at": 73, "chunk": 2, "cue": 37, "from": "I call it, and liver rescue", "sha": "5e8d073f329c48e8", "to": "I call it, in Liver Rescue"}
 {"chunk": 3, "sha": "e462c7ff28a4a064"}
 {"chunk": 4, "sha": "57db0e9952507d14"}
 {"chunk": 5, "sha": "ee0e6641dd6392a1"}
-{"chunk": 7, "sha": "42b649bd2a03825c"}
-{"chunk": 9, "sha": "5147eac124274f61"}
-{"at": 0, "chunk": 8, "cue": 183, "from": "myalgia, encephalitis", "sha": "e1c9af14a5d3084b", "to": "myalgic encephalomyelitis"}
 {"chunk": 6, "sha": "98a6efd3370194ee"}
+{"chunk": 7, "sha": "42b649bd2a03825c"}
+{"at": 0, "chunk": 8, "cue": 183, "from": "myalgia, encephalitis", "sha": "e1c9af14a5d3084b", "to": "myalgic encephalomyelitis"}
+{"chunk": 9, "sha": "5147eac124274f61"}
 {"chunk": 10, "sha": "d2d2ebaba9dd0ff3"}
 {"at": 0, "chunk": 11, "cue": 275, "from": "It's just their people", "sha": "92fc27fc6df7a3fd", "to": "It's just they're people"}
 {"chunk": 12, "sha": "ddd7a4603c21fea5"}
-{"chunk": 15, "sha": "91f053eda5e73035"}
 {"at": 50, "chunk": 13, "cue": 359, "from": "paddock portal vein", "sha": "8d9ac8f83bd37f16", "to": "hepatic portal vein"}
 {"at": 74, "chunk": 13, "cue": 359, "from": "paddock artery", "sha": "8d9ac8f83bd37f16", "to": "hepatic artery"}
 {"at": 31, "chunk": 14, "cue": 373, "from": "some toilet and some gas station", "sha": "2998092bf4a2820a", "to": "some toilet in some gas station"}
+{"chunk": 15, "sha": "91f053eda5e73035"}
 {"chunk": 16, "sha": "e260d7e6f2074747"}
 {"chunk": 17, "sha": "2c7d4704df43d705"}
 {"chunk": 18, "sha": "9221e52aa873660f"}
 {"chunk": 19, "sha": "a0a35b8033843471"}
 {"chunk": 20, "sha": "41c9d8f74e5000b6"}
 {"chunk": 21, "sha": "5a10ae0c65715feb"}
-{"chunk": 25, "sha": "0d927e378a04dc43"}
-{"chunk": 23, "sha": "e413ba1a8eca5363"}
 {"chunk": 22, "sha": "ac3b8c35d06329c7"}
+{"chunk": 23, "sha": "e413ba1a8eca5363"}
 {"chunk": 24, "sha": "086ebaad882fe818"}
+{"chunk": 25, "sha": "0d927e378a04dc43"}
 {"chunk": 26, "sha": "5bd988d87c37acd8"}
 {"chunk": 27, "sha": "df71550cbeb2ea5b"}
-{"at": 3, "chunk": 29, "cue": 776, "from": "bioproduction", "sha": "1370658966279dbb", "to": "bile production"}
 {"chunk": 28, "sha": "d6177daaffce64d1"}
+{"at": 3, "chunk": 29, "cue": 776, "from": "bioproduction", "sha": "1370658966279dbb", "to": "bile production"}
 {"chunk": 30, "sha": "ce416c0ddeb4924a"}
-{"chunk": 33, "sha": "1971997a257e0ad6"}
 {"at": 0, "chunk": 31, "cue": 830, "from": "the path basically", "sha": "ceca4f93904f2628", "to": "the pathogen basically"}
 {"at": 0, "chunk": 31, "cue": 835, "from": "which is that incredible", "sha": "ceca4f93904f2628", "to": "isn't that incredible"}
 {"chunk": 32, "sha": "c025fa17d6cbff74"}
+{"chunk": 33, "sha": "1971997a257e0ad6"}
 {"chunk": 34, "sha": "54b3937d7a65b6d6"}
-{"chunk": 36, "sha": "6735128e81054cf7"}
 {"chunk": 35, "sha": "783b80cd1187a33f"}
+{"chunk": 36, "sha": "6735128e81054cf7"}

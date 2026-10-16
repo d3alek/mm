@@ -1,62 +1,63 @@
+{"chunk_words": 250}
 {"at": 87, "chunk": 0, "cue": 15, "from": "show in episode", "sha": "9a3ae27cbff91fe2", "to": "show and episode"}
 {"chunk": 1, "sha": "7ac53ab10ac6ede6"}
-{"chunk": 4, "sha": "3379c5c13a14bd56"}
-{"chunk": 3, "sha": "532a4071e6e7c860"}
 {"chunk": 2, "sha": "915e5c42ca572085"}
+{"chunk": 3, "sha": "532a4071e6e7c860"}
+{"chunk": 4, "sha": "3379c5c13a14bd56"}
 {"at": 19, "chunk": 5, "cue": 123, "from": "Epstein bars", "sha": "d28cdeaa892f92be", "to": "Epstein-Barrs"}
 {"chunk": 6, "sha": "658e6a5163bd3c07"}
 {"chunk": 7, "sha": "f84d44bba8d5646e"}
+{"chunk": 8, "sha": "d17f2626936f87b8"}
+{"chunk": 9, "sha": "473d605c66b80e35"}
 {"chunk": 10, "sha": "cdc2d5dc510aebec"}
 {"chunk": 11, "sha": "05e36d2e480ba71e"}
-{"chunk": 9, "sha": "473d605c66b80e35"}
-{"chunk": 8, "sha": "d17f2626936f87b8"}
 {"chunk": 12, "sha": "9d39527e022b2d07"}
 {"chunk": 13, "sha": "a8c45032854f1cfd"}
 {"at": 38, "chunk": 14, "cue": 327, "from": "antibiotics and so many people", "sha": "ef1a653bddbd1f0c", "to": "antibiotics in so many people"}
-{"at": 33, "chunk": 17, "cue": 387, "from": "it can't release", "sha": "5d0fb6c6fbf595ba", "to": "it can release"}
-{"chunk": 16, "sha": "54213e7b5b495e0e"}
-{"chunk": 18, "sha": "25486239ac86b25e"}
 {"chunk": 15, "sha": "8cb0a2dc6fdece49"}
+{"chunk": 16, "sha": "54213e7b5b495e0e"}
+{"at": 33, "chunk": 17, "cue": 387, "from": "it can't release", "sha": "5d0fb6c6fbf595ba", "to": "it can release"}
+{"chunk": 18, "sha": "25486239ac86b25e"}
 {"chunk": 19, "sha": "3b3941af9d5bb874"}
 {"chunk": 20, "sha": "b130e3c7b3abc485"}
 {"chunk": 21, "sha": "198c0c8603d989af"}
 {"chunk": 22, "sha": "354bf38bffee3db6"}
 {"chunk": 23, "sha": "5b2d330ec4bc9d9d"}
-{"chunk": 25, "sha": "a04f0de302c53a3d"}
 {"at": 46, "chunk": 24, "cue": 559, "from": "packet supplements", "sha": "e3f1adbdf8ecdcdf", "to": "packed supplements"}
+{"chunk": 25, "sha": "a04f0de302c53a3d"}
 {"chunk": 26, "sha": "a99adcd1ea2400ec"}
 {"at": 18, "chunk": 27, "cue": 603, "from": "remerances", "sha": "1d533dabc52ef174", "to": "remnants"}
+{"chunk": 28, "sha": "02aa4b5a76ff78c2"}
 {"chunk": 29, "sha": "806a0bc8f076e7d1"}
 {"at": 49, "chunk": 30, "cue": 694, "from": "sugars and milk", "sha": "e9ae462c8502cdc6", "to": "sugars in milk"}
 {"at": 0, "chunk": 30, "cue": 696, "from": "pasteurase", "sha": "e9ae462c8502cdc6", "to": "pasteurized"}
-{"chunk": 28, "sha": "02aa4b5a76ff78c2"}
-{"chunk": 32, "sha": "a7930c45048ee3da"}
 {"chunk": 31, "sha": "8794f60fb233d844"}
-{"chunk": 35, "sha": "d14c18761c081d3a"}
-{"chunk": 34, "sha": "e37c98e5aa682127"}
+{"chunk": 32, "sha": "a7930c45048ee3da"}
 {"at": 9, "chunk": 33, "cue": 742, "from": "milk and just your coffee", "sha": "df0823533f0774ce", "to": "milk in just your coffee"}
+{"chunk": 34, "sha": "e37c98e5aa682127"}
+{"chunk": 35, "sha": "d14c18761c081d3a"}
 {"at": 72, "chunk": 36, "cue": 809, "from": "high flashes", "sha": "3e5af8385d8d7ad0", "to": "hot flashes"}
 {"at": 39, "chunk": 37, "cue": 839, "from": "lemon in their teeth", "sha": "6a22f8b844f7caae", "to": "lemon in their tea"}
 {"chunk": 38, "sha": "85b431f97206a23a"}
 {"chunk": 39, "sha": "b8326dbf99120b9c"}
-{"chunk": 41, "sha": "d65e061d8ad28133"}
 {"chunk": 40, "sha": "891bcb0f58bd352c"}
+{"chunk": 41, "sha": "d65e061d8ad28133"}
 {"chunk": 42, "sha": "ad5ab65231061251"}
 {"at": 12, "chunk": 43, "cue": 986, "from": "hop down", "sha": "a698e4ac460f2cdc", "to": "hopped on"}
 {"chunk": 44, "sha": "69314a078aba181c"}
 {"chunk": 45, "sha": "68d5be1ec545d7b7"}
 {"at": 8, "chunk": 46, "cue": 1051, "from": "Thyroid Feeling", "sha": "fcf29a9ac5868901", "to": "Thyroid Healing"}
-{"chunk": 48, "sha": "c1b495ba3bf329af"}
 {"at": 0, "chunk": 47, "cue": 1084, "from": "fog man diet", "sha": "da3fad468bcc7b07", "to": "FODMAP diet"}
 {"at": 76, "chunk": 47, "cue": 1084, "from": "new think", "sha": "da3fad468bcc7b07", "to": "new thing"}
+{"chunk": 48, "sha": "c1b495ba3bf329af"}
 {"chunk": 49, "sha": "a16e62ec465a9ac8"}
-{"chunk": 51, "sha": "b5d10af8a9f1c8f0"}
 {"at": 14, "chunk": 50, "cue": 1164, "from": "vow to that", "sha": "d75785ce1d7aa82c", "to": "bout of that"}
-{"chunk": 54, "sha": "48b792a3b5b37caa"}
+{"chunk": 51, "sha": "b5d10af8a9f1c8f0"}
+{"chunk": 52, "sha": "17398834bb5dabd1"}
 {"at": 25, "chunk": 53, "cue": 1238, "from": "weight count", "sha": "54ba83d015d53581", "to": "white count"}
+{"chunk": 54, "sha": "48b792a3b5b37caa"}
 {"at": 16, "chunk": 55, "cue": 1272, "from": "Epstein-Barras", "sha": "12112f5dd4311d0c", "to": "Epstein-Barr"}
 {"at": 89, "chunk": 56, "cue": 1288, "from": "epstein bars been", "sha": "abe1f0107162a87a", "to": "Epstein-Barr's been"}
-{"chunk": 52, "sha": "17398834bb5dabd1"}
 {"chunk": 57, "sha": "fa7de48aa1f0261c"}
 {"chunk": 58, "sha": "357d046a6b6b7621"}
 {"chunk": 59, "sha": "a9a89ba1d4eb2179"}
@@ -65,19 +66,19 @@
 {"at": 42, "chunk": 62, "cue": 1419, "from": "Epstein bars", "sha": "75edadf2211581d7", "to": "Epstein-Barr"}
 {"at": 11, "chunk": 62, "cue": 1420, "from": "Epstein bars", "sha": "75edadf2211581d7", "to": "Epstein-Barr"}
 {"chunk": 63, "sha": "cec48635c101c9ea"}
-{"chunk": 66, "sha": "da0a862db2c46057"}
-{"chunk": 65, "sha": "fac719ea510aaa94"}
 {"at": 13, "chunk": 64, "cue": 1456, "from": "is a blame", "sha": "44e947e1876a887c", "to": "is to blame"}
+{"chunk": 65, "sha": "fac719ea510aaa94"}
+{"chunk": 66, "sha": "da0a862db2c46057"}
 {"chunk": 67, "sha": "0c183ab1a408f91c"}
-{"chunk": 69, "sha": "1d79e564f3ebaae4"}
 {"at": 44, "chunk": 68, "cue": 1538, "from": "epstein-bar", "sha": "bce14a475e79349e", "to": "epstein-barr"}
 {"at": 85, "chunk": 68, "cue": 1538, "from": "epstein-bar", "sha": "bce14a475e79349e", "to": "epstein-barr"}
 {"at": 0, "chunk": 68, "cue": 1540, "from": "epstein-bar", "sha": "bce14a475e79349e", "to": "epstein-barr"}
 {"at": 28, "chunk": 68, "cue": 1551, "from": "air infection", "sha": "bce14a475e79349e", "to": "ear infection"}
+{"chunk": 69, "sha": "1d79e564f3ebaae4"}
 {"chunk": 70, "sha": "db1ff3019618e694"}
-{"chunk": 72, "sha": "32ea0d84768c3d59"}
 {"at": 3, "chunk": 71, "cue": 1643, "from": "don't get full", "sha": "804b9830d2495907", "to": "don't get fooled"}
+{"chunk": 72, "sha": "32ea0d84768c3d59"}
 {"chunk": 73, "sha": "94cd991fc0654116"}
 {"chunk": 74, "sha": "8323bfe814c63335"}
-{"chunk": 76, "sha": "a1bebe6a3f5aec8a"}
 {"at": 4, "chunk": 75, "cue": 1769, "from": "they can understand you", "sha": "37f8af230c4aa0a7", "to": "they can't understand you"}
+{"chunk": 76, "sha": "a1bebe6a3f5aec8a"}

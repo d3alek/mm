@@ -1,15 +1,16 @@
-{"chunk": 1, "sha": "4398cb98828ff6c1"}
+{"chunk_words": 250}
 {"chunk": 0, "sha": "eee7525ea7208674"}
-{"chunk": 3, "sha": "9cd67b71c55b2236"}
+{"chunk": 1, "sha": "4398cb98828ff6c1"}
 {"chunk": 2, "sha": "d63c0036d94b2600"}
+{"chunk": 3, "sha": "9cd67b71c55b2236"}
 {"chunk": 4, "sha": "85702b54e8efb3fc"}
 {"chunk": 5, "sha": "fd19c1ea9321d792"}
-{"at": 4, "chunk": 7, "cue": 168, "from": "Epstein bars", "sha": "55fc2da287a472a3", "to": "Epstein-Barrs"}
-{"chunk": 9, "sha": "d4b6d8b295b5c4be"}
-{"chunk": 8, "sha": "9051ac7974eba804"}
-{"chunk": 10, "sha": "546bb53ed1c59b79"}
 {"chunk": 6, "sha": "23eaee1234759ba3"}
+{"at": 4, "chunk": 7, "cue": 168, "from": "Epstein bars", "sha": "55fc2da287a472a3", "to": "Epstein-Barrs"}
+{"chunk": 8, "sha": "9051ac7974eba804"}
+{"chunk": 9, "sha": "d4b6d8b295b5c4be"}
+{"chunk": 10, "sha": "546bb53ed1c59b79"}
 {"chunk": 11, "sha": "ed7162d4d817a5bf"}
-{"chunk": 14, "sha": "6df2bdef07f38749"}
 {"at": 8, "chunk": 12, "cue": 272, "from": "Reynolds syndrome", "sha": "c4bb3bf65a559274", "to": "Raynaud's syndrome"}
 {"chunk": 13, "sha": "cc4f8b319678c50b"}
+{"chunk": 14, "sha": "6df2bdef07f38749"}

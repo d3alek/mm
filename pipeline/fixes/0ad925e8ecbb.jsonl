@@ -1,39 +1,40 @@
+{"chunk_words": 250}
 {"chunk": 0, "sha": "fdbd3727d35c3f79"}
 {"chunk": 1, "sha": "2d9270e48e47ef13"}
 {"chunk": 2, "sha": "971d6fd4e81b9bf0"}
+{"chunk": 3, "sha": "7d2ec30b3f6cfed3"}
 {"at": 92, "chunk": 4, "cue": 92, "from": "cell-derate juice", "sha": "46aea6b795260ffe", "to": "celery juice"}
 {"at": 0, "chunk": 4, "cue": 102, "from": "celery just right", "sha": "46aea6b795260ffe", "to": "celery juice right"}
 {"chunk": 5, "sha": "42f81ae3ca404c98"}
-{"chunk": 3, "sha": "7d2ec30b3f6cfed3"}
 {"chunk": 6, "sha": "6169c5c6dcd24039"}
-{"chunk": 8, "sha": "f30128d28ab5be28"}
 {"chunk": 7, "sha": "b8e125a6d0c4186b"}
+{"chunk": 8, "sha": "f30128d28ab5be28"}
 {"chunk": 9, "sha": "49a46c70940c0440"}
 {"at": 51, "chunk": 10, "cue": 268, "from": "Epstein bars", "sha": "86ef00cb3d7c574d", "to": "Epstein-Barrs"}
 {"chunk": 11, "sha": "e422fccbbfe7544d"}
 {"chunk": 12, "sha": "b2e7ee8cde520951"}
-{"chunk": 14, "sha": "6a946c6d1e7335c1"}
 {"chunk": 13, "sha": "81eef052ed7fe6b4"}
-{"chunk": 17, "sha": "ebcef6fff2eac22a"}
-{"chunk": 16, "sha": "a7ddfc5773f38547"}
-{"chunk": 18, "sha": "6eee1215167d72ff"}
+{"chunk": 14, "sha": "6a946c6d1e7335c1"}
 {"at": 33, "chunk": 15, "cue": 357, "from": "with a fiber like that", "sha": "839e986f20fec98b", "to": "with a fibroid like that"}
 {"at": 56, "chunk": 15, "cue": 362, "from": "barley grass cheese powder", "sha": "839e986f20fec98b", "to": "barley grass juice powder"}
-{"chunk": 20, "sha": "12a104c3be83328d"}
+{"chunk": 16, "sha": "a7ddfc5773f38547"}
+{"chunk": 17, "sha": "ebcef6fff2eac22a"}
+{"chunk": 18, "sha": "6eee1215167d72ff"}
 {"chunk": 19, "sha": "47015cf4774f9340"}
-{"chunk": 22, "sha": "59dfd0bff98015a0"}
+{"chunk": 20, "sha": "12a104c3be83328d"}
 {"at": 19, "chunk": 21, "cue": 509, "from": "it could use your imagination", "sha": "a15aa0d7424aa61e", "to": "you could use your imagination"}
+{"chunk": 22, "sha": "59dfd0bff98015a0"}
 {"at": 13, "chunk": 23, "cue": 542, "from": "Bell Palsy", "sha": "b9f71baf0375954a", "to": "Bell's palsy"}
-{"chunk": 25, "sha": "ad292f26616e876a"}
 {"at": 0, "chunk": 24, "cue": 554, "from": "It's not obscene bar.", "sha": "13ad161fae951a04", "to": "It's not Epstein-Barr."}
 {"at": 59, "chunk": 24, "cue": 559, "from": "Jeanette Jeans", "sha": "13ad161fae951a04", "to": "genetics, genes"}
 {"at": 0, "chunk": 24, "cue": 561, "from": "You think Jeans", "sha": "13ad161fae951a04", "to": "You think genes"}
 {"at": 62, "chunk": 24, "cue": 564, "from": "you're too. I go", "sha": "13ad161fae951a04", "to": "you're two. I go"}
+{"chunk": 25, "sha": "ad292f26616e876a"}
 {"chunk": 26, "sha": "687188ecb7b65628"}
 {"chunk": 27, "sha": "fdffe88796b93c4c"}
 {"chunk": 28, "sha": "7fc2a98e2993c507"}
-{"chunk": 31, "sha": "292b8834e8e775ff"}
-{"chunk": 33, "sha": "7cdcbdd22e8919aa"}
-{"chunk": 30, "sha": "c0108c1188f66db8"}
 {"chunk": 29, "sha": "6942d80e1f470589"}
+{"chunk": 30, "sha": "c0108c1188f66db8"}
+{"chunk": 31, "sha": "292b8834e8e775ff"}
 {"chunk": 32, "sha": "7e0a46ce2eb97310"}
+{"chunk": 33, "sha": "7cdcbdd22e8919aa"}

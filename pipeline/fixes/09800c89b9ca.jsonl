@@ -1,3 +1,4 @@
+{"chunk_words": 250}
 {"at": 0, "chunk": 0, "cue": 0, "from": "Climb in by the light", "sha": "5d458c5b4211c80f", "to": "Blinded by the light"}
 {"at": 0, "chunk": 0, "cue": 28, "from": "Wripped up like a douche", "sha": "5d458c5b4211c80f", "to": "Revved up like a deuce"}
 {"at": 0, "chunk": 0, "cue": 37, "from": "You see $50", "sha": "5d458c5b4211c80f", "to": "You save $50"}
@@ -7,21 +8,21 @@
 {"at": 74, "chunk": 4, "cue": 142, "from": "down or anything else", "sha": "10785e11bf65fc78", "to": "down over anything else"}
 {"chunk": 5, "sha": "e9089f8e2d5cc289"}
 {"chunk": 6, "sha": "4bbf15d2a521952a"}
-{"chunk": 8, "sha": "2c0fe9476ee58a70"}
 {"chunk": 7, "sha": "2bebc5d80557becb"}
+{"chunk": 8, "sha": "2c0fe9476ee58a70"}
+{"chunk": 9, "sha": "c283bbb9a68d7ee2"}
 {"chunk": 10, "sha": "bf302241f8139268"}
 {"at": 26, "chunk": 11, "cue": 311, "from": "medical media", "sha": "c962fde846520470", "to": "Medical Medium"}
-{"chunk": 9, "sha": "c283bbb9a68d7ee2"}
 {"chunk": 12, "sha": "8890707d9885d1ee"}
 {"chunk": 13, "sha": "7cf4a8023cb61ac5"}
-{"chunk": 15, "sha": "4b3ff6eb62e01124"}
-{"chunk": 17, "sha": "ccaa63ed7b3f587e"}
-{"chunk": 16, "sha": "67a51ceee0d693d4"}
 {"chunk": 14, "sha": "c194ca6cddc0675e"}
-{"at": 47, "chunk": 19, "cue": 546, "from": "suffocature", "sha": "ba3c362ee04e001b", "to": "suffocates your"}
-{"chunk": 20, "sha": "d6cb16e6c8fcce7d"}
+{"chunk": 15, "sha": "4b3ff6eb62e01124"}
+{"chunk": 16, "sha": "67a51ceee0d693d4"}
+{"chunk": 17, "sha": "ccaa63ed7b3f587e"}
 {"at": 7, "chunk": 18, "cue": 513, "from": "go around efficient", "sha": "fb920f70f4285a26", "to": "go around deficient"}
 {"at": 3, "chunk": 18, "cue": 517, "from": "some mm stuff", "sha": "fb920f70f4285a26", "to": "some MMS stuff"}
+{"at": 47, "chunk": 19, "cue": 546, "from": "suffocature", "sha": "ba3c362ee04e001b", "to": "suffocates your"}
+{"chunk": 20, "sha": "d6cb16e6c8fcce7d"}
 {"chunk": 21, "sha": "e3f9e211a606f84e"}
 {"at": 62, "chunk": 22, "cue": 642, "from": "alkaline eyes and iron water", "sha": "1ce619bcf4346680", "to": "alkaline ionizer water"}
 {"chunk": 23, "sha": "ca8d6f91372c5cd8"}

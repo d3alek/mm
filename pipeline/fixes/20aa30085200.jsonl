@@ -1,13 +1,14 @@
+{"chunk_words": 250}
 {"chunk": 0, "sha": "b8b00e2862931afb"}
 {"chunk": 1, "sha": "471fe5824c65fc7c"}
 {"at": 49, "chunk": 2, "cue": 44, "from": "Medical Media newsletter", "sha": "88d203bd73dc81fe", "to": "Medical Medium newsletter"}
+{"chunk": 3, "sha": "cb4ff1e1ace1b51e"}
+{"chunk": 4, "sha": "bb124dded646c782"}
 {"at": 18, "chunk": 5, "cue": 133, "from": "medical meme community", "sha": "00e70dc156cf8ae8", "to": "Medical Medium community"}
 {"at": 10, "chunk": 5, "cue": 146, "from": "four warnings", "sha": "00e70dc156cf8ae8", "to": "forewarnings"}
 {"at": 26, "chunk": 6, "cue": 163, "from": "heated", "sha": "6a3f77a1a052a39e", "to": "heeded"}
 {"chunk": 7, "sha": "97d839dc7c2df9ed"}
-{"chunk": 4, "sha": "bb124dded646c782"}
 {"chunk": 8, "sha": "3a9694c34e908f9f"}
-{"chunk": 3, "sha": "cb4ff1e1ace1b51e"}
 {"at": 0, "chunk": 9, "cue": 251, "from": "Mega threes", "sha": "2e5d4d2b7b7d1e41", "to": "Omega threes"}
 {"chunk": 10, "sha": "a87ebf4d52214f29"}
 {"chunk": 11, "sha": "eb21f4dd26738ebe"}
@@ -17,21 +18,21 @@
 {"at": 38, "chunk": 14, "cue": 374, "from": "bioreserve", "sha": "421b5e2953b09375", "to": "bile reserve"}
 {"chunk": 15, "sha": "72cae9d901580c3d"}
 {"chunk": 16, "sha": "1e8c7f8cbca1ad9c"}
+{"chunk": 17, "sha": "5610fa8beb1e718e"}
 {"chunk": 18, "sha": "474b64a372cc4e48"}
-{"chunk": 20, "sha": "df4586a957d66d21"}
 {"chunk": 19, "sha": "cc18f416ed8f4522"}
+{"chunk": 20, "sha": "df4586a957d66d21"}
 {"chunk": 21, "sha": "b74ca2cc94f655d6"}
 {"chunk": 22, "sha": "d538909cfc59d894"}
 {"chunk": 23, "sha": "659cd65993a79609"}
-{"chunk": 17, "sha": "5610fa8beb1e718e"}
 {"at": 0, "chunk": 24, "cue": 665, "from": "pasture", "sha": "6f137c2019a25b0c", "to": "pastor"}
 {"at": 0, "chunk": 25, "cue": 683, "from": "Medical Mean Podcast", "sha": "916ea696baa77242", "to": "Medical Medium Podcast"}
 {"chunk": 26, "sha": "7e5656c7e346039d"}
 {"at": 4, "chunk": 27, "cue": 739, "from": "Light Changing Foods", "sha": "f9f2e30611f97fba", "to": "Life-Changing Foods"}
 {"chunk": 28, "sha": "c484ff4210279743"}
 {"chunk": 29, "sha": "1beebd60e1279db1"}
-{"chunk": 31, "sha": "530209d40fb90baa"}
 {"chunk": 30, "sha": "94a48c2aed3d9ff9"}
+{"chunk": 31, "sha": "530209d40fb90baa"}
 {"chunk": 32, "sha": "f10847fb4e621b35"}
 {"chunk": 33, "sha": "3d2a32a8a5ccfcdd"}
 {"chunk": 34, "sha": "d2fd77e4e7d0533f"}
@@ -40,8 +41,8 @@
 {"at": 0, "chunk": 37, "cue": 1041, "from": "Beta-carotenza", "sha": "62f3ff917a5bda26", "to": "Beta-carotenes"}
 {"at": 18, "chunk": 37, "cue": 1046, "from": "carazine", "sha": "62f3ff917a5bda26", "to": "carotene"}
 {"chunk": 38, "sha": "2bc7cf5f91575ed9"}
-{"chunk": 40, "sha": "bfbbc6a0fb930c53"}
 {"at": 53, "chunk": 39, "cue": 1098, "from": "there's just like", "sha": "d6d48dd08b159161", "to": "they're just like"}
+{"chunk": 40, "sha": "bfbbc6a0fb930c53"}
 {"chunk": 41, "sha": "0313be0e3d7655ca"}
 {"chunk": 42, "sha": "ba309401d8a49ada"}
 {"chunk": 43, "sha": "bd9ce43496701260"}

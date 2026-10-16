@@ -1,31 +1,32 @@
-{"chunk": 1, "sha": "3ae101513c574b7b"}
+{"chunk_words": 250}
 {"at": 70, "chunk": 0, "cue": 7, "from": "world efficient", "sha": "637bcf2f3b237379", "to": "world deficient"}
 {"at": 22, "chunk": 0, "cue": 11, "from": "fill the", "sha": "637bcf2f3b237379", "to": "filled with"}
 {"at": 51, "chunk": 0, "cue": 11, "from": "fill the", "sha": "637bcf2f3b237379", "to": "filled with"}
+{"chunk": 1, "sha": "3ae101513c574b7b"}
 {"chunk": 2, "sha": "70a2e113bd0c78ff"}
+{"at": 68, "chunk": 3, "cue": 59, "from": "their fresheners", "sha": "185e30d67cd0bad6", "to": "air fresheners"}
 {"at": 25, "chunk": 4, "cue": 80, "from": "MM900HGS", "sha": "62a08268f31d1c68", "to": "MM900HDS"}
 {"at": 18, "chunk": 4, "cue": 82, "from": "world of fishing", "sha": "62a08268f31d1c68", "to": "world deficient"}
 {"at": 22, "chunk": 4, "cue": 88, "from": "world efficient", "sha": "62a08268f31d1c68", "to": "world deficient"}
 {"at": 25, "chunk": 5, "cue": 116, "from": "of fishing", "sha": "6d1f684db9b95812", "to": "deficient"}
-{"at": 68, "chunk": 3, "cue": 59, "from": "their fresheners", "sha": "185e30d67cd0bad6", "to": "air fresheners"}
 {"chunk": 6, "sha": "6393138a3c2786c2"}
 {"at": 51, "chunk": 7, "cue": 175, "from": "golden seal", "sha": "6bb81fe293d9425f", "to": "goldenseal"}
 {"at": 14, "chunk": 7, "cue": 176, "from": "golden seal", "sha": "6bb81fe293d9425f", "to": "goldenseal"}
 {"at": 44, "chunk": 7, "cue": 176, "from": "golden seal", "sha": "6bb81fe293d9425f", "to": "goldenseal"}
 {"chunk": 8, "sha": "caf408fa66440cb9"}
 {"chunk": 9, "sha": "df71fa906a1fcacc"}
-{"chunk": 11, "sha": "eb2a31c0c775aaf4"}
 {"at": 74, "chunk": 10, "cue": 217, "from": "world efficient", "sha": "5bae2a5ea13bd960", "to": "world deficient"}
+{"chunk": 11, "sha": "eb2a31c0c775aaf4"}
 {"chunk": 12, "sha": "44b1415b30ca73f9"}
-{"chunk": 14, "sha": "4bcb95ab7971b2c1"}
 {"at": 0, "chunk": 13, "cue": 309, "from": "anybody be hundreds", "sha": "0c25f95929d67fa2", "to": "anybody b hundreds"}
-{"at": 28, "chunk": 16, "cue": 384, "from": "going into college.", "sha": "a7f1a33c84837539", "to": "going into collagen."}
+{"chunk": 14, "sha": "4bcb95ab7971b2c1"}
 {"chunk": 15, "sha": "011c89f7eba7aed0"}
+{"at": 28, "chunk": 16, "cue": 384, "from": "going into college.", "sha": "a7f1a33c84837539", "to": "going into collagen."}
 {"chunk": 17, "sha": "9be6a20a919d638a"}
 {"chunk": 18, "sha": "f1e1b8a2c1c50140"}
 {"chunk": 19, "sha": "747a3d8b2be87afa"}
 {"at": 51, "chunk": 20, "cue": 488, "from": "hosh posh", "sha": "a3a66ffce7b1b214", "to": "hodgepodge"}
-{"chunk": 22, "sha": "c2e7f344e4a4a2fa"}
 {"chunk": 21, "sha": "0f1eaf30ff40a9d6"}
+{"chunk": 22, "sha": "c2e7f344e4a4a2fa"}
 {"chunk": 23, "sha": "b0662092cb6ad347"}
 {"at": 23, "chunk": 24, "cue": 595, "from": "to naturally happens", "sha": "c31f5178bf3c23b4", "to": "it naturally happens"}

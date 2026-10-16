@@ -1,22 +1,22 @@
+{"chunk_words": 250}
 {"chunk": 0, "sha": "0551a61c8cfa4da3"}
-{"chunk": 2, "sha": "dc70f6b7e073fecf"}
 {"at": 6, "chunk": 1, "cue": 35, "from": "the bile", "sha": "e4a015b6ebcfbcfa", "to": "the vial"}
+{"chunk": 2, "sha": "dc70f6b7e073fecf"}
 {"at": 0, "chunk": 3, "cue": 112, "from": "MM900HGS", "sha": "761d9d5512e6f3e2", "to": "MM900HDS"}
 {"at": 75, "chunk": 3, "cue": 112, "from": "MM900HGS", "sha": "761d9d5512e6f3e2", "to": "MM900HDS"}
 {"at": 12, "chunk": 4, "cue": 171, "from": "cacaus and everything", "sha": "3cb99ffd0cd505da", "to": "cacao's in everything"}
 {"chunk": 5, "sha": "c8f43ec06fbbea07"}
-{"at": 0, "chunk": 7, "cue": 219, "from": "Down the brain.", "sha": "c870ddf92dbd0fa7", "to": "Down the drain."}
 {"at": 12, "chunk": 6, "cue": 204, "from": "MN 900 HTS", "sha": "6bb5870b5dd1cd76", "to": "MM900 HDS"}
+{"at": 0, "chunk": 7, "cue": 219, "from": "Down the brain.", "sha": "c870ddf92dbd0fa7", "to": "Down the drain."}
 {"chunk": 8, "sha": "92615f597b06c22e"}
 {"chunk": 9, "sha": "ae5acc1661bcc8e7"}
 {"chunk": 10, "sha": "49b7e88a0bebfd90"}
 {"chunk": 11, "sha": "bd7e3007d6a48b6c"}
 {"chunk": 12, "sha": "23385a52202cd3fe"}
 {"chunk": 13, "sha": "7c58314b77a3cff6"}
-{"at": 4, "chunk": 15, "cue": 502, "from": "that's my pole", "sha": "5544d6beb188d904", "to": "that's my pulp"}
 {"at": 56, "chunk": 14, "cue": 453, "from": "a money name", "sha": "6ac7866c1643cc4d", "to": "a moneymaker"}
 {"at": 12, "chunk": 14, "cue": 471, "from": "Southery Juicer", "sha": "6ac7866c1643cc4d", "to": "celery juicer"}
-{"chunk": 17, "sha": "643fda297d5265b6"}
+{"at": 4, "chunk": 15, "cue": 502, "from": "that's my pole", "sha": "5544d6beb188d904", "to": "that's my pulp"}
 {"at": 68, "chunk": 16, "cue": 522, "from": "medical media", "sha": "e4844f862bacad3d", "to": "Medical Medium"}
 {"at": 20, "chunk": 16, "cue": 523, "from": "I meant 900 HDS", "sha": "e4844f862bacad3d", "to": "the MM900HDS"}
 {"at": 0, "chunk": 16, "cue": 527, "from": "RG's", "sha": "e4844f862bacad3d", "to": "ours"}
@@ -24,15 +24,16 @@
 {"at": 35, "chunk": 16, "cue": 527, "from": "RG's", "sha": "e4844f862bacad3d", "to": "ours"}
 {"at": 4, "chunk": 16, "cue": 534, "from": "the pole is dry", "sha": "e4844f862bacad3d", "to": "the pulp is dry"}
 {"at": 0, "chunk": 16, "cue": 539, "from": "salary cost", "sha": "e4844f862bacad3d", "to": "celery cost"}
-{"at": 29, "chunk": 20, "cue": 622, "from": "Mental deficiencies", "sha": "490720cc1f1f8a3e", "to": "Mineral deficiencies"}
+{"chunk": 17, "sha": "643fda297d5265b6"}
 {"at": 42, "chunk": 18, "cue": 577, "from": "the opposite of vinegar", "sha": "f74b00e2eeb0e3d8", "to": "the apple cider vinegar"}
 {"chunk": 19, "sha": "3a248b9341e3918b"}
-{"at": 5, "chunk": 23, "cue": 713, "from": "cell reduce", "sha": "91bfb1b21f8b712d", "to": "celery juice"}
-{"at": 46, "chunk": 22, "cue": 705, "from": "pulping fiber", "sha": "61f1ce2169453756", "to": "pulp and fiber"}
-{"chunk": 24, "sha": "e246659f840bff7f"}
+{"at": 29, "chunk": 20, "cue": 622, "from": "Mental deficiencies", "sha": "490720cc1f1f8a3e", "to": "Mineral deficiencies"}
 {"chunk": 21, "sha": "3961250619d36a7a"}
-{"chunk": 26, "sha": "5716d145c1e22f90"}
+{"at": 46, "chunk": 22, "cue": 705, "from": "pulping fiber", "sha": "61f1ce2169453756", "to": "pulp and fiber"}
+{"at": 5, "chunk": 23, "cue": 713, "from": "cell reduce", "sha": "91bfb1b21f8b712d", "to": "celery juice"}
+{"chunk": 24, "sha": "e246659f840bff7f"}
 {"at": 0, "chunk": 25, "cue": 802, "from": "It's just countless lives", "sha": "7b54bc22bcd4d6cc", "to": "It's saved countless lives"}
+{"chunk": 26, "sha": "5716d145c1e22f90"}
 {"chunk": 27, "sha": "0a021a1c8e4732ff"}
 {"at": 23, "chunk": 28, "cue": 891, "from": "medical name information", "sha": "4e38e1eb669613d0", "to": "Medical Medium information"}
 {"at": 87, "chunk": 28, "cue": 892, "from": "half files", "sha": "4e38e1eb669613d0", "to": "half vials"}
@@ -43,8 +44,8 @@
 {"chunk": 32, "sha": "a149e4325d7efeb8"}
 {"chunk": 33, "sha": "9314c35ad650c239"}
 {"chunk": 34, "sha": "41412311fae4fcef"}
-{"at": 11, "chunk": 36, "cue": 1117, "from": "new addition", "sha": "64007fd8cf9d105f", "to": "new edition"}
 {"at": 46, "chunk": 35, "cue": 1089, "from": "medical needing healing tools", "sha": "7ddf7b6c0a02ec6e", "to": "Medical Medium healing tools"}
+{"at": 11, "chunk": 36, "cue": 1117, "from": "new addition", "sha": "64007fd8cf9d105f", "to": "new edition"}
 {"chunk": 37, "sha": "97866a37b95bbace"}
 {"at": 78, "chunk": 38, "cue": 1150, "from": "mosh", "sha": "49c6969cd1b2a55b", "to": "matcha"}
 {"at": 0, "chunk": 38, "cue": 1159, "from": "the line of the intestinal", "sha": "49c6969cd1b2a55b", "to": "the lining of the intestinal"}

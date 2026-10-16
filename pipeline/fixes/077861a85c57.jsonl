@@ -1,59 +1,60 @@
+{"chunk_words": 250}
 {"chunk": 0, "sha": "080bf280a5e895cf"}
 {"at": 7, "chunk": 1, "cue": 35, "from": "Brainsaver", "sha": "2d721db525472a26", "to": "Brain Saver"}
-{"chunk": 3, "sha": "3856f2fb512d992a"}
 {"at": 22, "chunk": 2, "cue": 51, "from": "Nature Heels", "sha": "27161f8a1e75f6af", "to": "Nature Heals"}
+{"chunk": 3, "sha": "3856f2fb512d992a"}
+{"at": 88, "chunk": 4, "cue": 82, "from": "I really get headaches", "sha": "e0d0d3f49c821cad", "to": "I rarely get headaches"}
 {"chunk": 5, "sha": "d58554c5a0f1c0e9"}
 {"chunk": 6, "sha": "ac5827c3a8b1169d"}
-{"at": 88, "chunk": 4, "cue": 82, "from": "I really get headaches", "sha": "e0d0d3f49c821cad", "to": "I rarely get headaches"}
 {"chunk": 7, "sha": "af1fa71c4412d324"}
 {"chunk": 8, "sha": "bb1fa7a83509ccc2"}
-{"chunk": 12, "sha": "c5bad455b6fcec26"}
-{"chunk": 13, "sha": "5d9ee6c82961f1cc"}
 {"at": 10, "chunk": 9, "cue": 213, "from": "a pocket theory", "sha": "64f9ecce04994b2a", "to": "an apothecary"}
 {"at": 9, "chunk": 9, "cue": 220, "from": "pocket theories", "sha": "64f9ecce04994b2a", "to": "apothecaries"}
 {"at": 53, "chunk": 10, "cue": 226, "from": "cure their ales", "sha": "9ed48206b65414e5", "to": "cure their ails"}
 {"at": 0, "chunk": 10, "cue": 235, "from": "The science of research", "sha": "9ed48206b65414e5", "to": "The science and research"}
 {"at": 0, "chunk": 11, "cue": 258, "from": "brand saver books", "sha": "dafd138eda1caed8", "to": "Brain Saver books"}
+{"chunk": 12, "sha": "c5bad455b6fcec26"}
+{"chunk": 13, "sha": "5d9ee6c82961f1cc"}
 {"chunk": 14, "sha": "a967316dda9f6e95"}
+{"chunk": 15, "sha": "b52be5eb3ef60672"}
 {"chunk": 16, "sha": "f8c936cad5858ef7"}
 {"chunk": 17, "sha": "9f76834cf3856f07"}
 {"chunk": 18, "sha": "62288653537fcc7a"}
-{"chunk": 15, "sha": "b52be5eb3ef60672"}
 {"at": 31, "chunk": 19, "cue": 450, "from": "Brainsaver", "sha": "424bd15bc6fb7f23", "to": "Brain Saver"}
 {"at": 54, "chunk": 20, "cue": 486, "from": "the doctorate to the neurologist", "sha": "78c2cf675ef10d11", "to": "the doctor and to the neurologist"}
 {"at": 11, "chunk": 21, "cue": 497, "from": "our elements", "sha": "4277d81f1df2d7d1", "to": "our ailments"}
 {"at": 0, "chunk": 21, "cue": 501, "from": "Research in science", "sha": "4277d81f1df2d7d1", "to": "Research and science"}
 {"chunk": 22, "sha": "8bb5a98bee2a9cd7"}
-{"chunk": 24, "sha": "05b7de5b6583fe4d"}
 {"chunk": 23, "sha": "ad2be2d5b05a2186"}
-{"at": 43, "chunk": 26, "cue": 647, "from": "medical meme", "sha": "a7f17550711ca69b", "to": "Medical Medium"}
+{"chunk": 24, "sha": "05b7de5b6583fe4d"}
 {"chunk": 25, "sha": "c43beb7ad138a274"}
+{"at": 43, "chunk": 26, "cue": 647, "from": "medical meme", "sha": "a7f17550711ca69b", "to": "Medical Medium"}
+{"chunk": 27, "sha": "84c10566c52bc742"}
 {"chunk": 28, "sha": "e8f5da2fd3f29624"}
 {"chunk": 29, "sha": "c821dc13800140fc"}
-{"chunk": 27, "sha": "84c10566c52bc742"}
-{"at": 83, "chunk": 31, "cue": 725, "from": "medical meaning", "sha": "0d2f76aacd03eb0b", "to": "Medical Medium"}
 {"at": 35, "chunk": 30, "cue": 715, "from": "for medical medium", "sha": "08a66bbd010618e6", "to": "from medical medium"}
 {"at": 55, "chunk": 30, "cue": 719, "from": "for medical medium", "sha": "08a66bbd010618e6", "to": "from medical medium"}
 {"at": 5, "chunk": 30, "cue": 720, "from": "for medical medium", "sha": "08a66bbd010618e6", "to": "from medical medium"}
+{"at": 83, "chunk": 31, "cue": 725, "from": "medical meaning", "sha": "0d2f76aacd03eb0b", "to": "Medical Medium"}
 {"at": 80, "chunk": 32, "cue": 747, "from": "fishing ride", "sha": "6672e84b15c866f1", "to": "fishing rod"}
+{"chunk": 33, "sha": "c8df96c4f96d35e9"}
 {"at": 62, "chunk": 34, "cue": 783, "from": "Brainsaver", "sha": "62eb60d09a409ddd", "to": "Brain Saver"}
 {"at": 22, "chunk": 34, "cue": 807, "from": "atmosphere fear", "sha": "62eb60d09a409ddd", "to": "atmosphere"}
-{"chunk": 33, "sha": "c8df96c4f96d35e9"}
+{"at": 78, "chunk": 35, "cue": 817, "from": "Brainsaver", "sha": "8c28eb2c36d2f7c1", "to": "Brain Saver"}
 {"at": 0, "chunk": 36, "cue": 841, "from": "It can change that", "sha": "21ebf0bb06ff347b", "to": "In chains that"}
 {"at": 32, "chunk": 37, "cue": 882, "from": "Brainsaver", "sha": "ec19a00c5a5537fc", "to": "Brain Saver"}
 {"at": 0, "chunk": 37, "cue": 883, "from": "Brainsaver", "sha": "ec19a00c5a5537fc", "to": "Brain Saver"}
 {"at": 25, "chunk": 37, "cue": 883, "from": "Brainsaver", "sha": "ec19a00c5a5537fc", "to": "Brain Saver"}
-{"at": 78, "chunk": 35, "cue": 817, "from": "Brainsaver", "sha": "8c28eb2c36d2f7c1", "to": "Brain Saver"}
 {"chunk": 38, "sha": "1987c57ebdeb6570"}
 {"chunk": 39, "sha": "fe96c52c0b402e20"}
-{"chunk": 41, "sha": "f8310c1c010c12db"}
 {"chunk": 40, "sha": "befaeee8e3c7d70a"}
-{"chunk": 43, "sha": "d616894fcd114125"}
+{"chunk": 41, "sha": "f8310c1c010c12db"}
 {"chunk": 42, "sha": "204e2dea76a191a8"}
+{"chunk": 43, "sha": "d616894fcd114125"}
 {"at": 74, "chunk": 44, "cue": 1022, "from": "breath Arian", "sha": "6249eeaeb3cfbfcf", "to": "breatharian"}
 {"at": 6, "chunk": 44, "cue": 1023, "from": "breath Arian", "sha": "6249eeaeb3cfbfcf", "to": "breatharian"}
 {"at": 56, "chunk": 44, "cue": 1024, "from": "Dr. Nisbet", "sha": "6249eeaeb3cfbfcf", "to": "Dr. Nesbitt"}
-{"at": 77, "chunk": 46, "cue": 1103, "from": "stock nesbitt", "sha": "09823c27256eeee0", "to": "Doc Nesbitt"}
-{"chunk": 47, "sha": "2b015f1ac1a3aa19"}
 {"at": 0, "chunk": 45, "cue": 1052, "from": "a quick coffee", "sha": "c9c3a3a1dc6a6779", "to": "quit coffee"}
 {"at": 64, "chunk": 45, "cue": 1060, "from": "replaced by coffee", "sha": "c9c3a3a1dc6a6779", "to": "replaced my coffee"}
+{"at": 77, "chunk": 46, "cue": 1103, "from": "stock nesbitt", "sha": "09823c27256eeee0", "to": "Doc Nesbitt"}
+{"chunk": 47, "sha": "2b015f1ac1a3aa19"}

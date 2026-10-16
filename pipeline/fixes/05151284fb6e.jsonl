@@ -1,51 +1,52 @@
+{"chunk_words": 250}
 {"at": 16, "chunk": 0, "cue": 2, "from": "cleanse and heal", "sha": "f8d57e40e617f89c", "to": "Cleanse to Heal"}
 {"at": 5, "chunk": 0, "cue": 13, "from": "basal filth", "sha": "f8d57e40e617f89c", "to": "basophils"}
 {"at": 25, "chunk": 1, "cue": 44, "from": "Cleanse the Heal", "sha": "dd380133ee725700", "to": "Cleanse to Heal"}
 {"at": 0, "chunk": 1, "cue": 45, "from": "Cleanse the Heal", "sha": "dd380133ee725700", "to": "Cleanse to Heal"}
-{"chunk": 3, "sha": "277b1cbcc721d29f"}
 {"at": 0, "chunk": 2, "cue": 67, "from": "Send it candles", "sha": "f3ae661f12b33ffc", "to": "Scented candles"}
 {"at": 0, "chunk": 2, "cue": 68, "from": "Send it candles", "sha": "f3ae661f12b33ffc", "to": "Scented candles"}
 {"at": 0, "chunk": 2, "cue": 84, "from": "Cleanse and heal", "sha": "f3ae661f12b33ffc", "to": "Cleanse to Heal"}
+{"chunk": 3, "sha": "277b1cbcc721d29f"}
 {"chunk": 4, "sha": "8ea0406b26ae9f8e"}
-{"at": 19, "chunk": 6, "cue": 173, "from": "clicks end up", "sha": "c03ddac02aa3bdf9", "to": "cliques end up"}
-{"at": 29, "chunk": 6, "cue": 174, "from": "anti-click", "sha": "c03ddac02aa3bdf9", "to": "anti-clique"}
 {"at": 78, "chunk": 5, "cue": 170, "from": "anti-click", "sha": "56f07f0a3d55aad2", "to": "anti-clique"}
 {"at": 16, "chunk": 5, "cue": 171, "from": "anti-click", "sha": "56f07f0a3d55aad2", "to": "anti-clique"}
 {"at": 56, "chunk": 5, "cue": 171, "from": "because clicks get", "sha": "56f07f0a3d55aad2", "to": "because cliques get"}
-{"at": 86, "chunk": 9, "cue": 275, "from": "medical reading books", "sha": "fa0eec9d010e37cd", "to": "Medical Medium books"}
+{"at": 19, "chunk": 6, "cue": 173, "from": "clicks end up", "sha": "c03ddac02aa3bdf9", "to": "cliques end up"}
+{"at": 29, "chunk": 6, "cue": 174, "from": "anti-click", "sha": "c03ddac02aa3bdf9", "to": "anti-clique"}
 {"at": 10, "chunk": 7, "cue": 209, "from": "Cleanse the Heal", "sha": "90fd7d053119d762", "to": "Cleanse to Heal"}
-{"at": 46, "chunk": 10, "cue": 290, "from": "cleanse the heel", "sha": "49c0f4582c4a30f9", "to": "Cleanse to Heal"}
 {"chunk": 8, "sha": "7fc26775a82ce9d9"}
+{"at": 86, "chunk": 9, "cue": 275, "from": "medical reading books", "sha": "fa0eec9d010e37cd", "to": "Medical Medium books"}
+{"at": 46, "chunk": 10, "cue": 290, "from": "cleanse the heel", "sha": "49c0f4582c4a30f9", "to": "Cleanse to Heal"}
+{"at": 75, "chunk": 11, "cue": 306, "from": "that's a natural scent", "sha": "bba70ddeab5ac6ae", "to": "that's not a natural scent"}
 {"chunk": 12, "sha": "02e8b4698b64bdad"}
-{"chunk": 14, "sha": "13ce80bb57072a0d"}
-{"chunk": 16, "sha": "b49d0d3ecbeeeea1"}
 {"at": 0, "chunk": 13, "cue": 348, "from": "clones", "sha": "656b93f5906132eb", "to": "colognes"}
 {"at": 29, "chunk": 13, "cue": 357, "from": "smell factory", "sha": "656b93f5906132eb", "to": "olfactory"}
-{"at": 75, "chunk": 11, "cue": 306, "from": "that's a natural scent", "sha": "bba70ddeab5ac6ae", "to": "that's not a natural scent"}
+{"chunk": 14, "sha": "13ce80bb57072a0d"}
 {"at": 0, "chunk": 15, "cue": 414, "from": "I'm in Cleanse to Heal", "sha": "6e584ea5be3b368f", "to": "It's in Cleanse to Heal"}
+{"chunk": 16, "sha": "b49d0d3ecbeeeea1"}
 {"chunk": 17, "sha": "228761543640b9fc"}
 {"chunk": 18, "sha": "7db2d6c623fc7541"}
 {"at": 14, "chunk": 19, "cue": 517, "from": "Epstein bars", "sha": "f66896b5dfd38921", "to": "Epstein-Barrs"}
-{"chunk": 22, "sha": "e2b8ed607713f236"}
 {"chunk": 20, "sha": "159a74172e37fb08"}
 {"chunk": 21, "sha": "dda54a1b724a277d"}
+{"chunk": 22, "sha": "e2b8ed607713f236"}
 {"at": 7, "chunk": 23, "cue": 616, "from": "Cleanse the Heal", "sha": "de276b0c57a92f8d", "to": "Cleanse to Heal"}
 {"at": 16, "chunk": 24, "cue": 646, "from": "Send the candles", "sha": "2f8e997b86f1e1ef", "to": "Scented candles"}
-{"chunk": 26, "sha": "bb1f443e6f38b7a2"}
 {"at": 55, "chunk": 25, "cue": 648, "from": "natural flavors and food", "sha": "c0d095be2dd97a22", "to": "natural flavors in food"}
 {"at": 15, "chunk": 25, "cue": 649, "from": "medical meetings information", "sha": "c0d095be2dd97a22", "to": "Medical Medium information"}
+{"chunk": 26, "sha": "bb1f443e6f38b7a2"}
 {"chunk": 27, "sha": "f2e081b0ea016551"}
 {"at": 12, "chunk": 28, "cue": 721, "from": "Cleanse the Heal", "sha": "4aa42a477c462b68", "to": "Cleanse to Heal"}
 {"chunk": 29, "sha": "d0b3bac62b6f72a9"}
 {"at": 11, "chunk": 30, "cue": 783, "from": "cleanse the heel", "sha": "3e743bd5da9dac21", "to": "Cleanse to Heal"}
+{"at": 47, "chunk": 31, "cue": 791, "from": "below your mind", "sha": "d204d3e17c8d0a88", "to": "blow your mind"}
 {"chunk": 32, "sha": "926c791e5e6e0c3a"}
 {"at": 41, "chunk": 33, "cue": 843, "from": "that's sent on money", "sha": "22a1ea5dab644afa", "to": "that's scent on money"}
 {"at": 41, "chunk": 33, "cue": 855, "from": "medical media", "sha": "22a1ea5dab644afa", "to": "Medical Medium"}
-{"at": 47, "chunk": 31, "cue": 791, "from": "below your mind", "sha": "d204d3e17c8d0a88", "to": "blow your mind"}
 {"chunk": 34, "sha": "330ae107bae9350b"}
 {"chunk": 35, "sha": "c3b354d9a23f8e07"}
-{"at": 22, "chunk": 37, "cue": 967, "from": "axel and psoriasis", "sha": "950d30285dec8b75", "to": "eczema and psoriasis"}
 {"at": 26, "chunk": 36, "cue": 919, "from": "with outer knowledge", "sha": "3957a8b5cea7350d", "to": "without our knowledge"}
+{"at": 22, "chunk": 37, "cue": 967, "from": "axel and psoriasis", "sha": "950d30285dec8b75", "to": "eczema and psoriasis"}
 {"chunk": 38, "sha": "9c6a059a05d29d92"}
 {"chunk": 39, "sha": "da30927e7b933714"}
 {"chunk": 40, "sha": "484cd4003665a4d2"}
@@ -54,15 +55,15 @@
 {"at": 69, "chunk": 43, "cue": 1102, "from": "cleanse and heal", "sha": "7a0260dd2f254c29", "to": "Cleanse to Heal"}
 {"chunk": 44, "sha": "cebdadf57784d11e"}
 {"at": 34, "chunk": 45, "cue": 1135, "from": "Your ration coming back", "sha": "bbbf6cb165bf9eae", "to": "Your rash coming back"}
-{"at": 40, "chunk": 47, "cue": 1182, "from": "cleanse and heal", "sha": "b3d486345b9c3b0b", "to": "Cleanse to Heal"}
 {"at": 17, "chunk": 46, "cue": 1163, "from": "copper and pesticides", "sha": "b3003b3258ed781c", "to": "copper in pesticides"}
 {"at": 48, "chunk": 46, "cue": 1163, "from": "copper and fungicides", "sha": "b3003b3258ed781c", "to": "copper in fungicides"}
 {"at": 79, "chunk": 46, "cue": 1163, "from": "copper and herbicides", "sha": "b3003b3258ed781c", "to": "copper in herbicides"}
 {"at": 40, "chunk": 46, "cue": 1166, "from": "copper and antibiotics", "sha": "b3003b3258ed781c", "to": "copper in antibiotics"}
+{"at": 40, "chunk": 47, "cue": 1182, "from": "cleanse and heal", "sha": "b3d486345b9c3b0b", "to": "Cleanse to Heal"}
 {"chunk": 48, "sha": "c18e8aba6f8a2df0"}
-{"chunk": 51, "sha": "168bd43ccb47ff45"}
 {"at": 10, "chunk": 49, "cue": 1228, "from": "cause or illnesses", "sha": "41366743287c3b19", "to": "cause our illnesses"}
 {"at": 4, "chunk": 49, "cue": 1244, "from": "Cleansing Heals", "sha": "41366743287c3b19", "to": "Cleanse to Heal"}
 {"chunk": 50, "sha": "e750b8ccaf98e454"}
+{"chunk": 51, "sha": "168bd43ccb47ff45"}
 {"at": 71, "chunk": 52, "cue": 1340, "from": "ionized alcohol", "sha": "90d8e24116021f40", "to": "ionized alkaline"}
 {"chunk": 53, "sha": "d63d1f0ed24527fd"}

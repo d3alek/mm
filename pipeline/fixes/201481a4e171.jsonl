@@ -1,3 +1,4 @@
+{"chunk_words": 250}
 {"chunk": 0, "sha": "1092af20eed31a06"}
 {"at": 64, "chunk": 1, "cue": 34, "from": "Cleanse the Heal", "sha": "76cf552ae79c870d", "to": "Cleanse to Heal"}
 {"at": 0, "chunk": 2, "cue": 38, "from": "Cleanse and Heal", "sha": "2dcd0e3ee7a97c16", "to": "Cleanse to Heal"}
@@ -14,23 +15,23 @@
 {"chunk": 9, "sha": "ca5effd0e8b97463"}
 {"chunk": 10, "sha": "adeb7eb4b62e28be"}
 {"chunk": 11, "sha": "0d1d35b6391bd63e"}
-{"chunk": 14, "sha": "3af1cbcc650323e3"}
-{"chunk": 15, "sha": "bcdba159ca2a9d98"}
 {"at": 20, "chunk": 12, "cue": 259, "from": "anti-click", "sha": "8365dfdecb90b3b7", "to": "anti-clique"}
 {"at": 32, "chunk": 12, "cue": 259, "from": "anti-tripe", "sha": "8365dfdecb90b3b7", "to": "anti-tribe"}
 {"at": 6, "chunk": 12, "cue": 260, "from": "anti-pull", "sha": "8365dfdecb90b3b7", "to": "anti-cult"}
 {"at": 11, "chunk": 13, "cue": 296, "from": "You're ringing", "sha": "2a0586a551e8cabb", "to": "Your ringing"}
 {"at": 63, "chunk": 13, "cue": 302, "from": "mourning", "sha": "2a0586a551e8cabb", "to": "morning"}
+{"chunk": 14, "sha": "3af1cbcc650323e3"}
+{"chunk": 15, "sha": "bcdba159ca2a9d98"}
 {"at": 26, "chunk": 16, "cue": 369, "from": "I'm in Cleanse to Heal", "sha": "77c30dd78916adc9", "to": "It's in Cleanse to Heal"}
-{"chunk": 18, "sha": "7ce4dd17e0ee9c5e"}
 {"at": 67, "chunk": 17, "cue": 399, "from": "an alternative or conventional", "sha": "8ca2fcb51f563dc0", "to": "in alternative or conventional"}
+{"chunk": 18, "sha": "7ce4dd17e0ee9c5e"}
 {"chunk": 19, "sha": "cf9d78ebbacd3e42"}
 {"chunk": 20, "sha": "0ec266d9fe00ccfc"}
 {"at": 69, "chunk": 21, "cue": 487, "from": "bend your head", "sha": "2d945cae3da9b19a", "to": "bang your head"}
 {"at": 36, "chunk": 21, "cue": 500, "from": "Clans to Heal", "sha": "2d945cae3da9b19a", "to": "Cleanse to Heal"}
+{"at": 59, "chunk": 22, "cue": 506, "from": "like a setter tissue", "sha": "ea01f63e0eda3d0d", "to": "and other tissue"}
 {"at": 38, "chunk": 23, "cue": 537, "from": "cleanse the heel", "sha": "1da3e9215530cbc8", "to": "Cleanse to Heal"}
 {"at": 47, "chunk": 24, "cue": 557, "from": "It's head of science", "sha": "c1a68d33cba6a84a", "to": "It's ahead of science"}
-{"at": 59, "chunk": 22, "cue": 506, "from": "like a setter tissue", "sha": "ea01f63e0eda3d0d", "to": "and other tissue"}
 {"chunk": 25, "sha": "d1dfe48c746759ee"}
 {"chunk": 26, "sha": "9eacb8fde14fa3f1"}
 {"chunk": 27, "sha": "12460b0f6264bed4"}
@@ -38,16 +39,16 @@
 {"chunk": 29, "sha": "c8edd8705397c64d"}
 {"chunk": 30, "sha": "dc185ad75e589815"}
 {"at": 11, "chunk": 31, "cue": 736, "from": "cleanse and heal", "sha": "4ac2acb3eb035239", "to": "Cleanse to Heal"}
+{"chunk": 32, "sha": "6458c8da306d8cf2"}
 {"chunk": 33, "sha": "c3f580617f792a40"}
 {"chunk": 34, "sha": "7646963c4b49de22"}
-{"chunk": 32, "sha": "6458c8da306d8cf2"}
-{"chunk": 36, "sha": "5682b031c83b78cf"}
 {"at": 12, "chunk": 35, "cue": 821, "from": "Cleanse the Heal", "sha": "17764b01c7475695", "to": "Cleanse to Heal"}
 {"at": 27, "chunk": 35, "cue": 822, "from": "Cleanse the Heal", "sha": "17764b01c7475695", "to": "Cleanse to Heal"}
+{"chunk": 36, "sha": "5682b031c83b78cf"}
 {"chunk": 37, "sha": "8a1fe7e0b02f29bd"}
-{"chunk": 40, "sha": "1b471f3a4ad9b4c9"}
-{"at": 7, "chunk": 39, "cue": 899, "from": "Cleanse and Heal", "sha": "654995a8e49bd425", "to": "Cleanse to Heal"}
 {"chunk": 38, "sha": "83d8eb0fd7102d84"}
+{"at": 7, "chunk": 39, "cue": 899, "from": "Cleanse and Heal", "sha": "654995a8e49bd425", "to": "Cleanse to Heal"}
+{"chunk": 40, "sha": "1b471f3a4ad9b4c9"}
 {"at": 64, "chunk": 41, "cue": 951, "from": "somebody's feet of", "sha": "10250d8365f6709b", "to": "somebody's feed of"}
 {"chunk": 42, "sha": "cc0c179987726f2f"}
 {"at": 8, "chunk": 43, "cue": 1022, "from": "chronic leal", "sha": "356fec175d6479fc", "to": "chronically ill"}

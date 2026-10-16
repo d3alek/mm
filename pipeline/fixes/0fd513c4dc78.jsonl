@@ -1,37 +1,38 @@
+{"chunk_words": 250}
 {"chunk": 0, "sha": "6f7a9f35a0474ac4"}
 {"chunk": 1, "sha": "f4cd163e0be4c7a9"}
-{"chunk": 5, "sha": "909c82d8f500e031"}
 {"chunk": 2, "sha": "b4f88777e9264af3"}
-{"chunk": 4, "sha": "696510b93bab0b0f"}
-{"chunk": 6, "sha": "e5ecb5ededbf04c4"}
 {"chunk": 3, "sha": "7a696fe82c8edc90"}
+{"chunk": 4, "sha": "696510b93bab0b0f"}
+{"chunk": 5, "sha": "909c82d8f500e031"}
+{"chunk": 6, "sha": "e5ecb5ededbf04c4"}
+{"at": 10, "chunk": 7, "cue": 139, "from": "buti", "sha": "bc34b536b84100af", "to": "UTI"}
 {"chunk": 8, "sha": "3bcb2583246f4b82"}
 {"chunk": 9, "sha": "b0d883fff8617b44"}
-{"at": 10, "chunk": 7, "cue": 139, "from": "buti", "sha": "bc34b536b84100af", "to": "UTI"}
-{"chunk": 11, "sha": "adc15eba56f25b72"}
 {"chunk": 10, "sha": "8354711f603b00b8"}
+{"chunk": 11, "sha": "adc15eba56f25b72"}
 {"at": 22, "chunk": 12, "cue": 230, "from": "even know you seem", "sha": "3130502b42eb3787", "to": "even though you seem"}
-{"at": 26, "chunk": 14, "cue": 263, "from": "knocking down staff", "sha": "7375278c0ebe920c", "to": "knocking down staph"}
 {"chunk": 13, "sha": "824e1b6706842b2f"}
-{"chunk": 17, "sha": "c19d82b4cdb6afc7"}
-{"chunk": 16, "sha": "aa4913b44ff71d0b"}
-{"chunk": 18, "sha": "0b660ed2b27147c1"}
+{"at": 26, "chunk": 14, "cue": 263, "from": "knocking down staff", "sha": "7375278c0ebe920c", "to": "knocking down staph"}
 {"chunk": 15, "sha": "fd22892ba705dec5"}
+{"chunk": 16, "sha": "aa4913b44ff71d0b"}
+{"chunk": 17, "sha": "c19d82b4cdb6afc7"}
+{"chunk": 18, "sha": "0b660ed2b27147c1"}
 {"chunk": 19, "sha": "ecf3bf4841f90bee"}
+{"chunk": 20, "sha": "994da5952feceb2b"}
 {"chunk": 21, "sha": "f011d623e07dc470"}
 {"chunk": 22, "sha": "c773e706f7d7cca1"}
-{"chunk": 20, "sha": "994da5952feceb2b"}
 {"chunk": 23, "sha": "006e4b6d46f11cb6"}
 {"chunk": 24, "sha": "0ab6cdc70ee07068"}
 {"chunk": 25, "sha": "1bd2a89cec2c260f"}
+{"chunk": 26, "sha": "6bdab2a26095de65"}
 {"chunk": 27, "sha": "33d360fe532c1962"}
 {"chunk": 28, "sha": "0dcca6c570c5ac7b"}
-{"chunk": 26, "sha": "6bdab2a26095de65"}
 {"chunk": 29, "sha": "36d5bc5cd0a19ef7"}
 {"chunk": 30, "sha": "41f60888e148e380"}
+{"at": 46, "chunk": 31, "cue": 583, "from": "a little time fresh time is fine time tea", "sha": "81dc3b984a75fda8", "to": "a little thyme fresh thyme is fine thyme tea"}
+{"at": 62, "chunk": 31, "cue": 592, "from": "anti-CBO", "sha": "81dc3b984a75fda8", "to": "anti-SIBO"}
 {"at": 67, "chunk": 32, "cue": 599, "from": "get by fresh", "sha": "a9cf81d264b491ec", "to": "get buy fresh"}
 {"at": 79, "chunk": 32, "cue": 601, "from": "potty arco", "sha": "a9cf81d264b491ec", "to": "Pau d'arco"}
 {"chunk": 33, "sha": "8bac7a3423de7caf"}
 {"chunk": 34, "sha": "f2cebc20b2b0a37e"}
-{"at": 46, "chunk": 31, "cue": 583, "from": "a little time fresh time is fine time tea", "sha": "81dc3b984a75fda8", "to": "a little thyme fresh thyme is fine thyme tea"}
-{"at": 62, "chunk": 31, "cue": 592, "from": "anti-CBO", "sha": "81dc3b984a75fda8", "to": "anti-SIBO"}

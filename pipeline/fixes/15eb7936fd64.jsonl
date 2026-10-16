@@ -1,44 +1,45 @@
+{"chunk_words": 250}
 {"at": 22, "chunk": 0, "cue": 18, "from": "potato cauliflower hash", "sha": "fd32827d80a6c6b1", "to": "potato cauliflower mash"}
-{"chunk": 2, "sha": "2b9a8ba16c549299"}
 {"chunk": 1, "sha": "fad14e6fe75966ab"}
+{"chunk": 2, "sha": "2b9a8ba16c549299"}
 {"chunk": 3, "sha": "b9d62eaa53f9595a"}
-{"chunk": 5, "sha": "5c6eece25d1a5e2b"}
 {"at": 21, "chunk": 4, "cue": 112, "from": "medical meaning books", "sha": "e9315cd9d3dced03", "to": "Medical Medium books"}
-{"chunk": 8, "sha": "dfa6366a035dc6d3"}
+{"chunk": 5, "sha": "5c6eece25d1a5e2b"}
 {"at": 56, "chunk": 6, "cue": 164, "from": "drain the pipe", "sha": "d6270fefaf3c0bce", "to": "drain the pint"}
 {"chunk": 7, "sha": "9b03a51f077aada1"}
-{"chunk": 11, "sha": "19f981aeee55f76a"}
-{"chunk": 10, "sha": "ce8877af56f5ae06"}
+{"chunk": 8, "sha": "dfa6366a035dc6d3"}
 {"chunk": 9, "sha": "b7c1f8c55e3a5cf7"}
-{"chunk": 13, "sha": "29ae4b96e54d0aab"}
+{"chunk": 10, "sha": "ce8877af56f5ae06"}
+{"chunk": 11, "sha": "19f981aeee55f76a"}
 {"chunk": 12, "sha": "ad952b4145d9630c"}
+{"chunk": 13, "sha": "29ae4b96e54d0aab"}
 {"chunk": 14, "sha": "92313b6fccee8691"}
 {"chunk": 15, "sha": "f4426513f3fc3c15"}
+{"chunk": 16, "sha": "ffc6b1bfd27cb6ae"}
 {"chunk": 17, "sha": "b42fb40ba422257a"}
 {"at": 34, "chunk": 18, "cue": 430, "from": "back at night", "sha": "74340008e3e4b3be", "to": "back then"}
 {"chunk": 19, "sha": "f42dad4d6b9d3bc8"}
-{"chunk": 21, "sha": "5594d8ea628d3d88"}
 {"chunk": 20, "sha": "6a0c49a0f4352a23"}
+{"chunk": 21, "sha": "5594d8ea628d3d88"}
 {"chunk": 22, "sha": "67ff6e92c3247ba3"}
-{"chunk": 16, "sha": "ffc6b1bfd27cb6ae"}
-{"chunk": 24, "sha": "c01ee84e5d12cda3"}
 {"at": 79, "chunk": 23, "cue": 557, "from": "get out of care", "sha": "8c69e29a95397308", "to": "get it out of there"}
-{"chunk": 27, "sha": "139e0f36d651f27a"}
-{"at": 35, "chunk": 26, "cue": 635, "from": "a ticket my apartment", "sha": "aef27fe2fc73a954", "to": "a tick in my apartment"}
-{"chunk": 29, "sha": "35adfa80411c919e"}
+{"chunk": 24, "sha": "c01ee84e5d12cda3"}
 {"at": 0, "chunk": 25, "cue": 595, "from": "Research in science", "sha": "c51286dbf22f3c4b", "to": "Research and science"}
 {"at": 7, "chunk": 25, "cue": 598, "from": "research in science", "sha": "c51286dbf22f3c4b", "to": "research and science"}
 {"at": 6, "chunk": 25, "cue": 599, "from": "research in science", "sha": "c51286dbf22f3c4b", "to": "research and science"}
+{"at": 35, "chunk": 26, "cue": 635, "from": "a ticket my apartment", "sha": "aef27fe2fc73a954", "to": "a tick in my apartment"}
+{"chunk": 27, "sha": "139e0f36d651f27a"}
 {"chunk": 28, "sha": "b4801aceccc64064"}
+{"chunk": 29, "sha": "35adfa80411c919e"}
 {"at": 18, "chunk": 30, "cue": 699, "from": "because the blind,", "sha": "556a817444376ccf", "to": "because the Lyme,"}
 {"at": 29, "chunk": 31, "cue": 734, "from": "HHV6-asidomegalovirus", "sha": "068fe4051e7dd84e", "to": "HHV-6 or cytomegalovirus"}
 {"at": 55, "chunk": 31, "cue": 740, "from": "lodged in everybody", "sha": "068fe4051e7dd84e", "to": "lodged in the body"}
-{"chunk": 33, "sha": "565aa810f3c6196c"}
 {"at": 79, "chunk": 32, "cue": 759, "from": "training a little", "sha": "2d365acb5a648dc2", "to": "draining a little"}
 {"at": 14, "chunk": 32, "cue": 762, "from": "stuff and medical", "sha": "2d365acb5a648dc2", "to": "stuff at medical"}
+{"chunk": 33, "sha": "565aa810f3c6196c"}
 {"chunk": 34, "sha": "fc906546e2cc418d"}
-{"chunk": 36, "sha": "f4f64595a834254b"}
 {"chunk": 35, "sha": "8c8fffd6d426f6aa"}
+{"chunk": 36, "sha": "f4f64595a834254b"}
 {"at": 23, "chunk": 37, "cue": 856, "from": "So spare with me", "sha": "301157e92536bb87", "to": "So bear with me"}
 {"chunk": 38, "sha": "b3c859cff98386c0"}
 {"chunk": 39, "sha": "c504083c9aba7246"}

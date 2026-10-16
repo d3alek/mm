@@ -1,38 +1,39 @@
-{"chunk": 1, "sha": "853da947c307015b"}
-{"chunk": 2, "sha": "69f850bfd6fd87d4"}
+{"chunk_words": 250}
 {"at": 48, "chunk": 0, "cue": 7, "from": "lichen sclerosis", "sha": "ab094d308e202711", "to": "lichen sclerosus"}
 {"at": 16, "chunk": 0, "cue": 9, "from": "for geminal neuralgia", "sha": "ab094d308e202711", "to": "trigeminal neuralgia"}
+{"chunk": 1, "sha": "853da947c307015b"}
+{"chunk": 2, "sha": "69f850bfd6fd87d4"}
 {"chunk": 3, "sha": "b44b3902b4fad733"}
 {"at": 7, "chunk": 4, "cue": 105, "from": "Vimra GB12", "sha": "8b9aa2a2d5d5e9d9", "to": "Vimergy B12"}
 {"at": 25, "chunk": 5, "cue": 142, "from": "tibia nerves", "sha": "4657490fd58cc961", "to": "tibial nerves"}
-{"chunk": 7, "sha": "b6d31b50340541d5"}
 {"chunk": 6, "sha": "22809a8ba777e950"}
-{"chunk": 9, "sha": "9caffe67552e1958"}
+{"chunk": 7, "sha": "b6d31b50340541d5"}
 {"chunk": 8, "sha": "b99edca8d56e808f"}
+{"chunk": 9, "sha": "9caffe67552e1958"}
 {"at": 5, "chunk": 10, "cue": 233, "from": "neurological line", "sha": "720370683e9ad017", "to": "neurological Lyme"}
 {"at": 17, "chunk": 10, "cue": 234, "from": "numbness breaks and pains", "sha": "720370683e9ad017", "to": "numbness aches and pains"}
 {"at": 31, "chunk": 11, "cue": 254, "from": "almond nerve", "sha": "620c3e31175a0f8f", "to": "ulnar nerve"}
 {"chunk": 12, "sha": "4446d90ac3b36488"}
-{"at": 20, "chunk": 14, "cue": 339, "from": "nerve vine", "sha": "34c5f26871646f56", "to": "nervine"}
 {"chunk": 13, "sha": "6ee258e1da8f0c0b"}
+{"at": 20, "chunk": 14, "cue": 339, "from": "nerve vine", "sha": "34c5f26871646f56", "to": "nervine"}
 {"at": 20, "chunk": 15, "cue": 363, "from": "frantic nerves", "sha": "7afd8fba92dbd9eb", "to": "phrenic nerves"}
 {"at": 35, "chunk": 16, "cue": 393, "from": "Vimmer G", "sha": "5f71a55b6c3c932d", "to": "Vimergy"}
 {"at": 0, "chunk": 16, "cue": 398, "from": "Acne suffers", "sha": "5f71a55b6c3c932d", "to": "Acne sufferers"}
+{"chunk": 17, "sha": "75b216db9987a27e"}
 {"at": 93, "chunk": 18, "cue": 431, "from": "anxiety in the whole bit", "sha": "c5020369e6dcbcfc", "to": "anxiety and the whole bit"}
 {"chunk": 19, "sha": "e5f85963409a69c5"}
-{"at": 51, "chunk": 21, "cue": 486, "from": "lemon bomb", "sha": "ce0052ebb12359fd", "to": "lemon balm"}
-{"at": 19, "chunk": 21, "cue": 487, "from": "lemon bomb", "sha": "ce0052ebb12359fd", "to": "lemon balm"}
 {"at": 93, "chunk": 20, "cue": 474, "from": "lemon bomb", "sha": "060914c37bca0ae5", "to": "lemon balm"}
 {"at": 87, "chunk": 20, "cue": 475, "from": "lemon bomb", "sha": "060914c37bca0ae5", "to": "lemon balm"}
+{"at": 51, "chunk": 21, "cue": 486, "from": "lemon bomb", "sha": "ce0052ebb12359fd", "to": "lemon balm"}
+{"at": 19, "chunk": 21, "cue": 487, "from": "lemon bomb", "sha": "ce0052ebb12359fd", "to": "lemon balm"}
 {"at": 37, "chunk": 22, "cue": 524, "from": "bile resource", "sha": "6d9bc20ab61fcd1a", "to": "bile reserves"}
 {"at": 39, "chunk": 23, "cue": 529, "from": "lemon bob", "sha": "adb27f325b9b796b", "to": "lemon balm"}
-{"chunk": 17, "sha": "75b216db9987a27e"}
 {"at": 0, "chunk": 24, "cue": 570, "from": "Visa Victor", "sha": "f70102549b044548", "to": "V as in Victor"}
 {"chunk": 25, "sha": "004ea73d96fb0888"}
 {"chunk": 26, "sha": "c4de1bad10629856"}
-{"at": 0, "chunk": 29, "cue": 679, "from": "Let it seep", "sha": "1afd6ffc6bbc5dee", "to": "Let it steep"}
 {"chunk": 27, "sha": "0de7a2c8e942299e"}
 {"chunk": 28, "sha": "3e225a9f16448995"}
+{"at": 0, "chunk": 29, "cue": 679, "from": "Let it seep", "sha": "1afd6ffc6bbc5dee", "to": "Let it steep"}
 {"chunk": 30, "sha": "172cb845dc6570b2"}
 {"at": 4, "chunk": 31, "cue": 728, "from": "catch out my", "sha": "f90d859c630f389f", "to": "check out my"}
 {"chunk": 32, "sha": "5f58036f5d7bde53"}

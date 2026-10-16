@@ -1,56 +1,57 @@
+{"chunk_words": 250}
 {"at": 0, "chunk": 0, "cue": 3, "from": "cleanse the heal", "sha": "6f9e9081abcc1ef7", "to": "Cleanse to Heal"}
 {"at": 81, "chunk": 0, "cue": 16, "from": "chronic leal", "sha": "6f9e9081abcc1ef7", "to": "chronically ill"}
 {"at": 10, "chunk": 0, "cue": 20, "from": "anti-click", "sha": "6f9e9081abcc1ef7", "to": "anti-clique"}
-{"at": 0, "chunk": 3, "cue": 94, "from": "Lest they're doing", "sha": "2988c68a856c8b77", "to": "Unless they're doing"}
 {"chunk": 1, "sha": "ba13310bcf7229ac"}
+{"at": 32, "chunk": 2, "cue": 57, "from": "chronic leal", "sha": "f9ff22392a14f11d", "to": "chronically ill"}
+{"at": 13, "chunk": 2, "cue": 72, "from": "cleanse the heel", "sha": "f9ff22392a14f11d", "to": "Cleanse to Heal"}
+{"at": 0, "chunk": 3, "cue": 94, "from": "Lest they're doing", "sha": "2988c68a856c8b77", "to": "Unless they're doing"}
 {"at": 19, "chunk": 4, "cue": 125, "from": "Cleansing Heal", "sha": "ae558545c061e26d", "to": "Cleanse to Heal"}
 {"chunk": 5, "sha": "7924fd67513f70e8"}
 {"chunk": 6, "sha": "bc6c07c6c667085c"}
-{"chunk": 8, "sha": "7adb1b1a35bf2cf7"}
-{"at": 32, "chunk": 2, "cue": 57, "from": "chronic leal", "sha": "f9ff22392a14f11d", "to": "chronically ill"}
-{"at": 13, "chunk": 2, "cue": 72, "from": "cleanse the heel", "sha": "f9ff22392a14f11d", "to": "Cleanse to Heal"}
 {"at": 90, "chunk": 7, "cue": 206, "from": "battle one", "sha": "0091313f39096c8d", "to": "battle won"}
 {"at": 83, "chunk": 7, "cue": 221, "from": "battle one", "sha": "0091313f39096c8d", "to": "battle won"}
 {"at": 31, "chunk": 7, "cue": 227, "from": "Cleanse and Heal", "sha": "0091313f39096c8d", "to": "Cleanse to Heal"}
+{"chunk": 8, "sha": "7adb1b1a35bf2cf7"}
 {"chunk": 9, "sha": "313bf40a67aea179"}
 {"at": 26, "chunk": 10, "cue": 280, "from": "ticks and spasms", "sha": "cfddce9ef1730862", "to": "tics and spasms"}
 {"chunk": 11, "sha": "da32f18057df7d8b"}
 {"chunk": 12, "sha": "642d1e8773a0c678"}
 {"chunk": 13, "sha": "0f0f2deb8a0cb430"}
 {"chunk": 14, "sha": "2a4bbef02c9b3fa9"}
-{"chunk": 16, "sha": "1126727731cee8ae"}
 {"chunk": 15, "sha": "6fa88178afb53c89"}
+{"chunk": 16, "sha": "1126727731cee8ae"}
 {"chunk": 17, "sha": "32b5724e3f967a91"}
 {"at": 19, "chunk": 18, "cue": 460, "from": "Clancy Heal", "sha": "63829d36c3972956", "to": "Cleanse to Heal"}
 {"at": 8, "chunk": 18, "cue": 478, "from": "cleanse and heal", "sha": "63829d36c3972956", "to": "cleanse to heal"}
-{"at": 14, "chunk": 20, "cue": 541, "from": "Cleanse the Heal", "sha": "a441dc0bc8267d09", "to": "Cleanse to Heal"}
 {"chunk": 19, "sha": "d67cb38c2f69d6cd"}
-{"chunk": 22, "sha": "4b983c0e0e98276c"}
+{"at": 14, "chunk": 20, "cue": 541, "from": "Cleanse the Heal", "sha": "a441dc0bc8267d09", "to": "Cleanse to Heal"}
 {"chunk": 21, "sha": "98983118fb72d5b5"}
+{"chunk": 22, "sha": "4b983c0e0e98276c"}
 {"at": 21, "chunk": 23, "cue": 599, "from": "It's too old", "sha": "fec1ae4be3ca9d45", "to": "It's too loud"}
-{"chunk": 26, "sha": "03014c1e379e1437"}
 {"chunk": 24, "sha": "99f7e62a63f5923e"}
 {"chunk": 25, "sha": "aa0efba23715f2f4"}
-{"chunk": 28, "sha": "56d69e1bd991f584"}
+{"chunk": 26, "sha": "03014c1e379e1437"}
 {"chunk": 27, "sha": "d1c1e8aa9038107b"}
-{"at": 15, "chunk": 31, "cue": 773, "from": "Corella", "sha": "319ceec2f0407b48", "to": "chlorella"}
+{"chunk": 28, "sha": "56d69e1bd991f584"}
 {"at": 64, "chunk": 29, "cue": 722, "from": "compilated", "sha": "824037c190086fbe", "to": "complicated"}
 {"at": 124, "chunk": 30, "cue": 763, "from": "neurons in glial cells", "sha": "53571b9ec3d6dc69", "to": "neurons and glial cells"}
+{"at": 15, "chunk": 31, "cue": 773, "from": "Corella", "sha": "319ceec2f0407b48", "to": "chlorella"}
 {"chunk": 32, "sha": "9bbd557015850eed"}
+{"at": 82, "chunk": 33, "cue": 819, "from": "closed are floaters", "sha": "0cd2a70fdb78c787", "to": "closed or floaters"}
 {"chunk": 34, "sha": "61d8d72b0fcb5abe"}
 {"chunk": 35, "sha": "8f9f151693177b8d"}
-{"at": 82, "chunk": 33, "cue": 819, "from": "closed are floaters", "sha": "0cd2a70fdb78c787", "to": "closed or floaters"}
 {"chunk": 36, "sha": "a4334d7e1777afd0"}
-{"chunk": 38, "sha": "05299a6b760581fe"}
 {"at": 15, "chunk": 37, "cue": 896, "from": "Cleanser Heal", "sha": "cc41079fb2119960", "to": "Cleanse to Heal"}
 {"at": 64, "chunk": 37, "cue": 896, "from": "Ours around lights", "sha": "cc41079fb2119960", "to": "Halos around lights"}
+{"chunk": 38, "sha": "05299a6b760581fe"}
 {"chunk": 39, "sha": "3ba660f1d2f2589c"}
 {"chunk": 40, "sha": "ebafa267ad1b0d13"}
-{"chunk": 42, "sha": "3c4d6fc5f1318859"}
-{"chunk": 44, "sha": "36f4ea689c663b0e"}
 {"at": 18, "chunk": 41, "cue": 1013, "from": "Cleanse the Heal", "sha": "80e26837bb0caef7", "to": "Cleanse to Heal"}
+{"chunk": 42, "sha": "3c4d6fc5f1318859"}
 {"at": 127, "chunk": 43, "cue": 1086, "from": "door jam", "sha": "ded58af7f82d365a", "to": "door jamb"}
 {"at": 10, "chunk": 43, "cue": 1091, "from": "door jam", "sha": "ded58af7f82d365a", "to": "door jamb"}
+{"chunk": 44, "sha": "36f4ea689c663b0e"}
 {"chunk": 45, "sha": "638e60ccfb1fce4a"}
 {"chunk": 46, "sha": "68951b6bcf06a875"}
 {"chunk": 47, "sha": "947105c38c8f66ed"}

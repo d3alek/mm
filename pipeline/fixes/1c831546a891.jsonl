@@ -1,22 +1,23 @@
-{"chunk": 1, "sha": "9f63d5738ee20e7c"}
+{"chunk_words": 250}
 {"chunk": 0, "sha": "2c7d999888fcffbc"}
+{"chunk": 1, "sha": "9f63d5738ee20e7c"}
 {"chunk": 2, "sha": "17ebfbe545125c11"}
-{"at": 24, "chunk": 4, "cue": 101, "from": "grateful fruit", "sha": "566210a14baa398a", "to": "grapefruit"}
 {"at": 0, "chunk": 3, "cue": 50, "from": "Medical Meme Podcast", "sha": "b5e9f7e8098efd03", "to": "Medical Medium Podcast"}
+{"at": 24, "chunk": 4, "cue": 101, "from": "grateful fruit", "sha": "566210a14baa398a", "to": "grapefruit"}
 {"chunk": 5, "sha": "dad21137b59c5548"}
 {"at": 26, "chunk": 6, "cue": 138, "from": "cleanse the heel", "sha": "8a22b0631e1a50f4", "to": "Cleanse to Heal"}
 {"chunk": 7, "sha": "be4533eb6c1e5c21"}
 {"chunk": 8, "sha": "b00ee529fb957ba2"}
 {"chunk": 9, "sha": "b22cb75977475cc7"}
 {"chunk": 10, "sha": "2f436ac4f249c185"}
-{"chunk": 13, "sha": "d10c8abc6fc984fb"}
-{"chunk": 12, "sha": "b2e854492ba207dc"}
 {"at": 0, "chunk": 11, "cue": 231, "from": "cleanse and heal", "sha": "699170b12e24e941", "to": "Cleanse to Heal"}
+{"chunk": 12, "sha": "b2e854492ba207dc"}
+{"chunk": 13, "sha": "d10c8abc6fc984fb"}
 {"at": 0, "chunk": 14, "cue": 300, "from": "Medical Union Podcast", "sha": "1d6bf251b4177a30", "to": "Medical Medium Podcast"}
-{"at": 48, "chunk": 16, "cue": 340, "from": "number one year at times bestselling", "sha": "17238e44f8b41e36", "to": "number one New York Times bestselling"}
 {"chunk": 15, "sha": "79a0dd5114db5c08"}
-{"at": 0, "chunk": 18, "cue": 363, "from": "Cleanse the Heal", "sha": "bb4ff14573798749", "to": "Cleanse to Heal"}
+{"at": 48, "chunk": 16, "cue": 340, "from": "number one year at times bestselling", "sha": "17238e44f8b41e36", "to": "number one New York Times bestselling"}
 {"at": 29, "chunk": 17, "cue": 362, "from": "Cleanse the Heal", "sha": "a246445bf3e9dc90", "to": "Cleanse to Heal"}
+{"at": 0, "chunk": 18, "cue": 363, "from": "Cleanse the Heal", "sha": "bb4ff14573798749", "to": "Cleanse to Heal"}
 {"chunk": 19, "sha": "1e1f9e2a47e2071a"}
 {"at": 6, "chunk": 20, "cue": 438, "from": "Medical Meaning Podcast", "sha": "2dbceb7eeff51b1a", "to": "Medical Medium Podcast"}
 {"at": 72, "chunk": 20, "cue": 453, "from": "Medical Meaning Podcast", "sha": "2dbceb7eeff51b1a", "to": "Medical Medium Podcast"}

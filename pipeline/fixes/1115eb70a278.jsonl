@@ -1,18 +1,21 @@
+{"chunk_words": 250}
 {"chunk": 0, "sha": "515248dcddbdec01"}
 {"at": 76, "chunk": 1, "cue": 30, "from": "golden seal", "sha": "693ff0e9fadb217a", "to": "goldenseal"}
 {"at": 88, "chunk": 1, "cue": 30, "from": "golden seal", "sha": "693ff0e9fadb217a", "to": "goldenseal"}
 {"at": 35, "chunk": 1, "cue": 31, "from": "golden seal", "sha": "693ff0e9fadb217a", "to": "goldenseal"}
 {"at": 50, "chunk": 1, "cue": 31, "from": "golden seal", "sha": "693ff0e9fadb217a", "to": "goldenseal"}
 {"at": 58, "chunk": 1, "cue": 36, "from": "femmer g products", "sha": "693ff0e9fadb217a", "to": "Vimergy products"}
-{"chunk": 6, "sha": "4d8bb50cd7fa4582"}
-{"at": 59, "chunk": 3, "cue": 79, "from": "shock and all", "sha": "d166fdfd403e1583", "to": "shock and awe"}
 {"at": 12, "chunk": 2, "cue": 56, "from": "golden seal", "sha": "cc6ec36bed51f19a", "to": "goldenseal"}
 {"at": 82, "chunk": 2, "cue": 61, "from": "golden seal", "sha": "cc6ec36bed51f19a", "to": "goldenseal"}
 {"at": 24, "chunk": 2, "cue": 63, "from": "problins", "sha": "cc6ec36bed51f19a", "to": "propolis"}
 {"at": 28, "chunk": 2, "cue": 65, "from": "golden seal", "sha": "cc6ec36bed51f19a", "to": "goldenseal"}
-{"at": 4, "chunk": 5, "cue": 108, "from": "golden seal", "sha": "d68816d094777fdd", "to": "goldenseal"}
+{"at": 59, "chunk": 3, "cue": 79, "from": "shock and all", "sha": "d166fdfd403e1583", "to": "shock and awe"}
 {"at": 26, "chunk": 4, "cue": 97, "from": "vimra g1", "sha": "6892aa6a919c5eed", "to": "Vimergy one"}
+{"at": 4, "chunk": 5, "cue": 108, "from": "golden seal", "sha": "d68816d094777fdd", "to": "goldenseal"}
+{"chunk": 6, "sha": "4d8bb50cd7fa4582"}
 {"chunk": 7, "sha": "8a172399afd87062"}
+{"at": 40, "chunk": 8, "cue": 200, "from": "at a mock level, at a mock one level", "sha": "273325998f6e613c", "to": "at a Mach level, at a Mach one level"}
+{"chunk": 9, "sha": "b0f4310ba8ef219a"}
 {"chunk": 10, "sha": "e2b3d64702ed4239"}
 {"at": 27, "chunk": 11, "cue": 248, "from": "divs", "sha": "3cab13ced7f6fd86", "to": "dibs"}
 {"at": 6, "chunk": 11, "cue": 249, "from": "divs", "sha": "3cab13ced7f6fd86", "to": "dibs"}
@@ -21,24 +24,22 @@
 {"at": 54, "chunk": 11, "cue": 258, "from": "pulls", "sha": "3cab13ced7f6fd86", "to": "pools"}
 {"at": 77, "chunk": 11, "cue": 258, "from": "pulls", "sha": "3cab13ced7f6fd86", "to": "pools"}
 {"chunk": 12, "sha": "74643edf65f6c9b0"}
-{"at": 40, "chunk": 8, "cue": 200, "from": "at a mock level, at a mock one level", "sha": "273325998f6e613c", "to": "at a Mach level, at a Mach one level"}
-{"chunk": 9, "sha": "b0f4310ba8ef219a"}
 {"at": 47, "chunk": 13, "cue": 281, "from": "golden seal", "sha": "fd544a751d466a99", "to": "goldenseal"}
 {"at": 78, "chunk": 13, "cue": 282, "from": "hvs1", "sha": "fd544a751d466a99", "to": "HSV-1"}
-{"chunk": 15, "sha": "265c489bb511dc25"}
 {"at": 22, "chunk": 14, "cue": 295, "from": "lymphatic lands", "sha": "12bfe7b47f31761d", "to": "lymphatic glands"}
-{"chunk": 17, "sha": "2b514ed1da43ed49"}
+{"chunk": 15, "sha": "265c489bb511dc25"}
 {"chunk": 16, "sha": "2c527dcba19eecad"}
+{"chunk": 17, "sha": "2b514ed1da43ed49"}
 {"at": 13, "chunk": 18, "cue": 375, "from": "right on the source", "sha": "719bd9112ad9f3e4", "to": "right on the sore"}
+{"chunk": 19, "sha": "cfa12504d5cb16e4"}
 {"at": 13, "chunk": 20, "cue": 429, "from": "a kinkasaur", "sha": "8bf01240e0c0024b", "to": "a canker sore"}
 {"at": 0, "chunk": 20, "cue": 430, "from": "a kinkasaur", "sha": "8bf01240e0c0024b", "to": "a canker sore"}
-{"chunk": 19, "sha": "cfa12504d5cb16e4"}
 {"chunk": 21, "sha": "9a82c7f95f2647ab"}
+{"chunk": 22, "sha": "e7db18cd14c37580"}
 {"chunk": 23, "sha": "6c9dd0cb01462527"}
 {"chunk": 24, "sha": "a33a09476ed41394"}
-{"chunk": 22, "sha": "e7db18cd14c37580"}
-{"at": 35, "chunk": 26, "cue": 537, "from": "Golden Seal", "sha": "cea7a857a8386e20", "to": "goldenseal"}
 {"chunk": 25, "sha": "e49f96d56152eabd"}
+{"at": 35, "chunk": 26, "cue": 537, "from": "Golden Seal", "sha": "cea7a857a8386e20", "to": "goldenseal"}
 {"at": 12, "chunk": 27, "cue": 559, "from": "golden seal", "sha": "fa0aee21b5fa0cd7", "to": "goldenseal"}
 {"at": 4, "chunk": 27, "cue": 560, "from": "golden seal", "sha": "fa0aee21b5fa0cd7", "to": "goldenseal"}
 {"at": 17, "chunk": 27, "cue": 564, "from": "golden seal", "sha": "fa0aee21b5fa0cd7", "to": "goldenseal"}
@@ -49,7 +50,6 @@
 {"at": 6, "chunk": 27, "cue": 571, "from": "golden seal", "sha": "fa0aee21b5fa0cd7", "to": "goldenseal"}
 {"at": 8, "chunk": 27, "cue": 579, "from": "golden seal", "sha": "fa0aee21b5fa0cd7", "to": "goldenseal"}
 {"at": 40, "chunk": 27, "cue": 579, "from": "golden seal", "sha": "fa0aee21b5fa0cd7", "to": "goldenseal"}
-{"at": 0, "chunk": 29, "cue": 649, "from": "Golden seal", "sha": "b65c87d6b7c8d2e9", "to": "Goldenseal"}
 {"at": 14, "chunk": 28, "cue": 600, "from": "golden seal", "sha": "75670751b6594d45", "to": "goldenseal"}
 {"at": 11, "chunk": 28, "cue": 604, "from": "golden seal", "sha": "75670751b6594d45", "to": "goldenseal"}
 {"at": 23, "chunk": 28, "cue": 609, "from": "golden seal", "sha": "75670751b6594d45", "to": "goldenseal"}
@@ -58,22 +58,23 @@
 {"at": 90, "chunk": 28, "cue": 611, "from": "golden seal", "sha": "75670751b6594d45", "to": "goldenseal"}
 {"at": 85, "chunk": 28, "cue": 613, "from": "golden seal", "sha": "75670751b6594d45", "to": "goldenseal"}
 {"at": 58, "chunk": 28, "cue": 614, "from": "golden seal", "sha": "75670751b6594d45", "to": "goldenseal"}
+{"at": 0, "chunk": 29, "cue": 649, "from": "Golden seal", "sha": "b65c87d6b7c8d2e9", "to": "Goldenseal"}
+{"chunk": 30, "sha": "1c163bfd01bbc855"}
 {"chunk": 31, "sha": "ef09308f88285231"}
 {"chunk": 32, "sha": "0d3773862b545f45"}
 {"chunk": 33, "sha": "4c273a7d28b3ed20"}
 {"at": 28, "chunk": 34, "cue": 734, "from": "hog wire", "sha": "83f5b3d8db087bbb", "to": "hog wild"}
-{"chunk": 30, "sha": "1c163bfd01bbc855"}
 {"chunk": 35, "sha": "b8376aee312b549e"}
 {"chunk": 36, "sha": "d4b931f7e26ad199"}
 {"at": 38, "chunk": 37, "cue": 807, "from": "the recess i had", "sha": "efa0ac26c74de420", "to": "the recession i had"}
 {"at": 22, "chunk": 37, "cue": 808, "from": "improving tool", "sha": "efa0ac26c74de420", "to": "improving too"}
 {"at": 33, "chunk": 38, "cue": 823, "from": "Medical Me and podcast", "sha": "a93018a96a165140", "to": "Medical Medium podcast"}
 {"at": 42, "chunk": 38, "cue": 831, "from": "golden seal", "sha": "a93018a96a165140", "to": "goldenseal"}
-{"chunk": 41, "sha": "1dd8e3296925e423"}
-{"chunk": 40, "sha": "e100eaeff2c1a3f7"}
 {"at": 0, "chunk": 39, "cue": 845, "from": "Brainsaver", "sha": "4c38417ebbe5eb0a", "to": "Brain Saver"}
 {"at": 0, "chunk": 39, "cue": 846, "from": "Cleanse the heel", "sha": "4c38417ebbe5eb0a", "to": "Cleanse to Heal"}
 {"at": 14, "chunk": 39, "cue": 853, "from": "Cleanse the Heal", "sha": "4c38417ebbe5eb0a", "to": "Cleanse to Heal"}
+{"chunk": 40, "sha": "e100eaeff2c1a3f7"}
+{"chunk": 41, "sha": "1dd8e3296925e423"}
 {"chunk": 42, "sha": "cd6512de84df3252"}
 {"chunk": 43, "sha": "44affec54850ce64"}
 {"at": 4, "chunk": 44, "cue": 977, "from": "cleanse and heal", "sha": "d307e6d82c9fe35e", "to": "Cleanse to Heal"}

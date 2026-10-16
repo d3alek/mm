@@ -1,67 +1,68 @@
-{"chunk": 3, "sha": "109dbcd520ec413e"}
+{"chunk_words": 250}
+{"chunk": 0, "sha": "f28a6a2bfb7dd516"}
 {"chunk": 1, "sha": "9e3fca65060f9b9b"}
+{"chunk": 2, "sha": "8e2656fb3e3d58e6"}
+{"chunk": 3, "sha": "109dbcd520ec413e"}
 {"at": 22, "chunk": 4, "cue": 64, "from": "geniuses", "sha": "b8f953a1765fdaa9", "to": "genuses"}
 {"at": 66, "chunk": 5, "cue": 81, "from": "cultivate a blueberry", "sha": "29f935a717976446", "to": "cultivated blueberry"}
 {"at": 23, "chunk": 5, "cue": 86, "from": "beer deer", "sha": "29f935a717976446", "to": "bear deer"}
-{"chunk": 0, "sha": "f28a6a2bfb7dd516"}
-{"chunk": 2, "sha": "8e2656fb3e3d58e6"}
+{"chunk": 6, "sha": "e0880499d96fca61"}
 {"chunk": 7, "sha": "0ce6e577b586690e"}
 {"chunk": 8, "sha": "4bb4d0bd35e0bccf"}
 {"chunk": 9, "sha": "1ebaeb9e96345e91"}
 {"chunk": 10, "sha": "b33e2517b9a8abd4"}
-{"chunk": 6, "sha": "e0880499d96fca61"}
 {"chunk": 11, "sha": "b0de00a0b4dd1c4a"}
-{"chunk": 16, "sha": "f03711d599112362"}
-{"chunk": 13, "sha": "e698c3b19b3bbb4d"}
 {"at": 40, "chunk": 12, "cue": 202, "from": "peak its head", "sha": "34442cfd54312f75", "to": "peek its head"}
-{"chunk": 17, "sha": "a766df505728edfc"}
+{"chunk": 13, "sha": "e698c3b19b3bbb4d"}
 {"at": 48, "chunk": 14, "cue": 226, "from": "20 to zero", "sha": "fc1a0c29ebb840ea", "to": "20 two zero"}
 {"at": 92, "chunk": 14, "cue": 232, "from": "going tried the dried", "sha": "fc1a0c29ebb840ea", "to": "going to try the dried"}
 {"chunk": 15, "sha": "78fb2855a2e349fc"}
-{"chunk": 19, "sha": "49acbe2ac00e8bc6"}
-{"at": 16, "chunk": 21, "cue": 353, "from": "Lyman's", "sha": "38cad7ade5fbf480", "to": "Wyman's"}
-{"chunk": 20, "sha": "45e392daea777b94"}
-{"chunk": 22, "sha": "675340838e5315a2"}
+{"chunk": 16, "sha": "f03711d599112362"}
+{"chunk": 17, "sha": "a766df505728edfc"}
 {"at": 48, "chunk": 18, "cue": 292, "from": "Orange jest", "sha": "9415875ad98ef889", "to": "Orange zest"}
+{"chunk": 19, "sha": "49acbe2ac00e8bc6"}
+{"chunk": 20, "sha": "45e392daea777b94"}
+{"at": 16, "chunk": 21, "cue": 353, "from": "Lyman's", "sha": "38cad7ade5fbf480", "to": "Wyman's"}
+{"chunk": 22, "sha": "675340838e5315a2"}
 {"at": 10, "chunk": 23, "cue": 408, "from": "the hdms", "sha": "45889a1faa76382c", "to": "the HMDs"}
-{"at": 24, "chunk": 27, "cue": 488, "from": "Brainsaver", "sha": "bc6303948f586640", "to": "Brain Saver"}
-{"chunk": 26, "sha": "41f00e9b894ce6d0"}
-{"chunk": 25, "sha": "44dbe3f161eca6d2"}
-{"chunk": 29, "sha": "cfc2f279c1bdc321"}
-{"chunk": 28, "sha": "cfbaa61d55c93b3f"}
 {"chunk": 24, "sha": "55455f3d15f632b8"}
-{"at": 18, "chunk": 31, "cue": 611, "from": "done in one cinnamon stick", "sha": "6b7b9a6e6f0362c7", "to": "done and one cinnamon stick"}
-{"chunk": 32, "sha": "d33c374b115a03e4"}
+{"chunk": 25, "sha": "44dbe3f161eca6d2"}
+{"chunk": 26, "sha": "41f00e9b894ce6d0"}
+{"at": 24, "chunk": 27, "cue": 488, "from": "Brainsaver", "sha": "bc6303948f586640", "to": "Brain Saver"}
+{"chunk": 28, "sha": "cfbaa61d55c93b3f"}
+{"chunk": 29, "sha": "cfc2f279c1bdc321"}
 {"at": 19, "chunk": 30, "cue": 569, "from": "the word wanna", "sha": "9d16bec7ced1a3f2", "to": "the word wine"}
 {"at": 19, "chunk": 30, "cue": 572, "from": "the word wanna", "sha": "9d16bec7ced1a3f2", "to": "the word wine"}
+{"at": 18, "chunk": 31, "cue": 611, "from": "done in one cinnamon stick", "sha": "6b7b9a6e6f0362c7", "to": "done and one cinnamon stick"}
+{"chunk": 32, "sha": "d33c374b115a03e4"}
 {"chunk": 33, "sha": "be5691d353a81326"}
-{"chunk": 35, "sha": "1983a1450053ec5d"}
 {"chunk": 34, "sha": "12deb4e26f684f7c"}
+{"chunk": 35, "sha": "1983a1450053ec5d"}
 {"chunk": 36, "sha": "a0ce20abd900f71b"}
 {"chunk": 37, "sha": "5770d6d7f90eb823"}
 {"chunk": 38, "sha": "93c59332b569e602"}
 {"at": 91, "chunk": 39, "cue": 785, "from": "in hear", "sha": "66ad72eef91aa841", "to": "in here"}
-{"chunk": 41, "sha": "0ca83954127496ee"}
 {"chunk": 40, "sha": "0c0ed5d85ae8dce0"}
-{"chunk": 43, "sha": "a2472220ce2f8016"}
+{"chunk": 41, "sha": "0ca83954127496ee"}
 {"chunk": 42, "sha": "c3d672132278d7f2"}
-{"chunk": 47, "sha": "bb0719f4e37dafbe"}
+{"chunk": 43, "sha": "a2472220ce2f8016"}
+{"chunk": 44, "sha": "f11b1d263bad8548"}
 {"chunk": 45, "sha": "303a38ce15b4203a"}
 {"chunk": 46, "sha": "8f4928780b6dc345"}
-{"chunk": 44, "sha": "f11b1d263bad8548"}
+{"chunk": 47, "sha": "bb0719f4e37dafbe"}
 {"at": 76, "chunk": 48, "cue": 1014, "from": "crap loser", "sha": "881c983da3c6a428", "to": "crowd pleaser"}
 {"chunk": 49, "sha": "0be595bb90c581a0"}
-{"at": 5, "chunk": 51, "cue": 1075, "from": "Debbie Bar & Grill", "sha": "03d7b55682d3e162", "to": "AW Bar & Grill"}
 {"chunk": 50, "sha": "653d8e1cf2d0cabb"}
-{"chunk": 53, "sha": "4e36b9c13ebc047a"}
+{"at": 5, "chunk": 51, "cue": 1075, "from": "Debbie Bar & Grill", "sha": "03d7b55682d3e162", "to": "AW Bar & Grill"}
 {"at": 20, "chunk": 52, "cue": 1134, "from": "the cooking right here", "sha": "4ccb919ed746caea", "to": "the cookie right here"}
 {"at": 64, "chunk": 52, "cue": 1141, "from": "W barn grow", "sha": "4ccb919ed746caea", "to": "W Bar and Grill"}
 {"at": 27, "chunk": 52, "cue": 1160, "from": "playing for everybody", "sha": "4ccb919ed746caea", "to": "plenty for everybody"}
 {"at": 5, "chunk": 52, "cue": 1161, "from": "playing for everybody", "sha": "4ccb919ed746caea", "to": "plenty for everybody"}
-{"chunk": 55, "sha": "d72c8b36ad78164f"}
+{"chunk": 53, "sha": "4e36b9c13ebc047a"}
 {"chunk": 54, "sha": "80e626a295b0d1aa"}
+{"chunk": 55, "sha": "d72c8b36ad78164f"}
 {"chunk": 56, "sha": "933034781ab866b2"}
-{"chunk": 59, "sha": "f9d5d792bd2841e0"}
-{"chunk": 58, "sha": "21e5760e1ce021ca"}
 {"chunk": 57, "sha": "f643be9ec0074e1b"}
+{"chunk": 58, "sha": "21e5760e1ce021ca"}
+{"chunk": 59, "sha": "f9d5d792bd2841e0"}
 {"chunk": 60, "sha": "a1d4ca39b5bcbe8a"}

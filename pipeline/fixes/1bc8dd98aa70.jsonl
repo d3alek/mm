@@ -1,3 +1,4 @@
+{"chunk_words": 250}
 {"at": 42, "chunk": 0, "cue": 0, "from": "Medical Media Morning", "sha": "6f54fb24b797487b", "to": "Medical Medium Morning"}
 {"at": 58, "chunk": 0, "cue": 3, "from": "Medical Media Morning", "sha": "6f54fb24b797487b", "to": "Medical Medium Morning"}
 {"chunk": 1, "sha": "e25399aa29805f63"}
@@ -5,33 +6,33 @@
 {"at": 14, "chunk": 2, "cue": 78, "from": "MN900", "sha": "6e6384ead4cc8403", "to": "MM900"}
 {"at": 20, "chunk": 3, "cue": 100, "from": "medical media morning", "sha": "86c1215ac6535043", "to": "Medical Medium Morning"}
 {"at": 8, "chunk": 4, "cue": 121, "from": "medical meat and morning", "sha": "95b042d3dceccb7b", "to": "Medical Medium morning"}
+{"at": 72, "chunk": 5, "cue": 127, "from": "your nut butters, you're nuts", "sha": "d14039dc0a2b15fd", "to": "your nut butters, your nuts"}
 {"at": 27, "chunk": 6, "cue": 140, "from": "Medical Media Morning Cleanse", "sha": "5ff08a2846a3222c", "to": "Medical Medium Morning Cleanse"}
 {"at": 5, "chunk": 7, "cue": 178, "from": "nut butter is in the morning", "sha": "2c6f6f3c4dfaa9f5", "to": "nut butters in the morning"}
-{"at": 72, "chunk": 5, "cue": 127, "from": "your nut butters, you're nuts", "sha": "d14039dc0a2b15fd", "to": "your nut butters, your nuts"}
+{"chunk": 8, "sha": "a3ac9c7861002eb6"}
 {"chunk": 9, "sha": "8bda6a8e66cb9e26"}
 {"chunk": 10, "sha": "824fdacf6dd6e65e"}
 {"at": 33, "chunk": 11, "cue": 300, "from": "monocleansing here", "sha": "74b90e3d98474a30", "to": "mono cleanse in here"}
-{"chunk": 8, "sha": "a3ac9c7861002eb6"}
+{"chunk": 12, "sha": "a876622c93a367c9"}
 {"chunk": 13, "sha": "c484efab2cc7d673"}
 {"chunk": 14, "sha": "1a95f8e705720145"}
-{"chunk": 12, "sha": "a876622c93a367c9"}
-{"chunk": 17, "sha": "cd72a7e87af70843"}
 {"at": 7, "chunk": 15, "cue": 397, "from": "medical me morning cleanse", "sha": "3f890a32caa6eb8d", "to": "Medical Medium morning cleanse"}
 {"chunk": 16, "sha": "1b8d937235d9a194"}
+{"chunk": 17, "sha": "cd72a7e87af70843"}
 {"chunk": 18, "sha": "bd8769fff20933ff"}
-{"chunk": 22, "sha": "a4a9cad345c05940"}
-{"chunk": 21, "sha": "fce318b3bf4c099c"}
 {"at": 4, "chunk": 19, "cue": 483, "from": "Alejandra Younger", "sha": "32117628898f083f", "to": "Alejandro Junger"}
 {"at": 0, "chunk": 19, "cue": 488, "from": "Dr. Younger is", "sha": "32117628898f083f", "to": "Dr. Junger is"}
 {"at": 4, "chunk": 19, "cue": 489, "from": "forward to the new book", "sha": "32117628898f083f", "to": "foreword to the new book"}
 {"at": 0, "chunk": 20, "cue": 513, "from": "The medical healing community", "sha": "a1e0f69ca724dd45", "to": "The medical medium community"}
 {"at": 22, "chunk": 20, "cue": 515, "from": "misinformation out there and health", "sha": "a1e0f69ca724dd45", "to": "misinformation out there in health"}
 {"at": 14, "chunk": 20, "cue": 526, "from": "doctor's herald that is like", "sha": "a1e0f69ca724dd45", "to": "doctor's heralded as like"}
-{"at": 41, "chunk": 24, "cue": 631, "from": "Cleanse and Heal", "sha": "5d05b4b4056df8f3", "to": "Cleanse to Heal"}
+{"chunk": 21, "sha": "fce318b3bf4c099c"}
+{"chunk": 22, "sha": "a4a9cad345c05940"}
 {"chunk": 23, "sha": "c32083be74d658ff"}
-{"chunk": 26, "sha": "5a22385b93ef3708"}
+{"at": 41, "chunk": 24, "cue": 631, "from": "Cleanse and Heal", "sha": "5d05b4b4056df8f3", "to": "Cleanse to Heal"}
 {"at": 39, "chunk": 25, "cue": 659, "from": "Medical Media Morning Cleanse", "sha": "b2b6362313c83c3b", "to": "Medical Medium Morning Cleanse"}
-{"chunk": 30, "sha": "76abe4bb7549dfbd"}
-{"at": 76, "chunk": 29, "cue": 796, "from": "medical me morning cleanse", "sha": "6300aee5da1e3eb8", "to": "Medical Medium morning cleanse"}
+{"chunk": 26, "sha": "5a22385b93ef3708"}
 {"at": 0, "chunk": 27, "cue": 738, "from": "Rhea", "sha": "2cd319862b95d7c0", "to": "Maria"}
 {"chunk": 28, "sha": "1126e5938bf5f7eb"}
+{"at": 76, "chunk": 29, "cue": 796, "from": "medical me morning cleanse", "sha": "6300aee5da1e3eb8", "to": "Medical Medium morning cleanse"}
+{"chunk": 30, "sha": "76abe4bb7549dfbd"}

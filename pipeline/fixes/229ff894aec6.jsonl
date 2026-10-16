@@ -1,11 +1,12 @@
-{"chunk": 2, "sha": "386a74345471fe50"}
-{"chunk": 1, "sha": "455cf8f4af065b39"}
+{"chunk_words": 250}
 {"chunk": 0, "sha": "8c243372917bade4"}
-{"at": 27, "chunk": 5, "cue": 174, "from": "with beholding it", "sha": "df925c5d5348bea7", "to": "without holding it"}
-{"at": 26, "chunk": 4, "cue": 156, "from": "smoke any meat", "sha": "e9fab5bf7f039b8f", "to": "smoke any weed"}
+{"chunk": 1, "sha": "455cf8f4af065b39"}
+{"chunk": 2, "sha": "386a74345471fe50"}
 {"chunk": 3, "sha": "3f87bbdc59582847"}
+{"at": 26, "chunk": 4, "cue": 156, "from": "smoke any meat", "sha": "e9fab5bf7f039b8f", "to": "smoke any weed"}
+{"at": 27, "chunk": 5, "cue": 174, "from": "with beholding it", "sha": "df925c5d5348bea7", "to": "without holding it"}
+{"chunk": 6, "sha": "3ce1bd2e03116c96"}
 {"chunk": 7, "sha": "4c199da76de4da7c"}
-{"at": 59, "chunk": 9, "cue": 329, "from": "dr. Desmond", "sha": "c029546c3eea5eab", "to": "dr. Nesbitt"}
 {"at": 0, "chunk": 8, "cue": 297, "from": "No, Biggie", "sha": "b85f0a9cc122bd7e", "to": "No, Piggy"}
 {"at": 7, "chunk": 8, "cue": 317, "from": "mold exposure shop", "sha": "b85f0a9cc122bd7e", "to": "mold exposure shot"}
-{"chunk": 6, "sha": "3ce1bd2e03116c96"}
+{"at": 59, "chunk": 9, "cue": 329, "from": "dr. Desmond", "sha": "c029546c3eea5eab", "to": "dr. Nesbitt"}

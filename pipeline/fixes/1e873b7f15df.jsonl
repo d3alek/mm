@@ -1,23 +1,24 @@
-{"chunk": 1, "sha": "2434d6b8e340f540"}
+{"chunk_words": 250}
 {"at": 24, "chunk": 0, "cue": 24, "from": "an apple podcast", "sha": "9fcbc2f09e906387", "to": "on apple podcast"}
+{"chunk": 1, "sha": "2434d6b8e340f540"}
 {"at": 43, "chunk": 2, "cue": 64, "from": "cleanse and heal", "sha": "8d1f72d9395c78e8", "to": "Cleanse to Heal"}
 {"at": 24, "chunk": 2, "cue": 65, "from": "cleanse and heal", "sha": "8d1f72d9395c78e8", "to": "Cleanse to Heal"}
 {"chunk": 3, "sha": "e834ee440fd40912"}
-{"chunk": 6, "sha": "173190d999650c90"}
+{"at": 4, "chunk": 4, "cue": 120, "from": "Medical Union Podcast", "sha": "e425679544256741", "to": "Medical Medium Podcast"}
 {"at": 0, "chunk": 5, "cue": 148, "from": "Medical Mean Podcast", "sha": "15c60a7c8d988f9a", "to": "Medical Medium Podcast"}
 {"at": 85, "chunk": 5, "cue": 159, "from": "letting you No", "sha": "15c60a7c8d988f9a", "to": "letting you know"}
-{"at": 4, "chunk": 4, "cue": 120, "from": "Medical Union Podcast", "sha": "e425679544256741", "to": "Medical Medium Podcast"}
+{"chunk": 6, "sha": "173190d999650c90"}
+{"at": 38, "chunk": 7, "cue": 192, "from": "allergic to her job", "sha": "dedb0bfd43935956", "to": "allergic to our job"}
 {"at": 40, "chunk": 8, "cue": 207, "from": "wafers", "sha": "e04cebfc221b7a51", "to": "varies"}
 {"at": 89, "chunk": 8, "cue": 209, "from": "coarse anxiety", "sha": "e04cebfc221b7a51", "to": "of course anxiety"}
 {"at": 17, "chunk": 8, "cue": 220, "from": "adrenals and our back", "sha": "e04cebfc221b7a51", "to": "adrenals in our back"}
+{"chunk": 9, "sha": "9800d633e7b22b57"}
 {"chunk": 10, "sha": "8c811f8a6aa9f46c"}
 {"chunk": 11, "sha": "71923871fd15bdf0"}
-{"at": 38, "chunk": 7, "cue": 192, "from": "allergic to her job", "sha": "dedb0bfd43935956", "to": "allergic to our job"}
 {"at": 0, "chunk": 12, "cue": 280, "from": "Freeze a bird meditation", "sha": "94609ee956f9a0da", "to": "Free as a bird meditation"}
-{"chunk": 9, "sha": "9800d633e7b22b57"}
 {"chunk": 13, "sha": "42821b2a69026744"}
 {"at": 37, "chunk": 14, "cue": 335, "from": "send of candles", "sha": "453ed6e7da98d3f1", "to": "scented candles"}
 {"at": 0, "chunk": 15, "cue": 377, "from": "Medical Mean Podcast", "sha": "beb25e5d9ddcc738", "to": "Medical Medium Podcast"}
 {"at": 0, "chunk": 16, "cue": 395, "from": "Cleanse and Heal", "sha": "b46f1380d0318b0d", "to": "Cleanse to Heal"}
-{"at": 7, "chunk": 18, "cue": 454, "from": "Medical Media Podcast", "sha": "f9c63f5628380777", "to": "Medical Medium Podcast"}
 {"at": 14, "chunk": 17, "cue": 419, "from": "callous over", "sha": "00419123ae5fd033", "to": "callus over"}
+{"at": 7, "chunk": 18, "cue": 454, "from": "Medical Media Podcast", "sha": "f9c63f5628380777", "to": "Medical Medium Podcast"}
