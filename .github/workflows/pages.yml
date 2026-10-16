@@ -64,6 +64,9 @@ jobs:
         with:
           node-version: "22"
 
+      - uses: astral-sh/setup-uv@c18668ad3cf93ea998bef934396af7bb5c839dc7 # v10.2.0
+        if: steps.check.outputs.skip != 'true'
+
       - name: Fetch, build records and site
         if: steps.check.outputs.skip != 'true'
         env:
@@ -72,8 +75,39 @@ jobs:
         run: |
           make fetch
           make site
-          du -sh dist
+
+      # Per-talk vectors keyed by model + cue text; only changed talks are re-embedded.
+      # A cold start embeds the whole corpus (hours), so the cache is saved even when the job fails.
+      - id: embed-cache
+        if: steps.check.outputs.skip != 'true'
+        uses: actions/cache/restore@0057852bfaa89a56745cba8c7296529d2fc39830 # v4
+        with:
+          path: |
+            build/embed-cache
+            ~/.cache/mm-embed
+          key: embed-v1-${{ hashFiles('build/records/*.json') }}-
+          restore-keys: |
+            embed-v1-${{ hashFiles('build/records/*.json') }}-
+            embed-v1-
+
+      - name: Semantic index
+        if: steps.check.outputs.skip != 'true'
+        timeout-minutes: 300
+        run: |
+          make embed
+          du -sh dist dist/semantic
           find dist -type f -size +100M -print -exec false {} +
+
+      # Saved unless restored from a complete run over the same records; a failed run saves a "partial-" entry.
+      - uses: actions/cache/save@0057852bfaa89a56745cba8c7296529d2fc39830 # v4
+        if: >-
+          always() && steps.check.outputs.skip != 'true' && hashFiles('build/embed-cache/*.npy') != '' &&
+          !startsWith(steps.embed-cache.outputs.cache-matched-key, format('embed-v1-{0}-', hashFiles('build/records/*.json')))
+        with:
+          path: |
+            build/embed-cache
+            ~/.cache/mm-embed
+          key: embed-v1-${{ job.status == 'success' && '' || 'partial-' }}${{ hashFiles('build/records/*.json') }}-${{ github.run_id }}
 
       - uses: actions/upload-pages-artifact@56afc609e74202658d3ffba0e8f6dda462b719fa # v3
         if: steps.check.outputs.skip != 'true'

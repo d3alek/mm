@@ -94,16 +94,24 @@ def talk_page(r: dict, base: str, beacon: str) -> str:
     return page(base, f"{r['title']} · {SITE_NAME}", body, beacon)
 
 
-def browse_page(talks: list[dict], base: str, beacon: str) -> str:
-    talks = sorted(talks, key=lambda r: r["title"])
-    talks.sort(key=lambda r: r["date"] or "", reverse=True)  # newest first, undated last
-
+def filter_selects(talks: list[dict]) -> str:
     def options(values):
         return "".join(f'<option value="{escape(v)}">{escape(v)}</option>' for v in values)
 
     platforms = sorted({platform_name(r) for r in talks})
     series = sorted({(platform_name(r), r["series"]) for r in talks})
     years = sorted({year(r) for r in talks}, reverse=True)
+    series_opts = "".join(
+        f'<option value="{escape(s)}" data-p="{escape(p)}">{escape(s if s == p else f"{p} · {s}")}</option>' for p, s in series
+    )
+    return f"""<select id="fp" aria-label="Platform"><option value="">All platforms</option>{options(platforms)}</select>
+<select id="fs" aria-label="Series"><option value="">All series</option>{series_opts}</select>
+<select id="fy" aria-label="Year"><option value="">All years</option>{options(years)}</select>"""
+
+
+def browse_page(talks: list[dict], base: str, beacon: str) -> str:
+    talks = sorted(talks, key=lambda r: r["title"])
+    talks.sort(key=lambda r: r["date"] or "", reverse=True)  # newest first, undated last
     rows = []
     for r in talks:
         bits = [r["date"] or "Undated", r["series"]]
@@ -113,16 +121,11 @@ def browse_page(talks: list[dict], base: str, beacon: str) -> str:
             f'<li data-p="{escape(platform_name(r))}" data-s="{escape(r["series"])}" data-y="{year(r)}">'
             f'<a href="{base}t/{r["id"]}/">{escape(r["title"])}</a><small>{escape(" · ".join(bits))}</small></li>'
         )
-    series_opts = "".join(
-        f'<option value="{escape(s)}" data-p="{escape(p)}">{escape(s if s == p else f"{p} · {s}")}</option>' for p, s in series
-    )
     body = f"""<main class="browse">
 <h1>Browse {len(talks)} talks</h1>
 <form class="filters" onsubmit="return false">
 <input id="q" type="search" placeholder="Filter titles" aria-label="Filter titles">
-<select id="fp" aria-label="Platform"><option value="">All platforms</option>{options(platforms)}</select>
-<select id="fs" aria-label="Series"><option value="">All series</option>{series_opts}</select>
-<select id="fy" aria-label="Year"><option value="">All years</option>{options(years)}</select>
+{filter_selects(talks)}
 </form>
 <p id="count" class="count"></p>
 <ul id="list" class="list">
@@ -133,16 +136,21 @@ def browse_page(talks: list[dict], base: str, beacon: str) -> str:
     return page(base, f"Browse · {SITE_NAME}", body, beacon)
 
 
-def search_page(stats: dict, base: str, beacon: str) -> str:
+def search_page(talks: list[dict], base: str, beacon: str) -> str:
     body = f"""<main class="search">
-<h1>Search {stats["records"]} talks</h1>
-<p class="hint">Phrases in quotes match exactly. Results link to the 30-second section where the words occur.</p>
-<div id="search" data-base="{base}"></div>
+<h1>Search {len(talks)} talks</h1>
+<form class="filters" role="search" onsubmit="return false">
+<input id="q" type="search" placeholder="Ask a question or type words" aria-label="Search" autocomplete="off">
+<div class="modes" role="group" aria-label="Search mode"><button type="button" data-mode="meaning" aria-pressed="true">Meaning</button><button type="button" data-mode="words" aria-pressed="false">Words</button></div>
+{filter_selects(talks)}
+</form>
+<p class="hint" id="hint"></p>
+<p class="count" id="status" aria-live="polite"></p>
+<ol class="results" id="results"></ol>
+<button type="button" class="more" id="more" hidden>More results</button>
 </main>
-<script src="{base}pagefind/pagefind-ui.js"></script>
-<script src="{base}assets/search.js"></script>"""
-    head = f'<link rel="stylesheet" href="{base}pagefind/pagefind-ui.css">\n'
-    return page(base, SITE_NAME, body, beacon, head)
+<script type="module" src="{base}assets/search.js"></script>"""
+    return page(base, SITE_NAME, body, beacon)
 
 
 def beacon_tag(token: str) -> str:
@@ -170,7 +178,7 @@ def build(build_dir: str, dist: str, base: str, cf_token: str) -> int:
         with open(os.path.join(build_dir, "records", t["id"] + ".json"), encoding="utf-8") as f:
             write(os.path.join(dist, "t", t["id"], "index.html"), talk_page(json.load(f), base, beacon))
     write(os.path.join(dist, "browse", "index.html"), browse_page(talks, base, beacon))
-    write(os.path.join(dist, "index.html"), search_page(manifest["stats"], base, beacon))
+    write(os.path.join(dist, "index.html"), search_page(talks, base, beacon))
     write(os.path.join(dist, "robots.txt"), "User-agent: *\nDisallow: /\n")
     write(os.path.join(dist, "source.json"), json.dumps(manifest["source"], sort_keys=True) + "\n")
     return len(talks)

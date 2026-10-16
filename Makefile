@@ -7,7 +7,7 @@ PORT ?= 8000
 PARALLEL ?= 3
 export MM_RAW SITE_BASE CF_BEACON_TOKEN
 
-.PHONY: fetch records opus-pass data site serve clean
+.PHONY: fetch records opus-pass data site embed serve clean
 
 fetch:
 	$(PY) -m pipeline fetch
@@ -24,6 +24,10 @@ data: fetch records
 site: records
 	$(PY) -m pipeline site
 	$(PAGEFIND) --site dist
+
+# Semantic index into dist/semantic (run after site, which wipes dist). Per-talk vectors cache in build/embed-cache.
+embed:
+	uv run --extra embed python -m pipeline embed $(EMBED_ARGS)
 
 serve:
 	cd dist && $(PY) -m http.server $(PORT)

@@ -6,12 +6,6 @@
   --line: #e4e1d8;
   --accent: #2f6b4f;
   --mark: #fff1a8;
-  --pagefind-ui-primary: var(--accent);
-  --pagefind-ui-text: var(--fg);
-  --pagefind-ui-background: var(--bg);
-  --pagefind-ui-border: var(--line);
-  --pagefind-ui-tag: var(--line);
-  --pagefind-ui-font: inherit;
 }
 @media (prefers-color-scheme: dark) {
   :root {
@@ -51,5 +45,17 @@ h1 { font-size: 1.6rem; line-height: 1.25; margin: 1.2rem 0 0.4rem; overflow-wra
 .list li a { display: block; overflow-wrap: anywhere; }
 .list small { color: var(--muted); }
 .search { padding-bottom: 3rem; }
-.pagefind-ui__result-link { overflow-wrap: anywhere; }
 mark { background: var(--mark); color: inherit; }
+.modes { display: inline-flex; flex: 0 0 auto; border: 1px solid var(--line); border-radius: 6px; overflow: hidden; }
+.modes[hidden] { display: none; }
+.modes button { font: inherit; font-size: 0.95rem; padding: 6px 12px; border: 0; background: var(--bg); color: var(--muted); cursor: pointer; }
+.modes button[aria-pressed="true"] { background: var(--accent); color: var(--bg); }
+.results { list-style: none; padding: 0; margin: 0; }
+.hit { padding: 12px 0; border-bottom: 1px solid var(--line); }
+.hit-title { display: block; font-weight: 600; overflow-wrap: anywhere; }
+.hit small { color: var(--muted); }
+.passages { list-style: none; padding: 0; margin: 6px 0 0; }
+.passages li { margin: 6px 0; font-size: 0.95rem; overflow-wrap: anywhere; }
+.passages .ts { font-variant-numeric: tabular-nums; text-decoration: none; margin-right: 6px; }
+.passages .watch { text-decoration: none; margin-right: 6px; font-size: 0.85rem; }
+.more { font: inherit; margin: 16px 0; padding: 6px 14px; border: 1px solid var(--line); border-radius: 6px; background: var(--bg); color: var(--accent); cursor: pointer; }
