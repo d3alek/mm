@@ -1,0 +1,6 @@
+[project]
+name = "mm-pipeline"
+version = "0.1.0"
+description = "Medical Medium transcripts: zip -> normalized records -> static search site"
+requires-python = ">=3.11"
+dependencies = []

@@ -1,0 +1,55 @@
+:root {
+  color-scheme: light dark;
+  --bg: #fbfaf7;
+  --fg: #1f1f1d;
+  --muted: #6b6a64;
+  --line: #e4e1d8;
+  --accent: #2f6b4f;
+  --mark: #fff1a8;
+  --pagefind-ui-primary: var(--accent);
+  --pagefind-ui-text: var(--fg);
+  --pagefind-ui-background: var(--bg);
+  --pagefind-ui-border: var(--line);
+  --pagefind-ui-tag: var(--line);
+  --pagefind-ui-font: inherit;
+}
+@media (prefers-color-scheme: dark) {
+  :root {
+    --bg: #161715;
+    --fg: #e6e4dc;
+    --muted: #9b998f;
+    --line: #2f302c;
+    --accent: #7fc4a0;
+    --mark: #5a4f12;
+  }
+}
+* { box-sizing: border-box; }
+body {
+  margin: 0;
+  background: var(--bg);
+  color: var(--fg);
+  font: 17px/1.6 system-ui, -apple-system, "Segoe UI", Roboto, sans-serif;
+}
+a { color: var(--accent); }
+main, .top { max-width: 46rem; margin: 0 auto; padding: 0 16px; }
+.top { display: flex; justify-content: space-between; align-items: center; padding-top: 12px; padding-bottom: 12px; border-bottom: 1px solid var(--line); }
+.top .brand { font-weight: 700; color: var(--fg); text-decoration: none; }
+.top nav a { margin-left: 16px; text-decoration: none; }
+h1 { font-size: 1.6rem; line-height: 1.25; margin: 1.2rem 0 0.4rem; overflow-wrap: anywhere; }
+.meta, .source, .hint, .count, .aliases { color: var(--muted); font-size: 0.9rem; }
+.source { overflow-wrap: anywhere; }
+.talk h3 { font-size: 0.85rem; margin: 1.4rem 0 0.2rem; scroll-margin-top: 8px; }
+.talk h3 .ts { font-variant-numeric: tabular-nums; text-decoration: none; }
+.talk h3:target + p { background: var(--mark); }
+.talk p { margin: 0; }
+.filters { display: flex; flex-wrap: wrap; gap: 8px; margin: 12px 0; }
+.filters input, .filters select { font: inherit; font-size: 0.95rem; padding: 6px 8px; border: 1px solid var(--line); border-radius: 6px; background: var(--bg); color: var(--fg); max-width: 100%; }
+.filters input { flex: 1 1 14rem; }
+.filters select { flex: 1 1 10rem; }
+.list { list-style: none; padding: 0; margin: 0 0 3rem; }
+.list li { padding: 8px 0; border-bottom: 1px solid var(--line); }
+.list li a { display: block; overflow-wrap: anywhere; }
+.list small { color: var(--muted); }
+.search { padding-bottom: 3rem; }
+.pagefind-ui__result-link { overflow-wrap: anywhere; }
+mark { background: var(--mark); color: inherit; }
