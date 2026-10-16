@@ -1,0 +1,8 @@
+{"source": "artifact VB6znmgFFZBYRGviYB7DoR db collection verdicts, read 2026-10-16; ids are <chunk_id>-<row index in adjudicate.csv>; gold = answer key right, model = a contestant edit is right, custom = Alek's own correction", "verdicts": {
+"n001-16": "gold", "n001-30": "gold", "n003-31": "gold", "n005-32": "gold", "n007-17": "gold", "n008-33": "gold", "n013-7": "gold", "n014-34": "gold", "n016-8": "gold", "n018-35": "gold", "n026-0": "gold",
+"n029-49": "model", "n029-50": "model", "n033-51": "model", "n033-52": "model", "n034-9": "gold", "n037-37": "gold", "n042-53": "model",
+"v000-38": "gold", "v001-10": "gold", "v001-11": "gold", "v003-1": "gold", "v003-39": "gold", "v004-54": "model", "v008-40": "gold", "v008-55": "gold", "v009-2": "gold", "v011-56": "model", "v012-3": "gold", "v016-41": "gold", "v021-57": "model", "v023-45": "gold",
+"v024-20": {"custom": "mercury"}, "v024-58": "model", "v025-42": "gold", "v026-59": "gold", "v030-21": "gold", "v030-22": "gold", "v031-43": "gold", "v032-44": "gold", "v033-46": "model", "v033-47": "model", "v034-23": "gold", "v034-24": "gold", "v034-25": "gold", "v038-12": "gold", "v039-26": "gold", "v041-4": "gold",
+"v044-13": {"custom": "oregano, grapefruit"},
+"x012-48": "gold", "x021-27": "gold", "x023-5": "gold", "x036-14": "gold", "x043-28": "gold", "x043-29": "gold", "x044-15": "gold", "x049-6": "gold"
+}}

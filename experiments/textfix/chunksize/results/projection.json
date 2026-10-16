@@ -1,0 +1,55 @@
+{
+ "chunks_total": 45950,
+ "chunks_done": 7878,
+ "words_total": 11582959,
+ "words_remaining": 9601106,
+ "sizes": {
+  "250": {
+   "calls": 38072,
+   "wall_h_3way": 19.5,
+   "wall_h_6way": 9.8,
+   "list_usd": 508
+  },
+  "1000": {
+   "calls": 10317,
+   "wall_h_3way": 5.9,
+   "wall_h_6way": 3.0,
+   "list_usd": 240
+  },
+  "2000": {
+   "calls": 5561,
+   "wall_h_3way": 3.6,
+   "wall_h_6way": 1.8,
+   "list_usd": 194
+  },
+  "4000": {
+   "calls": 3251,
+   "wall_h_3way": 2.5,
+   "wall_h_6way": 1.2,
+   "list_usd": 172
+  },
+  "8000": {
+   "calls": 2125,
+   "wall_h_3way": 1.9,
+   "wall_h_6way": 1.0,
+   "list_usd": 161
+  },
+  "16000": {
+   "calls": 1495,
+   "wall_h_3way": 1.6,
+   "wall_h_6way": 0.8,
+   "list_usd": 155
+  }
+ },
+ "model": {
+  "wall_s": [
+   5.282,
+   1.015
+  ],
+  "usd": [
+   0.00967,
+   0.01459
+  ],
+  "note": "a + b per 1k words, fitted on per-run means weighted by calls"
+ }
+}

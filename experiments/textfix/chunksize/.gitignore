@@ -1,0 +1,8 @@
+# raw outputs and windows carry transcript text; only summaries are committed
+results/*
+!results/summary.json
+!results/table.md
+!results/aggregate.json
+!results/projection.json
+cli_cwd/
+__pycache__/
