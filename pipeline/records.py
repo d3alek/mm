@@ -66,10 +66,16 @@ def load_links(path: str = LINKS_CSV) -> dict[str, dict]:
 
 
 def build(zip_path: str, out_dir: str, etag: str | None, links_path: str = LINKS_CSV) -> dict:
-    rules = fix.load()
-    recs = [fix.apply(normalize.record(p, parse.parse_srt(t)), rules) for p, t in parse.iter_srt(zip_path)]
+    recs = [normalize.record(p, parse.parse_srt(t)) for p, t in parse.iter_srt(zip_path)]
     n_files = len(recs)
     recs = dedupe(recs)
+    rules = fix.load()
+    applied = skipped = 0
+    for r in recs:
+        edits = fix.load_fixes(r["id"])
+        n_skipped = fix.apply(r, rules, edits)[1]
+        applied += len(edits) - n_skipped
+        skipped += n_skipped
     links = load_links(links_path)
     for r in recs:
         r["video"] = next((links[k] for k in (r["id"], r["path"], *r["aliases"]) if k in links), None)
@@ -97,6 +103,9 @@ def build(zip_path: str, out_dir: str, etag: str | None, links_path: str = LINKS
         "repeat_collapsed": sum("repeat_collapsed" in r["flags"] for r in recs),
         "empty": sum("empty" in r["flags"] for r in recs),
         "glossary_rules": len(rules),
+        "glossary_fixed": sum("glossary_fixed" in r["flags"] for r in recs),
+        "opus_edits": applied,
+        "opus_edits_skipped": skipped,
         "video_links": sum(r["video"] is not None for r in recs),
     }
     manifest = {
