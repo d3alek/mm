@@ -165,7 +165,7 @@ function fuse(sem, kw) {
   kw.forEach((k, r) => {
     const add = 1 / (RRF_K + r + 1);
     const hit = k.start != null && items.find((s) => s.talk === k.talk && !s.kw && s.start != null && k.start < s.end && k.end > s.start);
-    if (hit) Object.assign(hit, { rrf: hit.rrf + add, kw: true, excerpt: k.excerpt, info: k.info });
+    if (hit) Object.assign(hit, { rrf: hit.rrf + add, kw: true, excerpt: k.excerpt, excerptAt: k.start, info: k.info });
     else items.push({ ...k, kw: true, rrf: add });
   });
   return items.sort((a, b) => b.rrf - a.rrf);
@@ -210,10 +210,15 @@ function stem(w) {
 }
 
 // The SNIPPET_WORDS-word window of the passage with the most query words, query words marked.
+// Returns the section second of the window's first query word, so links land where the words are.
 async function fillSnippet(el, p, query) {
   const secs = await sections(p.talk);
   const from = Math.floor(p.start / SECTION_S) * SECTION_S;
-  const words = secs.filter((s) => s.sec >= from && s.sec < p.end).map((s) => s.text).join(" ").split(/\s+/).filter(Boolean);
+  const words = [], wordSec = [];
+  for (const s of secs) {
+    if (s.sec < from || s.sec >= p.end) continue;
+    for (const w of s.text.split(/\s+/).filter(Boolean)) { words.push(w); wordSec.push(s.sec); }
+  }
   const want = new Set(terms(query).map(stem));
   const hitAt = words.map((w) => (want.has(stem(w.toLowerCase())) ? 1 : 0));
   let best = 0, bestScore = -1, cur = 0;
@@ -232,6 +237,8 @@ async function fillSnippet(el, p, query) {
     if (i < slice.length - 1) el.append(" ");
   });
   if (best + SNIPPET_WORDS < words.length) el.append(" …");
+  const first = hitAt.indexOf(1, best);
+  return wordSec[first >= 0 && first < best + SNIPPET_WORDS ? first : best];
 }
 
 // ---------- Rendering ----------
@@ -264,16 +271,23 @@ function renderTalk(g, query, talkMeta) {
   const ul = el("ul", { className: "passages" });
   for (const p of g.passages) {
     const row = el("li");
+    let pointAt = () => {};
     if (p.start != null) {
-      const sec = Math.floor(p.start / SECTION_S) * SECTION_S;
-      row.append(el("a", { className: "ts", href: `${base}t/${g.talk}/#t${sec}` }, clock(p.start)));
-      if (t && t[6] && AT_TIME[t[6]]) {
-        row.append(el("a", { className: "watch", href: AT_TIME[t[6]](t[7], p.start), target: "_blank", rel: "noopener", title: "Watch from here" }, "▶"));
-      }
+      const ts = row.appendChild(el("a", { className: "ts" }));
+      const watch = t && t[6] && AT_TIME[t[6]]
+        ? row.appendChild(el("a", { className: "watch", target: "_blank", rel: "noopener", title: "Watch from here" }, "▶"))
+        : null;
+      pointAt = (section) => {
+        const at = Math.max(section, p.start);
+        ts.href = `${base}t/${g.talk}/#t${section}`;
+        ts.textContent = clock(at);
+        if (watch) watch.href = AT_TIME[t[6]](t[7], at);
+      };
+      pointAt(p.excerptAt ?? Math.floor(p.start / SECTION_S) * SECTION_S);
     }
     const snip = el("span", { className: "snip" });
     if (p.excerpt) snip.innerHTML = p.excerpt; // Pagefind's excerpt: escaped text + <mark>
-    else fillSnippet(snip, p, query).catch(() => {});
+    else fillSnippet(snip, p, query).then((section) => section != null && pointAt(section)).catch(() => {});
     row.append(snip);
     ul.append(row);
   }
