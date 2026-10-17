@@ -1,0 +1,175 @@
+{
+ "corpus_chunks": 49630,
+ "corpus": {
+  "Vimergy": {
+   "before": 1364,
+   "A_static": 1744,
+   "C_opus": 2146
+  },
+  "Medical Medium": {
+   "before": 14012,
+   "A_static": 14530,
+   "C_opus": 14683
+  },
+  "Epstein-Barr": {
+   "before": 3073,
+   "A_static": 3316,
+   "C_opus": 3328
+  },
+  "methylcobalamin": {
+   "before": 71,
+   "A_static": 119,
+   "C_opus": 120
+  },
+  "adenosylcobalamin": {
+   "before": 49,
+   "A_static": 98,
+   "C_opus": 121
+  },
+  "monolaurin": {
+   "before": 11,
+   "A_static": 31,
+   "C_opus": 12
+  },
+  "lysine": {
+   "before": 201,
+   "A_static": 215,
+   "C_opus": 219
+  },
+  "dulse": {
+   "before": 377,
+   "A_static": 396,
+   "C_opus": 438
+  },
+  "mullein": {
+   "before": 62,
+   "A_static": 65,
+   "C_opus": 66
+  },
+  "spirulina": {
+   "before": 1016,
+   "A_static": 1023,
+   "C_opus": 1026
+  },
+  "streptococcus": {
+   "before": 741,
+   "A_static": 743,
+   "C_opus": 877
+  },
+  "cytomegalovirus": {
+   "before": 252,
+   "A_static": 269,
+   "C_opus": 317
+  }
+ },
+ "sample": {
+  "Vimergy": {
+   "before": 11,
+   "A_static": 16,
+   "C_opus": 18,
+   "B_haiku": 19,
+   "B_opus": 19,
+   "D_opus": 18,
+   "gold": 19
+  },
+  "Medical Medium": {
+   "before": 43,
+   "A_static": 49,
+   "C_opus": 49,
+   "B_haiku": 50,
+   "B_opus": 50,
+   "D_opus": 49,
+   "gold": 50
+  },
+  "Epstein-Barr": {
+   "before": 14,
+   "A_static": 18,
+   "C_opus": 18,
+   "B_haiku": 19,
+   "B_opus": 19,
+   "D_opus": 18,
+   "gold": 19
+  },
+  "methylcobalamin": {
+   "before": 0,
+   "A_static": 3,
+   "C_opus": 3,
+   "B_haiku": 3,
+   "B_opus": 3,
+   "D_opus": 3,
+   "gold": 3
+  },
+  "adenosylcobalamin": {
+   "before": 2,
+   "A_static": 4,
+   "C_opus": 4,
+   "B_haiku": 4,
+   "B_opus": 4,
+   "D_opus": 4,
+   "gold": 4
+  },
+  "monolaurin": {
+   "before": 1,
+   "A_static": 4,
+   "C_opus": 1,
+   "B_haiku": 2,
+   "B_opus": 1,
+   "D_opus": 1,
+   "gold": 1
+  },
+  "lysine": {
+   "before": 4,
+   "A_static": 6,
+   "C_opus": 7,
+   "B_haiku": 7,
+   "B_opus": 8,
+   "D_opus": 8,
+   "gold": 8
+  },
+  "dulse": {
+   "before": 4,
+   "A_static": 10,
+   "C_opus": 10,
+   "B_haiku": 8,
+   "B_opus": 10,
+   "D_opus": 10,
+   "gold": 10
+  },
+  "mullein": {
+   "before": 1,
+   "A_static": 4,
+   "C_opus": 4,
+   "B_haiku": 4,
+   "B_opus": 4,
+   "D_opus": 4,
+   "gold": 4
+  },
+  "spirulina": {
+   "before": 5,
+   "A_static": 5,
+   "C_opus": 5,
+   "B_haiku": 5,
+   "B_opus": 5,
+   "D_opus": 5,
+   "gold": 5
+  },
+  "streptococcus": {
+   "before": 3,
+   "A_static": 3,
+   "C_opus": 4,
+   "B_haiku": 4,
+   "B_opus": 4,
+   "D_opus": 4,
+   "gold": 4
+  },
+  "cytomegalovirus": {
+   "before": 0,
+   "A_static": 0,
+   "C_opus": 0,
+   "B_haiku": 0,
+   "B_opus": 0,
+   "D_opus": 0,
+   "gold": 0
+  }
+ }
+}

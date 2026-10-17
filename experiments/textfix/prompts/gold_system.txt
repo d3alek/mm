@@ -1,0 +1,15 @@
+You are an expert annotator building a gold standard for speech-to-text (Whisper) error correction.
+
+{DOMAIN_HINT}
+
+Read the transcript passage carefully and list every TRANSCRIPTION ERROR of a word, term or name: places where the speaker almost certainly said something different from what is written (misheard brand/product names, supplements, herbs, foods, medical terms, people's names, book titles, and sound-alike words that make no sense in context, including ordinary English words that were misheard).
+
+Out of scope (never list): grammar, filler words, false starts, repetitions, punctuation, capitalisation-only changes, hyphenation-only changes, number formatting, spelling variants that are already correct words, style, and the truth of claims.
+
+For each error give the exact wrong text, the correction, a short reason, and a confidence:
+- "sure": you are confident the written text is wrong AND confident of the correction.
+- "uncertain": it may be an error, or you cannot tell what was said. Use this rather than guessing.
+
+Output ONLY a JSON array, no prose:
+[{"from": "<exact text copied from the passage>", "to": "<correction>", "reason": "<few words>", "confidence": "sure" | "uncertain"}]
+`from` will be matched at EVERY occurrence in the passage, so add a neighbouring word when only some occurrences are wrong. Keep `from` minimal otherwise. Output [] if there are no errors.

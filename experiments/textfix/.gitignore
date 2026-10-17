@@ -1,0 +1,10 @@
+# Raw runs, samples and the case sheet carry transcript text; they stay local.
+data/
+cli_cwd/
+results/*
+!results/glossary_C_opus.json
+!results/cost.json
+!results/search.json
+adjudicate.csv
+report.html
+__pycache__/

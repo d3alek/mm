@@ -1,0 +1,131 @@
+{
+ "haiku": {
+  "B_per_chunk": {
+   "measured": {
+    "calls": 150,
+    "in": 290339,
+    "out": 68108,
+    "wall_s": 908.2
+   },
+   "corpus_usd": 20.53,
+   "corpus_usd_batch": 10.265,
+   "corpus_wall_h_at_6": 13.7
+  },
+  "C_mining_once": {
+   "mine": {
+    "calls": 62,
+    "in": 343945,
+    "out": 406728,
+    "wall_s": 1825.6
+   },
+   "review": {
+    "calls": 21,
+    "in": 108511,
+    "out": 109342,
+    "wall_s": 464.9
+   },
+   "corpus_usd": 0.3,
+   "wall_h_at_6": 0.11
+  },
+  "D_residual": {
+   "measured": {
+    "calls": 49,
+    "in": 95362,
+    "out": 21258,
+    "wall_s": 382.9
+   },
+   "corpus_triggered_chunks": 5632,
+   "corpus_usd": 2.32,
+   "corpus_usd_batch": 1.16,
+   "corpus_wall_h_at_6": 2.0
+  }
+ },
+ "sonnet": {
+  "B_per_chunk": {
+   "measured": {
+    "calls": 150,
+    "in": 290639,
+    "out": 17251,
+    "wall_s": 773.0
+   },
+   "corpus_usd": 245.33,
+   "corpus_usd_batch": 122.665,
+   "corpus_wall_h_at_6": 11.6
+  },
+  "C_mining_once": {
+   "mine": {
+    "calls": 62,
+    "in": 344069,
+    "out": 73912,
+    "wall_s": 737.0
+   },
+   "review": {
+    "calls": 16,
+    "in": 83742,
+    "out": 37781,
+    "wall_s": 244.8
+   },
+   "corpus_usd": 1.97,
+   "wall_h_at_6": 0.05
+  },
+  "D_residual": {
+   "measured": {
+    "calls": 49,
+    "in": 95460,
+    "out": 6385,
+    "wall_s": 310.5
+   },
+   "corpus_triggered_chunks": 5632,
+   "corpus_usd": 29.28,
+   "corpus_usd_batch": 14.64,
+   "corpus_wall_h_at_6": 1.7
+  }
+ },
+ "opus": {
+  "B_per_chunk": {
+   "measured": {
+    "calls": 150,
+    "in": 290039,
+    "out": 18109,
+    "wall_s": 920.5
+   },
+   "corpus_usd": 495.46,
+   "corpus_usd_batch": 247.73,
+   "corpus_wall_h_at_6": 13.9
+  },
+  "C_mining_once": {
+   "mine": {
+    "calls": 62,
+    "in": 343821,
+    "out": 137416,
+    "wall_s": 1455.1
+   },
+   "review": {
+    "calls": 22,
+    "in": 112784,
+    "out": 73544,
+    "wall_s": 631.9
+   },
+   "corpus_usd": 6.05,
+   "wall_h_at_6": 0.1
+  },
+  "D_residual": {
+   "measured": {
+    "calls": 49,
+    "in": 95264,
+    "out": 6508,
+    "wall_s": 327.7
+   },
+   "corpus_triggered_chunks": 5632,
+   "corpus_usd": 58.76,
+   "corpus_usd_batch": 29.38,
+   "corpus_wall_h_at_6": 1.7
+  }
+ },
+ "gold_fable": {
+  "calls": 150,
+  "in": 308939,
+  "out": 39374,
+  "wall_s": 1159.1
+ }
+}

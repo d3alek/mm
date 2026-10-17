@@ -1,0 +1,361 @@
+<title>Transcript Fix Bakeoff</title>
+<meta name="claude:viewport-fit-sides" content="cover">
+<link rel="preconnect" href="https://fonts.googleapis.com">
+<link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+<link rel="stylesheet" href="https://fonts.googleapis.com/css2?family=Literata:opsz,wght@7..72,500;7..72,700&family=Atkinson+Hyperlegible:ital,wght@0,400;0,700;1,400&family=IBM+Plex+Mono:wght@400;500&display=swap">
+<style>
+/* Layout: a proofreader's report. One reading column; tables and the case sheet break wider. Corrections are drawn as proof marks: struck text, inserted text. */
+:root {
+  --paper: #f3f5f2;
+  --sheet: #ffffff;
+  --ink: #1b2629;
+  --muted: #5b6a6c;
+  --rule: #d6ddda;
+  --mark: #1f5fc4;
+  --mark-soft: #e3ecfb;
+  --strike: #a3392a;
+  --good: #23784a;
+  --warn: #9a6a12;
+  --bar: #b9c6c3;
+  --display: "Literata", Georgia, "Times New Roman", serif;
+  --body: "Atkinson Hyperlegible", system-ui, -apple-system, "Segoe UI", sans-serif;
+  --data: "IBM Plex Mono", ui-monospace, "SFMono-Regular", Menlo, monospace;
+}
+@media (prefers-color-scheme: dark) { :root:not([data-theme="light"]) {
+  --paper: #121a1c; --sheet: #192326; --ink: #e3eae8; --muted: #93a3a4; --rule: #2c3a3d;
+  --mark: #7fa9f2; --mark-soft: #1d2d47; --strike: #f08a78; --good: #6cc99a; --warn: #e2b357; --bar: #44575a;
+  color-scheme: dark } }
+:root[data-theme="dark"] {
+  --paper: #121a1c; --sheet: #192326; --ink: #e3eae8; --muted: #93a3a4; --rule: #2c3a3d;
+  --mark: #7fa9f2; --mark-soft: #1d2d47; --strike: #f08a78; --good: #6cc99a; --warn: #e2b357; --bar: #44575a;
+  color-scheme: dark }
+
+body { background: var(--paper); color: var(--ink); font: 16px/1.6 var(--body); }
+.wrap { max-width: 980px; margin: 0 auto; padding-block: 40px 80px;
+  padding-left: max(16px, env(safe-area-inset-left, 0px)); padding-right: max(16px, env(safe-area-inset-right, 0px));
+  display: grid; gap: 56px; }
+.prose { max-width: 66ch; }
+h1, h2, h3 { font-family: var(--display); font-weight: 700; line-height: 1.2; text-wrap: balance; margin: 0; }
+h1 { font-size: clamp(2rem, 5vw, 2.9rem); letter-spacing: -0.01em; }
+h2 { font-size: 1.6rem; }
+h3 { font-size: 1.15rem; }
+p { margin: 0; }
+section { display: grid; gap: 18px; min-width: 0; }
+.eyebrow { font: 500 0.78rem/1.4 var(--data); letter-spacing: 0.08em; text-transform: uppercase; color: var(--muted); }
+.lede { font-size: 1.15rem; }
+.num { font-family: var(--data); font-variant-numeric: tabular-nums; }
+del { color: var(--strike); text-decoration-thickness: 2px; }
+ins { color: var(--mark); text-decoration: none; border-bottom: 2px solid var(--mark); font-weight: 700; }
+.proof { font-family: var(--display); font-size: 1.05rem; }
+
+.verdict { background: var(--sheet); border: 1px solid var(--rule); border-radius: 6px; padding: 22px 24px; display: grid; gap: 12px; }
+.verdict ol { margin: 0; padding-left: 1.3em; display: grid; gap: 8px; }
+
+/* Chart */
+.chart { display: grid; gap: 6px; }
+.crow { display: grid; grid-template-columns: minmax(150px, 230px) 1fr; gap: 12px; align-items: center; }
+.clabel { font-size: 0.9rem; line-height: 1.25; }
+.clabel small { color: var(--muted); display: block; font-size: 0.78rem; }
+.track { position: relative; height: 26px; background: linear-gradient(to right, var(--rule) 1px, transparent 1px) 0 0 / 10% 100%; border-left: 1px solid var(--rule); }
+.bar { position: absolute; left: 0; top: 4px; height: 18px; background: var(--bar); border-radius: 0 3px 3px 0; }
+.bar.win { background: var(--mark); }
+.dot { position: absolute; top: 7px; width: 12px; height: 12px; margin-left: -6px; border-radius: 50%; background: var(--sheet); border: 2.5px solid var(--strike); }
+.bval { position: absolute; top: 3px; font: 500 0.8rem/20px var(--data); color: var(--ink); padding-left: 6px; }
+.axis { display: grid; grid-template-columns: minmax(150px, 230px) 1fr; gap: 12px; }
+.ticks { display: flex; justify-content: space-between; font: 0.72rem var(--data); color: var(--muted); }
+.legend { display: flex; flex-wrap: wrap; gap: 18px; font-size: 0.85rem; color: var(--muted); align-items: center; }
+.sw { display: inline-block; width: 22px; height: 10px; border-radius: 2px; vertical-align: middle; margin-right: 6px; background: var(--mark); }
+.sw.dotsw { width: 12px; height: 12px; border-radius: 50%; background: var(--sheet); border: 2.5px solid var(--strike); }
+.group-gap { height: 8px; }
+
+/* Tables */
+.tablebox { overflow-x: auto; background: var(--sheet); border: 1px solid var(--rule); border-radius: 6px; }
+table { border-collapse: collapse; width: 100%; font-size: 0.92rem; }
+th, td { text-align: left; padding: 9px 12px; border-bottom: 1px solid var(--rule); white-space: nowrap; }
+th { font: 500 0.74rem/1.3 var(--data); letter-spacing: 0.06em; text-transform: uppercase; color: var(--muted); }
+td.n, th.n { text-align: right; font-family: var(--data); font-variant-numeric: tabular-nums; }
+tr.best td { background: var(--mark-soft); }
+tr:last-child td { border-bottom: 0; }
+.letter { font: 700 0.8rem var(--data); color: var(--mark); }
+
+/* Findings */
+.findings { display: grid; gap: 22px; counter-reset: f; }
+.finding { display: grid; gap: 8px; padding-left: 18px; border-left: 3px solid var(--rule); }
+.finding.key { border-left-color: var(--mark); }
+.examples { display: flex; flex-wrap: wrap; gap: 8px 22px; }
+
+/* Options */
+.options { display: grid; grid-template-columns: repeat(auto-fit, minmax(260px, 1fr)); gap: 16px; }
+.option { background: var(--sheet); border: 1px solid var(--rule); border-radius: 6px; padding: 18px; display: grid; gap: 8px; align-content: start; }
+.option.rec { border-color: var(--mark); box-shadow: inset 0 0 0 1px var(--mark); }
+.pill { justify-self: start; font: 500 0.72rem var(--data); letter-spacing: 0.06em; text-transform: uppercase; padding: 2px 8px; border-radius: 99px; background: var(--mark-soft); color: var(--mark); }
+.option dl { display: grid; grid-template-columns: auto 1fr; gap: 2px 12px; margin: 4px 0 0; font-size: 0.9rem; }
+.option dt { color: var(--muted); }
+.option dd { margin: 0; font-family: var(--data); font-variant-numeric: tabular-nums; }
+
+/* Case sheet */
+.sheet-head { display: flex; flex-wrap: wrap; justify-content: space-between; gap: 12px; align-items: baseline; }
+.progress { font: 500 0.9rem var(--data); color: var(--muted); }
+.status { font-size: 0.88rem; color: var(--warn); }
+.cases { display: grid; gap: 12px; }
+.case { background: var(--sheet); border: 1px solid var(--rule); border-radius: 6px; padding: 16px 18px; display: grid; gap: 10px; min-width: 0; }
+.case.done { border-color: var(--good); }
+.ctx { font-family: var(--display); font-size: 1.05rem; overflow-wrap: anywhere; }
+.ctx mark { background: var(--mark-soft); color: var(--ink); padding: 0 3px; border-radius: 3px; }
+.meta { display: flex; flex-wrap: wrap; gap: 6px 16px; font-size: 0.86rem; color: var(--muted); }
+.claims { display: grid; gap: 4px; font-size: 0.92rem; }
+.claim b { font-weight: 700; }
+.claim .who { font: 0.76rem var(--data); color: var(--muted); }
+.choices { display: flex; flex-wrap: wrap; gap: 8px; align-items: center; }
+.choices button { font: 500 0.88rem var(--body); padding: 7px 12px; border-radius: 5px; border: 1px solid var(--rule); background: var(--paper); color: var(--ink); cursor: pointer; }
+.choices button:hover { border-color: var(--mark); }
+.choices button[aria-pressed="true"] { background: var(--mark); border-color: var(--mark); color: var(--sheet); }
+.choices input { font: 0.9rem var(--body); padding: 7px 10px; border-radius: 5px; border: 1px solid var(--rule); background: var(--paper); color: var(--ink); min-width: 0; flex: 1 1 180px; }
+button:focus-visible, input:focus-visible { outline: 2px solid var(--mark); outline-offset: 2px; }
+.filter { display: flex; flex-wrap: wrap; gap: 8px; }
+.filter button { font: 500 0.82rem var(--data); padding: 5px 10px; border-radius: 99px; border: 1px solid var(--rule); background: var(--sheet); color: var(--muted); cursor: pointer; }
+.filter button[aria-pressed="true"] { color: var(--mark); border-color: var(--mark); }
+
+ul.limits { margin: 0; padding-left: 1.2em; display: grid; gap: 8px; }
+footer { color: var(--muted); font-size: 0.85rem; }
+@media (max-width: 560px) {
+  .crow, .axis { grid-template-columns: 1fr; gap: 2px; }
+  .axis > :first-child { display: none; }
+}
+@media (prefers-reduced-motion: no-preference) { .bar { transition: width .4s ease; } }
+</style>
+
+<main class="wrap">
+  <header class="prose" style="display:grid;gap:14px">
+    <div class="eyebrow">mm · Whisper text-fix bakeoff · 150 chunks · 16 Oct 2026</div>
+    <h1>Opus reading every chunk fixes 94% of transcription errors. Glossaries fix about half.</h1>
+    <p class="lede">We tested four ways to repair Whisper mistakes in the Medical Medium transcripts, each with Haiku, Sonnet and Opus. Fable 5.1, which was not a contestant, wrote the answer key: 219 confirmed errors across 150 sample chunks.</p>
+  </header>
+
+  <section class="verdict" aria-labelledby="rec">
+    <div class="eyebrow">Recommendation</div>
+    <h2 id="rec">Run Opus over every chunk, with an Opus-written glossary in front</h2>
+    <ol>
+      <li><b>Opus writes the glossary once</b> from the corpus's rare words, for about $6. Its glossary was the only one with zero wrong fixes in the sample, and 149 of 149 sampled corpus-wide replacements were right.</li>
+      <li><b>Opus then reads every chunk</b> and returns small edits, never rewritten text. This is the only setup that catches ordinary words misheard in context, which are most of the errors.</li>
+      <li><b>Edits are stored as a reviewable list</b> (file, cue, from, to). Repeated term fixes move into the glossary, so later updates need fewer model calls.</li>
+    </ol>
+    <p>Cost for the full 12.5M words is about $250 with batch pricing, or roughly 14 hours on the Claude subscription through the CLI. Opus alone without the glossary scores the same (F1 .951 vs .949); the glossary is there for consistency across the corpus, not for accuracy.</p>
+  </section>
+
+  <section aria-labelledby="chart-h">
+    <div class="prose" style="display:grid;gap:8px">
+      <h2 id="chart-h">Overall score, and the errors glossaries cannot see</h2>
+      <p>Bars show F1, which balances fixing real errors against breaking correct text. The red ring marks recall on ordinary misheard words, like <span class="proof"><del>flooding</del> <ins>floating</ins> around</span>. Every glossary scores zero there.</p>
+    </div>
+    <div class="legend"><span><span class="sw"></span>F1, all errors</span><span><span class="sw dotsw"></span>recall on ordinary misheard words</span></div>
+    <div class="chart" id="chart"></div>
+    <div class="axis"><span></span><div class="ticks num"><span>0</span><span>.2</span><span>.4</span><span>.6</span><span>.8</span><span>1</span></div></div>
+  </section>
+
+  <section aria-labelledby="table-h">
+    <h2 id="table-h">Full scores</h2>
+    <p class="prose">Precision is the share of edits that were right. Recall is the share of real errors fixed. Harm counts edits that changed correct text or used the wrong fix. "Random" is recall on the 50 random chunks, the closest stand-in for the real corpus.</p>
+    <div class="tablebox"><table id="scores">
+      <thead><tr><th>Setup</th><th>Model</th><th class="n">Fixed</th><th class="n">Missed</th><th class="n">Harm</th><th class="n">Precision</th><th class="n">Recall</th><th class="n">F1</th><th class="n">Random</th><th class="n">Terms</th><th class="n">Ordinary</th></tr></thead>
+      <tbody></tbody>
+    </table></div>
+  </section>
+
+  <section aria-labelledby="find-h">
+    <h2 id="find-h">Where one approach beats another</h2>
+    <div class="findings prose">
+      <div class="finding key">
+        <h3>Ordinary words misheard in context decide the result</h3>
+        <p>These are real English words, so nothing flags them as unusual. Only a model reading the sentence notices. Opus caught 95% of them; Haiku 60%, Sonnet 70%, every glossary 0%.</p>
+        <div class="examples proof"><span>got rid of <del>fat</del> <ins>that</ins></span><span>it's all been <del>flooding</del> <ins>floating</ins> around</span></div>
+      </div>
+      <div class="finding key">
+        <h3>One "known" glossary entry was wrong everywhere</h3>
+        <p>The earlier scan listed "monolating" as monolaurin. In all 23 corpus hits it is the Mono Eating Cleanse. The static glossary broke every one and inflated monolaurin search hits from 11 to 31 chunks. Opus's glossary review caught it; Haiku's kept the wrong fix.</p>
+        <div class="examples proof"><span>the <del>monolating</del> <ins>mono eating</ins> cleanse</span></div>
+      </div>
+      <div class="finding">
+        <h3>Names come in more spellings than any list holds</h3>
+        <p>Vimergy alone appears in dozens of forms. Mechanical mining even mapped one misspelling onto another. Models recognise the brand from context.</p>
+        <div class="examples proof"><span><del>Vimor G</del> <ins>Vimergy</ins> zinc</span><span><del>Methylmeme</del> <ins>Medical Medium</ins> information</span><span><del>Z-Lite</del> <ins>zeolite</ins></span></div>
+      </div>
+      <div class="finding">
+        <h3>Cheaper models over-edit or guess the wrong fix</h3>
+        <p>Sonnet changed correct text 25 times. Haiku often picked a plausible but wrong term. Opus agreed with itself on 72% of edits across two runs, against about 55% for the others.</p>
+        <div class="examples proof"><span>Sonnet: <del>radical</del> <ins>rancid</ins> fats</span><span>Haiku: <del>mercer</del> <ins>Mercury</ins> (was MRSA)</span><span>Haiku: <del>problins</del> <ins>probiotics</ins> (was propolis)</span></div>
+      </div>
+      <div class="finding">
+        <h3>Where the glossary is better: the same answer every time</h3>
+        <p>A glossary makes identical edits on every run and can be read and corrected by hand. The Opus glossary made 6,558 corpus edits with no judged errors and lifted "Vimergy" search hits from 1,364 to 2,146 chunks.</p>
+      </div>
+    </div>
+  </section>
+
+  <section aria-labelledby="opt-h">
+    <h2 id="opt-h">Options for the full corpus</h2>
+    <div class="options">
+      <div class="option rec"><span class="pill">Recommended</span><h3>Opus glossary + Opus on every chunk</h3><p>Highest quality measured. Catches misheard ordinary words.</p><dl><dt>F1</dt><dd>.949</dd><dt>Cost</dt><dd>~$250 batch</dd><dt>Time</dt><dd>~14 h at 6 parallel</dd></dl></div>
+      <div class="option"><span class="pill">Cheaper</span><h3>Opus glossary + Opus on flagged chunks</h3><p>Model reads only the 11% of chunks with an unusual word left over. Misses most ordinary mishearings.</p><dl><dt>F1</dt><dd>.812</dd><dt>Cost</dt><dd>~$35 batch</dd><dt>Time</dt><dd>~2 h</dd></dl></div>
+      <div class="option"><span class="pill">Cheapest</span><h3>Opus glossary only</h3><p>Deterministic and auditable, no errors in the sample, but fixes only about half of real errors.</p><dl><dt>F1</dt><dd>.699</dd><dt>Cost</dt><dd>~$6 once</dd><dt>Time</dt><dd>minutes</dd></dl></div>
+    </div>
+  </section>
+
+  <section aria-labelledby="adj-h">
+    <div class="sheet-head">
+      <h2 id="adj-h">Cases for you to settle</h2>
+      <span class="progress" id="progress"></span>
+    </div>
+    <p class="prose">These are cases where the answer key and the models disagree. Mostly the answer key found an error the models missed, and sometimes a model made a fix the key rejected. Pick who is right. Your answers save as you go, and I will rescore against them.</p>
+    <div class="filter" id="filter" role="group" aria-label="Show cases">
+      <button type="button" data-f="open" aria-pressed="true">Open</button>
+      <button type="button" data-f="all" aria-pressed="false">All</button>
+      <button type="button" data-f="done" aria-pressed="false">Settled</button>
+    </div>
+    <p class="status" id="status" hidden></p>
+    <div class="cases" id="cases"></div>
+  </section>
+
+  <section aria-labelledby="lim-h" class="prose">
+    <h2 id="lim-h">How much to trust this</h2>
+    <ul class="limits">
+      <li>The sample is small. Only 26 confirmed errors fall in the random chunks, so score gaps under about .03 are noise. Opus alone and Opus with a glossary are a tie.</li>
+      <li>All four models come from one family. Graded by Opus's own answer key, Opus scored .993; graded by Fable, .951. Fable may share some of Opus's blind spots.</li>
+      <li>Scores are not yet adjusted for your answers above. Some answer-key items are arguably out of scope, like "golden seal" to "goldenseal".</li>
+      <li>Costs come from CLI runs, which add about 40% overhead tokens. A direct API run with caching would cost roughly 0.6× these figures.</li>
+    </ul>
+  </section>
+
+  <footer>Method, prompts and raw outputs: <span class="num">experiments/textfix/</span> on branch <span class="num">worktree-proposal</span> in ~/code/mm.</footer>
+</main>
+
+<script>
+const DATA = /*DATA*/null;
+const f3 = v => v == null ? "–" : v.toFixed(3).replace(/^0/, "");
+const pct = v => v == null ? 0 : Math.max(0, Math.min(1, v)) * 100;
+
+(function chart() {
+  const el = document.getElementById("chart");
+  let last = null;
+  for (const a of DATA.arms) {
+    if (last && last !== a.letter) { const g = document.createElement("div"); g.className = "group-gap"; el.append(g); }
+    last = a.letter;
+    const s = a.all;
+    const row = document.createElement("div"); row.className = "crow";
+    const lab = document.createElement("div"); lab.className = "clabel";
+    lab.innerHTML = `<span class="letter">${a.letter}</span> ${a.model === "—" ? "Script only" : a.model}<small></small>`;
+    lab.querySelector("small").textContent = a.label;
+    const tr = document.createElement("div"); tr.className = "track";
+    const win = a.key === "B_opus" || a.key === "E_opus";
+    tr.innerHTML = `<div class="bar${win ? " win" : ""}" style="width:${pct(s.F1)}%"></div><div class="dot" style="left:${pct(s.R_common)}%" title="Ordinary-word recall ${f3(s.R_common)}"></div><span class="bval" style="left:${pct(s.F1)}%">${f3(s.F1)}</span>`;
+    tr.setAttribute("aria-label", `F1 ${f3(s.F1)}, ordinary-word recall ${f3(s.R_common)}`);
+    row.append(lab, tr); el.append(row);
+  }
+})();
+
+(function table() {
+  const tb = document.querySelector("#scores tbody");
+  for (const a of DATA.arms) {
+    const s = a.all, tr = document.createElement("tr");
+    if (a.key === "B_opus" || a.key === "E_opus") tr.className = "best";
+    const cells = [`<span class="letter">${a.letter}</span> `, a.model, s.TP, s.FN, s.harm_changed_correct + s.harm_wrong_target, f3(s.P), f3(s.R), f3(s.F1), f3(a.random_R), f3(s.R_term), f3(s.R_common)];
+    tr.innerHTML = cells.map((c, i) => `<td class="${i > 1 ? "n" : ""}">${c}</td>`).join("");
+    tr.cells[0].append(a.label);
+    tb.append(tr);
+  }
+})();
+
+const verdicts = {};
+let db = null, filterMode = "open", readOnly = false;
+const statusEl = document.getElementById("status");
+function showStatus(msg) { statusEl.textContent = msg; statusEl.hidden = !msg; }
+
+function parseContestants(s) {
+  return s.split(/;\s*(?=[^;]*<=)/).map(part => {
+    const [text, who] = part.split("<=").map(x => x.trim());
+    return { text, who: (who || "").replace(/_/g, " ") };
+  });
+}
+
+function ctxHtml(ctx) {
+  const esc = t => t.replace(/[&<>"]/g, c => ({ "&": "&amp;", "<": "&lt;", ">": "&gt;", '"': "&quot;" }[c]));
+  return esc(ctx).replace(/\[\s*(.+?)\s*\]/, "<mark>$1</mark>");
+}
+
+function renderCases() {
+  const box = document.getElementById("cases");
+  box.textContent = "";
+  let done = 0;
+  for (const r of DATA.adjudicate) if (verdicts[r.id]) done++;
+  document.getElementById("progress").textContent = `${done} of ${DATA.adjudicate.length} settled`;
+  for (const r of DATA.adjudicate) {
+    const v = verdicts[r.id];
+    if (filterMode === "open" && v) continue;
+    if (filterMode === "done" && !v) continue;
+    const c = document.createElement("article"); c.className = "case" + (v ? " done" : "");
+    const claims = parseContestants(r.contestants).map(x =>
+      `<div class="claim">Models: <b></b> <span class="who"></span></div>`).join("");
+    c.innerHTML = `<div class="ctx">${ctxHtml(r.context)}</div>
+      <div class="claims"><div class="claim">Answer key: <b class="gold"></b></div>${claims}</div>
+      <div class="choices">
+        <button type="button" data-c="gold">Answer key is right</button>
+        <button type="button" data-c="asis">Leave as transcribed</button>
+        <button type="button" data-c="model">A model is right</button>
+        <input type="text" aria-label="Your correction" placeholder="Or type the right text">
+      </div>
+      <div class="meta"><span class="num"></span><span></span></div>`;
+    c.querySelector(".gold").textContent = r.gold || "(delete)";
+    parseContestants(r.contestants).forEach((x, i) => {
+      const el = c.querySelectorAll(".claims .claim")[i + 1];
+      el.querySelector("b").textContent = x.text;
+      el.querySelector(".who").textContent = x.who;
+    });
+    const meta = c.querySelectorAll(".meta span");
+    meta[0].textContent = r.id;
+    meta[1].textContent = `${r.n} setups disagree with the key`;
+    const input = c.querySelector("input"); input.id = "fix-" + r.id;
+    if (v && v.text) input.value = v.text;
+    for (const b of c.querySelectorAll("button")) {
+      b.setAttribute("aria-pressed", String(v?.choice === b.dataset.c));
+      b.disabled = readOnly;
+      b.addEventListener("click", () => save(r.id, b.dataset.c, input.value.trim()));
+    }
+    input.disabled = readOnly;
+    input.addEventListener("change", () => { if (input.value.trim()) save(r.id, "custom", input.value.trim()); });
+    box.append(c);
+  }
+  if (!box.children.length) {
+    const p = document.createElement("p"); p.className = "prose";
+    p.textContent = filterMode === "open" ? "All cases are settled. Thank you." : "Nothing here yet.";
+    box.append(p);
+  }
+}
+
+async function save(id, choice, text) {
+  if (!db) { showStatus("Answers can't be saved in this view. Open the page on claude.ai while signed in."); return; }
+  const body = { choice, text: text || "", at: new Date().toISOString() };
+  verdicts[id] = body; renderCases();
+  try { await db.doc("verdicts/" + id).set(body); showStatus(""); }
+  catch (e) {
+    if (e && e.code === "invalid_argument") { readOnly = true; showStatus("You can view these cases but not answer them."); renderCases(); }
+    else showStatus("That answer didn't save. Check the connection and pick it again.");
+  }
+}
+
+document.getElementById("filter").addEventListener("click", e => {
+  const b = e.target.closest("button"); if (!b) return;
+  filterMode = b.dataset.f;
+  for (const x of e.currentTarget.querySelectorAll("button")) x.setAttribute("aria-pressed", String(x === b));
+  renderCases();
+});
+
+renderCases();
+(async () => {
+  try { db = await window.claude?.use?.("db"); } catch { db = null; }
+  if (!db) { showStatus("Saving needs the claude.ai viewer. You can still read every case."); return; }
+  db.collection("verdicts").onSnapshot(snap => {
+    for (const d of snap.docs) verdicts[d.id] = d.data();
+    renderCases();
+  }, () => showStatus("Live updates stopped. Reload the page to see saved answers."));
+})();
+</script>
